@@ -1,0 +1,41 @@
+"Predatorlevel","Predator","TL","SETL","RefNo","Remark","MaxLength","MinLength","TS"
+2,"amphipods",2.285,0.53,12692,"Based on estimate for several species of amphipods.",NA,NA,NA
+1,"birds",3.6,0.62,NA,"Mean for sea and shore birds in Food III.",NA,NA,NA
+2,"bony fish",3.5,0.8,NA,"Global mean, associated with large s.e. to reflect uncertainty.",NA,NA,NA
+1,"cnidarians",2.5,0.52,NA,"Mean of jellyfish/hydroids, sea anemones and corals",NA,NA,NA
+2,"copepods",2,0,12671,"Estimate based overwhelmingly on harpacticoids.",NA,NA,NA
+2,"crabs",2.5,0.6,12640,"Based on estimate for mainly Portunidae and Scyllaridae.",30,4,NA
+1,"crustaceans",2.3,0.4,NA,"Mean of planktonic and benthic forms.",NA,NA,NA
+1,"echinoderms",2.4,0.35,NA,"Mean of sea cucumber, sea urchins and sea stars in Food III.",NA,NA,NA
+2,"euphausiids",2.2,0.4,12622,"Assumed, based on diet composition consisting of 80% phytoplankton and 20% herbivorous zooplankton.",6,2,NA
+1,"finfish",3.5,0.8,NA,"Global mean, associated with large s.e. to reflect uncertainty.",NA,NA,NA
+2,"fish (early stages)",3.5,0.8,NA,"Global mean, associated with large s.e. to reflect uncertainty.",0.340000003576279,0.0500000007450581,NA
+2,"gastropods",2.37,0.58,12692,"Based on various species in Ref. 12770.",60,1,NA
+2,"hard corals",2.34,0.61,12692,"Corals function partly as autotrophs and partly as consumers of zooplankton; the latter dominates here.",2000,0.25,NA
+1,"herps",2.6,0.52,NA,"Mean for frogs & salamanders/newts, and turtles & other reptiles in Food III.",NA,NA,NA
+1,"insects",2.1,0.4,NA,"Assumed, based on a diet consisting of 90% primary producers and/or detritus and 10% first order consumers.",NA,NA,NA
+2,"insects",2.2,0.4,NA,"Assumed, based on a diet of 80% primary producers and/or detritus and 20% first order consumers.",NA,NA,NA
+2,"isopods",2.285,0.53,12692,"Based on estimate for several species of isopods.",NA,NA,NA
+2,"jellyfish/hydroids",3,0.28,12764,"Some hydroids (e.g. @Velella@) are partly autotrophic (Ref.12763); original troph was thus reduced from 3.16.",3.59999990463257,0.800000011920929,NA
+2,"lobsters",3.2,0.41,12645,"Based on estimate for @Panulirus argus@.",40,4,NA
+1,"mammals",4.1,0.03,NA,"Mean of dolphins and  seals/sea lions in Food III",NA,NA,NA
+1,"mollusks",2.8,0.46,NA,"Mean for chitons, gastropods, bivalves, squids, & cuttlefish/octopi in Food III.",NA,NA,NA
+2,"mysids",2.2,0.4,NA,"Value assumed the same as for euphausiids.",NA,NA,NA
+2,"n.a./other finfish",3.5,0.8,NA,"Global mean, associated with large s.e. to reflect uncertainty.",NA,NA,NA
+2,"n.a./others",NA,NA,NA,"Troph not given, as group is not used for computations.",NA,NA,NA
+2,"octopi",3.5,0.51,12660,"Based on estimate for @Octopus vulgaris@.",NA,NA,NA
+1,"others",2.4,0.5,NA,"Mean of all groups in Food II, with s.e. increased to reflect uncertainty.",NA,NA,NA
+2,"salamanders/newts",2.6,0.68,NA,"Values assumed the same as for frogs.",NA,NA,NA
+2,"sea anemones",3.4,0.5,NA,"Assumed to feed on zooplankton (TrophLab).",NA,NA,NA
+2,"sea birds",3.765,0.34,12637,"Cormorants, gannets, etc., feeding mainly on small pelagic fishes.",NA,NA,NA
+2,"sea stars",3.1,0.6,NA,"Assumed to feed mainly on bivalves; some consumption of carcasses and other detritus is assumed.",NA,NA,NA
+2,"seals/sea lions",3.97,0.043,12626,"Includes seals, sea lions, walruses, etc.",NA,NA,NA
+2,"sharks/rays",4.4,0.7,NA,"Assumed to feed on fish and benthic crustaceans (TrophLab).",NA,NA,NA
+2,"shore birds",3.362,0.81,12764,"Grebes, ducks, surf scoters, etc., feeding mainly on intertidal invertebrates.",NA,NA,NA
+2,"shrimps/prawns",2.6,0.59,12643,"Based on estimate for @Metapenaeus monoceros@ and @Penaeus monodon@.",35,3,NA
+2,"snakes",4.2,0.8,NA,"Assumed to feed on herps, fish and birds (TrophLab).",NA,NA,NA
+2,"squids/cuttlefish",3.5,0.37,12640,"Based on estimates for loliginids.",41,10,NA
+2,"stomatopods",3.085,0.64,12692,"Value for a group also including  shrimps and hermit crabs.",38,10,NA
+2,"toads/frogs",2.576,0.68,12650,"Based on  @Xenopus@ sp.; tadpoles feed on phytoplankton, the adults mainly on herbivorous insects.",12,5,NA
+2,"turtles",3.5,0.4,NA,"Assuming that carnivorous turtles feed on benthic invertebrates (TrophLab).",140,105,NA
+2,"whales/dolphins",4.18,0.024,12626,"Mean for the families Delphinidae, Phocoenidae, Platanistidae, Iniidae and Pontoporiidae.",15111,162,NA

@@ -1,0 +1,94 @@
+"FoodLevel","Food","TL","SETL","RefNo","Remark","MaxLength","MinLength","TS"
+3,"amphipods",2.285,0.53,12692,"Based on estimate for several species of amphipods.",NA,NA,NA
+3,"ascidians",2,0,NA,"Assumed to feed exclusively on primary producers and detritus.",NA,NA,NA
+3,"benth. copepods",2,0,12671,"Estimate based overwhelmingly on harpacticoids.",NA,NA,NA
+2,"benth. crust.",2.5,0.5,NA,"Mean of benthic crustacean groups in Food III.",NA,NA,NA
+3,"benthic algae/weeds",1,0,NA,"As defined by the Int'l. Biol. Prog.; includes seagrasses.",1500,0.800000011920929,NA
+2,"birds",3.6,0.62,NA,"Mean for sea and shore birds in Food III.",NA,NA,NA
+3,"bivalves",2.1,0.3,12692,"Various species in Ref. 12770.",80,1,NA
+3,"blue-green algae",1,0,NA,"As defined by the Int'l. Biol. Prog. (includes cyanobacteria and similar primary producers)",NA,NA,NA
+3,"bony fish",3.5,0.8,NA,"Global mean, associated with large s.e. to reflect uncertainty.",NA,NA,NA
+3,"brown algae",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"carcasses",3.5,0,NA,"As defined for detritus by the Int'l. Biol. Prog., TL value = 1, however changed to 3.5 as this may also pertain to dying organisms (DP)",NA,NA,NA
+2,"cephalopods",3.5,0.37,12640,"Based on estimates for loliginids.",NA,NA,NA
+3,"chitons",2.38,0.51,12692,"Estimate based on <i>Chiton  pelliserpentis</i>, <i>C. tuberculatus</i> and <i>Acanthopleura granulata</i>.",NA,NA,NA
+3,"cladocerans",2,0,NA,"Assumed to feed on a diet consisting exclusively of phytoplankton and detritus.",NA,NA,NA
+2,"cnidarians",2.5,0.52,NA,"Mean of jellyfish/hydroids, sea anemones and corals",NA,NA,NA
+3,"crabs",2.5,0.6,12640,"Based on estimate for mainly Portunidae and Scyllaridae.",30,4,NA
+3,"debris",1,0,NA,"As defined by the Int'l. Biol. Prog.; includes any associated bacteria and protozoans.",NA,NA,NA
+2,"detritus",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+1,"detritus",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"diatoms",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"dinoflagellates",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"dolphins",4.18,0.024,12626,"Mean for the families Delphinidae, Phocoenidae, Platanistidae, Iniidae and Pontoporiidae.",915,197,NA
+2,"echinoderms",2.4,0.35,NA,"Mean of sea cucumber, sea urchins and sea stars in Food III.",NA,NA,NA
+3,"euphausiids",2.2,0.4,12622,"Assumed, based on diet composition consisting of 80% phytoplankton and 20% herbivorous zooplankton.",6,2,NA
+2,"finfish",3.5,0.8,NA,"Global mean, associated with large s.e. to reflect uncertainty.",NA,NA,NA
+2,"fish (early stages)",3,0.5,NA,"Calculated mean for teleost larvae.",NA,NA,NA
+3,"fish eggs/larvae",3,0.5,NA,"Calculated mean for teleost larvae.",0.340000003576279,0.0500000007450581,NA
+3,"gastropods",2.37,0.58,12692,"Based on various species in Ref. 12770.",60,1,NA
+3,"green algae",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"hard corals",2.34,0.61,12692,"Corals function partly as autotrophs and partly as consumers of zooplankton; the latter dominates here.",2000,0.25,NA
+2,"herps",2.6,0.52,NA,"Mean for frogs & salamanders/newts, and turtles & other reptiles in Food III.",NA,NA,NA
+2,"insects",2.1,0.4,NA,"Assumed, based on a diet consisting of 90% primary producers and/or detritus and 10% first order consumers.",NA,NA,NA
+3,"insects",2.2,0.4,NA,"Assumed, based on a diet of 80% primary producers and/or detritus and 20% first order consumers.",NA,NA,NA
+3,"isopods",2.285,0.53,12692,"Based on estimate for several species of isopods.",NA,NA,NA
+3,"jellyfish/hydroids",3,0.28,12764,"Some hydroids (e.g. <i>Velella</i>) are partly autotrophic (Ref. 12763); original troph was thus reduced from 3.16.",NA,NA,NA
+2,"jellyfish/hydroids",3,0.28,12764,"Some hydroids (e.g. <i>Velella</i>) are partly autotrophic (Ref.12763); original troph was thus reduced from 3.16.",3.59999990463257,0.800000011920929,NA
+3,"lobsters",3.2,0.41,12645,"Based on estimate for <i>Panulirus argus</i>.",40,4,NA
+2,"mammals",4.1,0.03,NA,"Mean of dolphins and  seals/sea lions in Food III",NA,NA,NA
+2,"mollusks",2.8,0.46,NA,"Mean for chitons, gastropods, bivalves, squids, & cuttlefish/octopi in Food III.",NA,NA,NA
+3,"mysids",2.2,0.4,NA,"Value assumed the same as for euphausiids.",NA,NA,NA
+3,"n.a./other annelids",2.061,0.26,12671,"Estimate refers to polychaetes (>95%), nematodes (>4%) and some oligochaetes.",NA,NA,NA
+3,"n.a./other benth. crustaceans",2.5,0.5,NA,"Mean of values for benthic crustaceans; group may include hermit crabs, branchiopods, etc.",NA,NA,NA
+3,"n.a./other benth. invertebrates",2.5,0.37,NA,"Mean of euphausiids, shrimps/prawns, spiny lobsters, crabs, sea cucumber, sea urchins and sea stars in Food III",NA,NA,NA
+3,"n.a./other birds",3.56,0.58,NA,"Mean of sea birds and shore birds in Food III.",NA,NA,NA
+3,"n.a./other cephalopods",3.5,0.37,12640,"Based on estimates for loliginids.",41,10,NA
+3,"n.a./other echinoderms",2.4,0.35,NA,"Mean of values for named echinoderms.",NA,NA,NA
+3,"n.a./other finfish",3.5,0.8,NA,"Global mean, associated with large s.e. to reflect uncertainty.",NA,NA,NA
+3,"n.a./other invertebrates",2.2,0.4,NA,"Assumed based on a diet of 80% phytoplankton and 20% herbivorous zooplankton.",NA,NA,NA
+3,"n.a./other mammals",4,0.5,NA,"Mean from Ref. 12626.",15111,184,NA
+3,"n.a./other mollusks",2.6,0.5,NA,"Mean of values for 4 named groups of benthic mollusks.",NA,NA,NA
+3,"n.a./other phytoplankton",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"n.a./other plank. crustaceans",2.1,0.3,NA,"Includes hyperiidean amphipods. Troph assumes a diet consisting of 90% phytoplankton and 10% herbivorous zooplankton.",NA,NA,NA
+3,"n.a./other plank. invertebrates",2.4,0.45,NA,"Mean of ostracods, copepods, mysids, isopods, amphipods and stomatopods in Food III",NA,NA,NA
+3,"n.a./other polyps",2.6,0.5,NA,"Mean of jellyfish/hydroids, corals and sea anemones in Food III",2000,0.25,NA
+3,"n.a./other reptiles",3,0.3,NA,"Assumed value, mainly for snakes and lizards feeding on rodents and herbivorous insects.",386,150,NA
+3,"n.a./others",1.5,0.5,NA,"Assumed to be a 1:1 mix of plant and animal debris",NA,NA,NA
+1,"nekton",3.5,0.6,NA,"Mean of bony fish and squids/cuttlefish groups in Foods III.",NA,NA,NA
+3,"non-annelids",2.061,0.26,12671,"Estimate refers to polychaetes (>95%), nematodes (>4%) and some oligochaetes.",NA,NA,NA
+3,"octopi",3.5,0.51,12660,"Based on estimate for <i>Octopus vulgaris</i>.",NA,NA,NA
+3,"ostracods",2.5,0.61,12761,"Estimate based on unidentified ostracods in flooded ricefields.",NA,NA,NA
+2,"other benth. invertebrates",2.5,0.43,NA,"Mean of crustaceans and echinoderms in Food II",NA,NA,NA
+2,"other invertebrates",2.2,0.4,NA,"Assumed, based on a diet of 80% phytoplankton and 20% herbivorous zooplankton.",NA,NA,NA
+3,"other mammals",4.1,0.03,NA,"Mean of dolphins, seals and sea lions in Food III",NA,NA,NA
+2,"other plank. invertebrates",2.2,0.17,NA,"Mean of sponges, cnidarians and tunicates in Food II",NA,NA,NA
+2,"other plants",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+2,"others",2.4,0.44,NA,"Mean of all groups in Food III",NA,NA,NA
+1,"others",2.4,0.5,NA,"Mean of all groups in Food II, with s.e. increased to reflect uncertainty.",NA,NA,NA
+3,"periphyton",1,0,NA,"As defined by the Int'l. Biol. Prog.; includes 'aufwuchs'.",1500,0.800000011920929,NA
+2,"phytoplankton",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"pinnipeds",3.97,0.043,12626,"Includes seals, sea lions, walruses, etc.",260,162,NA
+3,"plank. copepods",2.1,0,NA,"Assuming a diet consisting of 90% phytoplankton and 10% herbivorous zooplankton.",NA,NA,NA
+2,"plank. crust.",2.1,0.3,NA,"Assuming a diet consisting of 90% phytoplankton and 10% herbivorous zooplankton.",NA,NA,NA
+1,"plants",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"polychaetes",2.061,0.26,12671,"Estimate refers to polychaetes (>95%), nematodes (>4%) and some oligochaetes.",NA,NA,NA
+3,"red algae",1,0,NA,"As defined by the Int'l. Biol. Prog.",NA,NA,NA
+3,"salamanders/newts",2.6,0.68,NA,"Values assumed the same as for frogs.",NA,NA,NA
+3,"sea birds",3.765,0.34,12637,"Cormorants, gannets, etc., feeding mainly on small pelagic fishes.",NA,NA,NA
+3,"sea cucumbers",2,0,12643,"Based on estimate for <i>Bohadscia marmorata</i>.",80,15,NA
+3,"sea stars/brittle stars",3.1,0.6,NA,"Assumed to feed mainly on bivalves; some consumption of carcasses and other detritus is assumed.",NA,NA,NA
+3,"sea urchins",2,0,12643,"<i>Tripneustes gratilla; Diadema setosum</i>",11,8,NA
+3,"shore birds",3.362,0.81,12764,"Grebes, ducks, surf scoters, etc., feeding mainly on intertidal invertebrates.",NA,NA,NA
+3,"shrimps/prawns",2.6,0.59,12643,"Based on estimate for <i>Metapenaeus monoceros</i> and <i>Penaeus monodon</i>.",35,3,NA
+3,"sponges",2,0,NA,"Assumed to feed exclusively on primary producers and detritus.",NA,NA,NA
+2,"sponges/tunicates",2,0,NA,"Assumed to feed exclusively on primary producers and/or detritus.",NA,NA,NA
+3,"squids/cuttlefish",3.5,0.37,12640,"Based on estimates for loliginids.",41,10,NA
+3,"stomatopods",3.085,0.64,12692,"Value for a group also including  shrimps and hermit crabs.",38,10,NA
+3,"terrestrial plants",1,0,NA,"As defined by the Int'l. Biol. Prog.; includes fruits/seeds.",1500,0.800000011920929,NA
+3,"toads/frogs",2.576,0.68,12650,"Based on  <i>Xenopus</i> sp.; tadpoles feed on phytoplankton, the adults mainly on herbivorous insects.",12,5,NA
+3,"turtles",2.1,0.3,12664,"Based on (herbivorous) marine turtles, i.e., disconsidering carnivorous species.",140,105,NA
+3,"worms",2.061,0.26,12671,"Estimate refers to polychaetes (>95%), nematodes (>4%) and some oligochaetes.",NA,NA,NA
+2,"worms",2.061,0.26,12671,"Estimate refers to polychaetes (>95%), nematodes (>4%) and some oligochaetes.",NA,NA,NA
+1,"zoobenthos",2.5,0.5,NA,"Mean of zoobenthic groups in Foods III.",NA,NA,NA
+1,"zooplankton",2.15,0.28,NA,"Mean of copepods and euphausiids in Foods III",NA,NA,NA

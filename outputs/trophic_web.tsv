@@ -1,0 +1,938 @@
+Predator	Prey
+Abudefduf taurus	Phytoplankton and Algae
+Abudefduf taurus	Chanos chanos
+Abudefduf taurus	Girella cyanea
+Abudefduf taurus	Microspathodon chrysurus
+Abudefduf taurus	Mollusks
+Abudefduf taurus	Zooplankton and Crustaceans
+Abudefduf taurus	Other Invertebrates
+Aetobatus narinari	Abudefduf taurus
+Aetobatus narinari	Ammodytes americanus
+Aetobatus narinari	Ammodytes dubius
+Aetobatus narinari	Ammodytes personatus
+Aetobatus narinari	Apogon imberbis
+Aetobatus narinari	Bairdiella chrysoura
+Aetobatus narinari	Brotula multibarbata
+Aetobatus narinari	Caranx bucculentus
+Aetobatus narinari	Chaetodon ocellatus
+Aetobatus narinari	Chanos chanos
+Aetobatus narinari	Citharichthys sordidus
+Aetobatus narinari	Coryphaenoides acrolepis
+Aetobatus narinari	Dicentrarchus labrax
+Aetobatus narinari	Engraulis japonicus
+Aetobatus narinari	Gerres cinereus
+Aetobatus narinari	Girella cyanea
+Aetobatus narinari	Heteropriacanthus cruentatus
+Aetobatus narinari	Hyporhamphus quoyi
+Aetobatus narinari	Lagodon rhomboides
+Aetobatus narinari	Leuroglossus schmidti
+Aetobatus narinari	Lutjanus argentimaculatus
+Aetobatus narinari	Microspathodon chrysurus
+Aetobatus narinari	Myliobatis freminvillei
+Aetobatus narinari	Phoxinus phoxinus
+Aetobatus narinari	Plagiotremus tapeinosoma
+Aetobatus narinari	Rhinoptera bonasus
+Aetobatus narinari	Sargocentron punctatissimum
+Aetobatus narinari	Scartella cristata
+Aetobatus narinari	Scopelosaurus harryi
+Aetobatus narinari	Selar crumenophthalmus
+Aetobatus narinari	Xyrichtys novacula
+Aetobatus narinari	Mollusks
+Ammodytes americanus	Zooplankton and Crustaceans
+Ammodytes americanus	Abudefduf taurus
+Ammodytes americanus	Chanos chanos
+Ammodytes americanus	Girella cyanea
+Ammodytes americanus	Hyporhamphus quoyi
+Ammodytes americanus	Lagodon rhomboides
+Ammodytes americanus	Leuroglossus schmidti
+Ammodytes americanus	Microspathodon chrysurus
+Ammodytes americanus	Scartella cristata
+Ammodytes americanus	Scopelosaurus harryi
+Ammodytes dubius	Abudefduf taurus
+Ammodytes dubius	Ammodytes americanus
+Ammodytes dubius	Chanos chanos
+Ammodytes dubius	Girella cyanea
+Ammodytes dubius	Hyporhamphus quoyi
+Ammodytes dubius	Lagodon rhomboides
+Ammodytes dubius	Leuroglossus schmidti
+Ammodytes dubius	Microspathodon chrysurus
+Ammodytes dubius	Phoxinus phoxinus
+Ammodytes dubius	Scartella cristata
+Ammodytes dubius	Scopelosaurus harryi
+Ammodytes dubius	Zooplankton and Crustaceans
+Ammodytes dubius	Other Invertebrates
+Ammodytes dubius	Detritus
+Ammodytes dubius	Mollusks
+Ammodytes personatus	Phytoplankton and Algae
+Ammodytes personatus	Zooplankton and Crustaceans
+Ammodytes personatus	Abudefduf taurus
+Ammodytes personatus	Ammodytes americanus
+Ammodytes personatus	Ammodytes dubius
+Ammodytes personatus	Chanos chanos
+Ammodytes personatus	Citharichthys sordidus
+Ammodytes personatus	Engraulis japonicus
+Ammodytes personatus	Gerres cinereus
+Ammodytes personatus	Girella cyanea
+Ammodytes personatus	Heteropriacanthus cruentatus
+Ammodytes personatus	Hyporhamphus quoyi
+Ammodytes personatus	Lagodon rhomboides
+Ammodytes personatus	Leuroglossus schmidti
+Ammodytes personatus	Lutjanus argentimaculatus
+Ammodytes personatus	Microspathodon chrysurus
+Ammodytes personatus	Phoxinus phoxinus
+Ammodytes personatus	Sargocentron punctatissimum
+Ammodytes personatus	Scartella cristata
+Ammodytes personatus	Scopelosaurus harryi
+Ammodytes personatus	Xyrichtys novacula
+Apogon imberbis	Abudefduf taurus
+Apogon imberbis	Ammodytes americanus
+Apogon imberbis	Ammodytes dubius
+Apogon imberbis	Ammodytes personatus
+Apogon imberbis	Bairdiella chrysoura
+Apogon imberbis	Brotula multibarbata
+Apogon imberbis	Caranx bucculentus
+Apogon imberbis	Chaetodon ocellatus
+Apogon imberbis	Chanos chanos
+Apogon imberbis	Citharichthys sordidus
+Apogon imberbis	Coryphaenoides acrolepis
+Apogon imberbis	Dicentrarchus labrax
+Apogon imberbis	Engraulis japonicus
+Apogon imberbis	Gerres cinereus
+Apogon imberbis	Girella cyanea
+Apogon imberbis	Heteropriacanthus cruentatus
+Apogon imberbis	Hyporhamphus quoyi
+Apogon imberbis	Lagodon rhomboides
+Apogon imberbis	Leuroglossus schmidti
+Apogon imberbis	Lutjanus argentimaculatus
+Apogon imberbis	Microspathodon chrysurus
+Apogon imberbis	Myliobatis freminvillei
+Apogon imberbis	Phoxinus phoxinus
+Apogon imberbis	Plagiotremus tapeinosoma
+Apogon imberbis	Rhinoptera bonasus
+Apogon imberbis	Sargocentron punctatissimum
+Apogon imberbis	Scartella cristata
+Apogon imberbis	Scopelosaurus harryi
+Apogon imberbis	Selar crumenophthalmus
+Apogon imberbis	Xyrichtys novacula
+Apogon imberbis	Zooplankton and Crustaceans
+Auxis thazard	Abudefduf taurus
+Auxis thazard	Aetobatus narinari
+Auxis thazard	Ammodytes americanus
+Auxis thazard	Ammodytes dubius
+Auxis thazard	Ammodytes personatus
+Auxis thazard	Apogon imberbis
+Auxis thazard	Bairdiella chrysoura
+Auxis thazard	Brotula multibarbata
+Auxis thazard	Caranx bucculentus
+Auxis thazard	Chaetodon ocellatus
+Auxis thazard	Chanos chanos
+Auxis thazard	Citharichthys sordidus
+Auxis thazard	Coryphaenoides acrolepis
+Auxis thazard	Dicentrarchus labrax
+Auxis thazard	Engraulis japonicus
+Auxis thazard	Galeocerdo cuvier
+Auxis thazard	Gerres cinereus
+Auxis thazard	Girella cyanea
+Auxis thazard	Gymnothorax vicinus
+Auxis thazard	Heteropriacanthus cruentatus
+Auxis thazard	Hyporhamphus quoyi
+Auxis thazard	Lagodon rhomboides
+Auxis thazard	Leuroglossus schmidti
+Auxis thazard	Lutjanus argentimaculatus
+Auxis thazard	Microspathodon chrysurus
+Auxis thazard	Myliobatis freminvillei
+Auxis thazard	Phoxinus phoxinus
+Auxis thazard	Plagiotremus tapeinosoma
+Auxis thazard	Prionotus evolans
+Auxis thazard	Rhinoptera bonasus
+Auxis thazard	Sargocentron punctatissimum
+Auxis thazard	Scartella cristata
+Auxis thazard	Scopelosaurus harryi
+Auxis thazard	Selar crumenophthalmus
+Auxis thazard	Triaenodon obesus
+Auxis thazard	Xyrichtys novacula
+Auxis thazard	Mollusks
+Auxis thazard	Zooplankton and Crustaceans
+Bairdiella chrysoura	Abudefduf taurus
+Bairdiella chrysoura	Ammodytes americanus
+Bairdiella chrysoura	Ammodytes dubius
+Bairdiella chrysoura	Ammodytes personatus
+Bairdiella chrysoura	Brotula multibarbata
+Bairdiella chrysoura	Chaetodon ocellatus
+Bairdiella chrysoura	Chanos chanos
+Bairdiella chrysoura	Citharichthys sordidus
+Bairdiella chrysoura	Dicentrarchus labrax
+Bairdiella chrysoura	Engraulis japonicus
+Bairdiella chrysoura	Gerres cinereus
+Bairdiella chrysoura	Girella cyanea
+Bairdiella chrysoura	Heteropriacanthus cruentatus
+Bairdiella chrysoura	Hyporhamphus quoyi
+Bairdiella chrysoura	Lagodon rhomboides
+Bairdiella chrysoura	Leuroglossus schmidti
+Bairdiella chrysoura	Lutjanus argentimaculatus
+Bairdiella chrysoura	Microspathodon chrysurus
+Bairdiella chrysoura	Myliobatis freminvillei
+Bairdiella chrysoura	Phoxinus phoxinus
+Bairdiella chrysoura	Rhinoptera bonasus
+Bairdiella chrysoura	Sargocentron punctatissimum
+Bairdiella chrysoura	Scartella cristata
+Bairdiella chrysoura	Scopelosaurus harryi
+Bairdiella chrysoura	Selar crumenophthalmus
+Bairdiella chrysoura	Xyrichtys novacula
+Bairdiella chrysoura	Detritus
+Bairdiella chrysoura	Zooplankton and Crustaceans
+Bairdiella chrysoura	Worms
+Bairdiella chrysoura	Phytoplankton and Algae
+Bairdiella chrysoura	Mollusks
+Brotula multibarbata	Abudefduf taurus
+Brotula multibarbata	Ammodytes americanus
+Brotula multibarbata	Ammodytes dubius
+Brotula multibarbata	Ammodytes personatus
+Brotula multibarbata	Chanos chanos
+Brotula multibarbata	Citharichthys sordidus
+Brotula multibarbata	Engraulis japonicus
+Brotula multibarbata	Gerres cinereus
+Brotula multibarbata	Girella cyanea
+Brotula multibarbata	Heteropriacanthus cruentatus
+Brotula multibarbata	Hyporhamphus quoyi
+Brotula multibarbata	Lagodon rhomboides
+Brotula multibarbata	Leuroglossus schmidti
+Brotula multibarbata	Lutjanus argentimaculatus
+Brotula multibarbata	Microspathodon chrysurus
+Brotula multibarbata	Phoxinus phoxinus
+Brotula multibarbata	Sargocentron punctatissimum
+Brotula multibarbata	Scartella cristata
+Brotula multibarbata	Scopelosaurus harryi
+Brotula multibarbata	Xyrichtys novacula
+Brotula multibarbata	Zooplankton and Crustaceans
+Caranx bucculentus	Abudefduf taurus
+Caranx bucculentus	Ammodytes americanus
+Caranx bucculentus	Ammodytes dubius
+Caranx bucculentus	Ammodytes personatus
+Caranx bucculentus	Bairdiella chrysoura
+Caranx bucculentus	Brotula multibarbata
+Caranx bucculentus	Chaetodon ocellatus
+Caranx bucculentus	Chanos chanos
+Caranx bucculentus	Citharichthys sordidus
+Caranx bucculentus	Dicentrarchus labrax
+Caranx bucculentus	Engraulis japonicus
+Caranx bucculentus	Gerres cinereus
+Caranx bucculentus	Girella cyanea
+Caranx bucculentus	Heteropriacanthus cruentatus
+Caranx bucculentus	Hyporhamphus quoyi
+Caranx bucculentus	Lagodon rhomboides
+Caranx bucculentus	Leuroglossus schmidti
+Caranx bucculentus	Lutjanus argentimaculatus
+Caranx bucculentus	Microspathodon chrysurus
+Caranx bucculentus	Myliobatis freminvillei
+Caranx bucculentus	Phoxinus phoxinus
+Caranx bucculentus	Plagiotremus tapeinosoma
+Caranx bucculentus	Rhinoptera bonasus
+Caranx bucculentus	Sargocentron punctatissimum
+Caranx bucculentus	Scartella cristata
+Caranx bucculentus	Scopelosaurus harryi
+Caranx bucculentus	Selar crumenophthalmus
+Caranx bucculentus	Xyrichtys novacula
+Caranx bucculentus	Zooplankton and Crustaceans
+Caranx bucculentus	Other Invertebrates
+Caranx bucculentus	Mollusks
+Caranx bucculentus	Worms
+Cephalopholis sexmaculata	Abudefduf taurus
+Cephalopholis sexmaculata	Aetobatus narinari
+Cephalopholis sexmaculata	Ammodytes americanus
+Cephalopholis sexmaculata	Ammodytes dubius
+Cephalopholis sexmaculata	Ammodytes personatus
+Cephalopholis sexmaculata	Apogon imberbis
+Cephalopholis sexmaculata	Auxis thazard
+Cephalopholis sexmaculata	Bairdiella chrysoura
+Cephalopholis sexmaculata	Brotula multibarbata
+Cephalopholis sexmaculata	Caranx bucculentus
+Cephalopholis sexmaculata	Chaetodon ocellatus
+Cephalopholis sexmaculata	Chanos chanos
+Cephalopholis sexmaculata	Citharichthys sordidus
+Cephalopholis sexmaculata	Coryphaenoides acrolepis
+Cephalopholis sexmaculata	Dicentrarchus labrax
+Cephalopholis sexmaculata	Engraulis japonicus
+Cephalopholis sexmaculata	Fistularia commersonii
+Cephalopholis sexmaculata	Galeocerdo cuvier
+Cephalopholis sexmaculata	Gerres cinereus
+Cephalopholis sexmaculata	Girella cyanea
+Cephalopholis sexmaculata	Gymnothorax vicinus
+Cephalopholis sexmaculata	Heteropriacanthus cruentatus
+Cephalopholis sexmaculata	Hyporhamphus quoyi
+Cephalopholis sexmaculata	Lagodon rhomboides
+Cephalopholis sexmaculata	Leuroglossus schmidti
+Cephalopholis sexmaculata	Lutjanus argentimaculatus
+Cephalopholis sexmaculata	Microspathodon chrysurus
+Cephalopholis sexmaculata	Myliobatis freminvillei
+Cephalopholis sexmaculata	Phoxinus phoxinus
+Cephalopholis sexmaculata	Plagiotremus tapeinosoma
+Cephalopholis sexmaculata	Prionotus evolans
+Cephalopholis sexmaculata	Rhinoptera bonasus
+Cephalopholis sexmaculata	Sargocentron punctatissimum
+Cephalopholis sexmaculata	Scartella cristata
+Cephalopholis sexmaculata	Scopelosaurus harryi
+Cephalopholis sexmaculata	Selar crumenophthalmus
+Cephalopholis sexmaculata	Sphyrna lewini
+Cephalopholis sexmaculata	Triaenodon obesus
+Cephalopholis sexmaculata	Xyrichtys novacula
+Chaetodon ocellatus	Phytoplankton and Algae
+Chaetodon ocellatus	Abudefduf taurus
+Chaetodon ocellatus	Ammodytes americanus
+Chaetodon ocellatus	Ammodytes dubius
+Chaetodon ocellatus	Ammodytes personatus
+Chaetodon ocellatus	Brotula multibarbata
+Chaetodon ocellatus	Chanos chanos
+Chaetodon ocellatus	Citharichthys sordidus
+Chaetodon ocellatus	Engraulis japonicus
+Chaetodon ocellatus	Gerres cinereus
+Chaetodon ocellatus	Girella cyanea
+Chaetodon ocellatus	Heteropriacanthus cruentatus
+Chaetodon ocellatus	Hyporhamphus quoyi
+Chaetodon ocellatus	Lagodon rhomboides
+Chaetodon ocellatus	Leuroglossus schmidti
+Chaetodon ocellatus	Lutjanus argentimaculatus
+Chaetodon ocellatus	Microspathodon chrysurus
+Chaetodon ocellatus	Phoxinus phoxinus
+Chaetodon ocellatus	Sargocentron punctatissimum
+Chaetodon ocellatus	Scartella cristata
+Chaetodon ocellatus	Scopelosaurus harryi
+Chaetodon ocellatus	Xyrichtys novacula
+Chaetodon ocellatus	Zooplankton and Crustaceans
+Chaetodon ocellatus	Other Invertebrates
+Chaetodon ocellatus	Worms
+Chanos chanos	Phytoplankton and Algae
+Chanos chanos	Girella cyanea
+Chanos chanos	Detritus
+Chanos chanos	Zooplankton and Crustaceans
+Chanos chanos	Worms
+Citharichthys sordidus	Abudefduf taurus
+Citharichthys sordidus	Ammodytes americanus
+Citharichthys sordidus	Ammodytes dubius
+Citharichthys sordidus	Chanos chanos
+Citharichthys sordidus	Engraulis japonicus
+Citharichthys sordidus	Girella cyanea
+Citharichthys sordidus	Hyporhamphus quoyi
+Citharichthys sordidus	Lagodon rhomboides
+Citharichthys sordidus	Leuroglossus schmidti
+Citharichthys sordidus	Microspathodon chrysurus
+Citharichthys sordidus	Phoxinus phoxinus
+Citharichthys sordidus	Sargocentron punctatissimum
+Citharichthys sordidus	Scartella cristata
+Citharichthys sordidus	Scopelosaurus harryi
+Citharichthys sordidus	Worms
+Citharichthys sordidus	Zooplankton and Crustaceans
+Coryphaenoides acrolepis	Abudefduf taurus
+Coryphaenoides acrolepis	Ammodytes americanus
+Coryphaenoides acrolepis	Ammodytes dubius
+Coryphaenoides acrolepis	Ammodytes personatus
+Coryphaenoides acrolepis	Bairdiella chrysoura
+Coryphaenoides acrolepis	Brotula multibarbata
+Coryphaenoides acrolepis	Caranx bucculentus
+Coryphaenoides acrolepis	Chaetodon ocellatus
+Coryphaenoides acrolepis	Chanos chanos
+Coryphaenoides acrolepis	Citharichthys sordidus
+Coryphaenoides acrolepis	Dicentrarchus labrax
+Coryphaenoides acrolepis	Engraulis japonicus
+Coryphaenoides acrolepis	Gerres cinereus
+Coryphaenoides acrolepis	Girella cyanea
+Coryphaenoides acrolepis	Heteropriacanthus cruentatus
+Coryphaenoides acrolepis	Hyporhamphus quoyi
+Coryphaenoides acrolepis	Lagodon rhomboides
+Coryphaenoides acrolepis	Leuroglossus schmidti
+Coryphaenoides acrolepis	Lutjanus argentimaculatus
+Coryphaenoides acrolepis	Microspathodon chrysurus
+Coryphaenoides acrolepis	Myliobatis freminvillei
+Coryphaenoides acrolepis	Phoxinus phoxinus
+Coryphaenoides acrolepis	Plagiotremus tapeinosoma
+Coryphaenoides acrolepis	Rhinoptera bonasus
+Coryphaenoides acrolepis	Sargocentron punctatissimum
+Coryphaenoides acrolepis	Scartella cristata
+Coryphaenoides acrolepis	Scopelosaurus harryi
+Coryphaenoides acrolepis	Selar crumenophthalmus
+Coryphaenoides acrolepis	Xyrichtys novacula
+Coryphaenoides acrolepis	Zooplankton and Crustaceans
+Coryphaenoides acrolepis	Mollusks
+Coryphaenoides acrolepis	Worms
+Dicentrarchus labrax	Abudefduf taurus
+Dicentrarchus labrax	Ammodytes americanus
+Dicentrarchus labrax	Ammodytes dubius
+Dicentrarchus labrax	Ammodytes personatus
+Dicentrarchus labrax	Brotula multibarbata
+Dicentrarchus labrax	Chaetodon ocellatus
+Dicentrarchus labrax	Chanos chanos
+Dicentrarchus labrax	Citharichthys sordidus
+Dicentrarchus labrax	Engraulis japonicus
+Dicentrarchus labrax	Gerres cinereus
+Dicentrarchus labrax	Girella cyanea
+Dicentrarchus labrax	Heteropriacanthus cruentatus
+Dicentrarchus labrax	Hyporhamphus quoyi
+Dicentrarchus labrax	Lagodon rhomboides
+Dicentrarchus labrax	Leuroglossus schmidti
+Dicentrarchus labrax	Lutjanus argentimaculatus
+Dicentrarchus labrax	Microspathodon chrysurus
+Dicentrarchus labrax	Myliobatis freminvillei
+Dicentrarchus labrax	Phoxinus phoxinus
+Dicentrarchus labrax	Sargocentron punctatissimum
+Dicentrarchus labrax	Scartella cristata
+Dicentrarchus labrax	Scopelosaurus harryi
+Dicentrarchus labrax	Xyrichtys novacula
+Dicentrarchus labrax	Zooplankton and Crustaceans
+Dicentrarchus labrax	Worms
+Engraulis japonicus	Zooplankton and Crustaceans
+Engraulis japonicus	Abudefduf taurus
+Engraulis japonicus	Ammodytes americanus
+Engraulis japonicus	Ammodytes dubius
+Engraulis japonicus	Chanos chanos
+Engraulis japonicus	Girella cyanea
+Engraulis japonicus	Hyporhamphus quoyi
+Engraulis japonicus	Lagodon rhomboides
+Engraulis japonicus	Leuroglossus schmidti
+Engraulis japonicus	Microspathodon chrysurus
+Engraulis japonicus	Phoxinus phoxinus
+Engraulis japonicus	Scartella cristata
+Engraulis japonicus	Scopelosaurus harryi
+Engraulis japonicus	Mollusks
+Fistularia commersonii	Abudefduf taurus
+Fistularia commersonii	Aetobatus narinari
+Fistularia commersonii	Ammodytes americanus
+Fistularia commersonii	Ammodytes dubius
+Fistularia commersonii	Ammodytes personatus
+Fistularia commersonii	Apogon imberbis
+Fistularia commersonii	Auxis thazard
+Fistularia commersonii	Bairdiella chrysoura
+Fistularia commersonii	Brotula multibarbata
+Fistularia commersonii	Caranx bucculentus
+Fistularia commersonii	Chaetodon ocellatus
+Fistularia commersonii	Chanos chanos
+Fistularia commersonii	Citharichthys sordidus
+Fistularia commersonii	Coryphaenoides acrolepis
+Fistularia commersonii	Dicentrarchus labrax
+Fistularia commersonii	Engraulis japonicus
+Fistularia commersonii	Galeocerdo cuvier
+Fistularia commersonii	Gerres cinereus
+Fistularia commersonii	Girella cyanea
+Fistularia commersonii	Gymnothorax vicinus
+Fistularia commersonii	Heteropriacanthus cruentatus
+Fistularia commersonii	Hyporhamphus quoyi
+Fistularia commersonii	Lagodon rhomboides
+Fistularia commersonii	Leuroglossus schmidti
+Fistularia commersonii	Lutjanus argentimaculatus
+Fistularia commersonii	Microspathodon chrysurus
+Fistularia commersonii	Myliobatis freminvillei
+Fistularia commersonii	Phoxinus phoxinus
+Fistularia commersonii	Plagiotremus tapeinosoma
+Fistularia commersonii	Prionotus evolans
+Fistularia commersonii	Rhinoptera bonasus
+Fistularia commersonii	Sargocentron punctatissimum
+Fistularia commersonii	Scartella cristata
+Fistularia commersonii	Scopelosaurus harryi
+Fistularia commersonii	Selar crumenophthalmus
+Fistularia commersonii	Sphyrna lewini
+Fistularia commersonii	Triaenodon obesus
+Fistularia commersonii	Xyrichtys novacula
+Fistularia commersonii	Zooplankton and Crustaceans
+Fistularia commersonii	Detritus
+Fistularia commersonii	Mollusks
+Galeocerdo cuvier	Abudefduf taurus
+Galeocerdo cuvier	Aetobatus narinari
+Galeocerdo cuvier	Ammodytes americanus
+Galeocerdo cuvier	Ammodytes dubius
+Galeocerdo cuvier	Ammodytes personatus
+Galeocerdo cuvier	Apogon imberbis
+Galeocerdo cuvier	Bairdiella chrysoura
+Galeocerdo cuvier	Brotula multibarbata
+Galeocerdo cuvier	Caranx bucculentus
+Galeocerdo cuvier	Chaetodon ocellatus
+Galeocerdo cuvier	Chanos chanos
+Galeocerdo cuvier	Citharichthys sordidus
+Galeocerdo cuvier	Coryphaenoides acrolepis
+Galeocerdo cuvier	Dicentrarchus labrax
+Galeocerdo cuvier	Engraulis japonicus
+Galeocerdo cuvier	Gerres cinereus
+Galeocerdo cuvier	Girella cyanea
+Galeocerdo cuvier	Gymnothorax vicinus
+Galeocerdo cuvier	Heteropriacanthus cruentatus
+Galeocerdo cuvier	Hyporhamphus quoyi
+Galeocerdo cuvier	Lagodon rhomboides
+Galeocerdo cuvier	Leuroglossus schmidti
+Galeocerdo cuvier	Lutjanus argentimaculatus
+Galeocerdo cuvier	Microspathodon chrysurus
+Galeocerdo cuvier	Myliobatis freminvillei
+Galeocerdo cuvier	Phoxinus phoxinus
+Galeocerdo cuvier	Plagiotremus tapeinosoma
+Galeocerdo cuvier	Rhinoptera bonasus
+Galeocerdo cuvier	Sargocentron punctatissimum
+Galeocerdo cuvier	Scartella cristata
+Galeocerdo cuvier	Scopelosaurus harryi
+Galeocerdo cuvier	Selar crumenophthalmus
+Galeocerdo cuvier	Triaenodon obesus
+Galeocerdo cuvier	Xyrichtys novacula
+Galeocerdo cuvier	Zooplankton and Crustaceans
+Galeocerdo cuvier	Mollusks
+Galeocerdo cuvier	Detritus
+Gerres cinereus	Abudefduf taurus
+Gerres cinereus	Ammodytes americanus
+Gerres cinereus	Ammodytes dubius
+Gerres cinereus	Chanos chanos
+Gerres cinereus	Citharichthys sordidus
+Gerres cinereus	Engraulis japonicus
+Gerres cinereus	Girella cyanea
+Gerres cinereus	Heteropriacanthus cruentatus
+Gerres cinereus	Hyporhamphus quoyi
+Gerres cinereus	Lagodon rhomboides
+Gerres cinereus	Leuroglossus schmidti
+Gerres cinereus	Lutjanus argentimaculatus
+Gerres cinereus	Microspathodon chrysurus
+Gerres cinereus	Phoxinus phoxinus
+Gerres cinereus	Sargocentron punctatissimum
+Gerres cinereus	Scartella cristata
+Gerres cinereus	Scopelosaurus harryi
+Gerres cinereus	Xyrichtys novacula
+Gerres cinereus	Mollusks
+Gerres cinereus	Zooplankton and Crustaceans
+Gerres cinereus	Worms
+Gerres cinereus	Other Invertebrates
+Gerres cinereus	Phytoplankton and Algae
+Girella cyanea	Phytoplankton and Algae
+Gymnothorax vicinus	Abudefduf taurus
+Gymnothorax vicinus	Aetobatus narinari
+Gymnothorax vicinus	Ammodytes americanus
+Gymnothorax vicinus	Ammodytes dubius
+Gymnothorax vicinus	Ammodytes personatus
+Gymnothorax vicinus	Apogon imberbis
+Gymnothorax vicinus	Bairdiella chrysoura
+Gymnothorax vicinus	Brotula multibarbata
+Gymnothorax vicinus	Caranx bucculentus
+Gymnothorax vicinus	Chaetodon ocellatus
+Gymnothorax vicinus	Chanos chanos
+Gymnothorax vicinus	Citharichthys sordidus
+Gymnothorax vicinus	Coryphaenoides acrolepis
+Gymnothorax vicinus	Dicentrarchus labrax
+Gymnothorax vicinus	Engraulis japonicus
+Gymnothorax vicinus	Gerres cinereus
+Gymnothorax vicinus	Girella cyanea
+Gymnothorax vicinus	Heteropriacanthus cruentatus
+Gymnothorax vicinus	Hyporhamphus quoyi
+Gymnothorax vicinus	Lagodon rhomboides
+Gymnothorax vicinus	Leuroglossus schmidti
+Gymnothorax vicinus	Lutjanus argentimaculatus
+Gymnothorax vicinus	Microspathodon chrysurus
+Gymnothorax vicinus	Myliobatis freminvillei
+Gymnothorax vicinus	Phoxinus phoxinus
+Gymnothorax vicinus	Plagiotremus tapeinosoma
+Gymnothorax vicinus	Rhinoptera bonasus
+Gymnothorax vicinus	Sargocentron punctatissimum
+Gymnothorax vicinus	Scartella cristata
+Gymnothorax vicinus	Scopelosaurus harryi
+Gymnothorax vicinus	Selar crumenophthalmus
+Gymnothorax vicinus	Xyrichtys novacula
+Gymnothorax vicinus	Zooplankton and Crustaceans
+Gymnothorax vicinus	Mollusks
+Heteropriacanthus cruentatus	Abudefduf taurus
+Heteropriacanthus cruentatus	Ammodytes americanus
+Heteropriacanthus cruentatus	Ammodytes dubius
+Heteropriacanthus cruentatus	Chanos chanos
+Heteropriacanthus cruentatus	Citharichthys sordidus
+Heteropriacanthus cruentatus	Engraulis japonicus
+Heteropriacanthus cruentatus	Girella cyanea
+Heteropriacanthus cruentatus	Hyporhamphus quoyi
+Heteropriacanthus cruentatus	Lagodon rhomboides
+Heteropriacanthus cruentatus	Leuroglossus schmidti
+Heteropriacanthus cruentatus	Lutjanus argentimaculatus
+Heteropriacanthus cruentatus	Microspathodon chrysurus
+Heteropriacanthus cruentatus	Phoxinus phoxinus
+Heteropriacanthus cruentatus	Sargocentron punctatissimum
+Heteropriacanthus cruentatus	Scartella cristata
+Heteropriacanthus cruentatus	Scopelosaurus harryi
+Heteropriacanthus cruentatus	Xyrichtys novacula
+Heteropriacanthus cruentatus	Zooplankton and Crustaceans
+Heteropriacanthus cruentatus	Mollusks
+Heteropriacanthus cruentatus	Worms
+Hyporhamphus quoyi	Abudefduf taurus
+Hyporhamphus quoyi	Chanos chanos
+Hyporhamphus quoyi	Girella cyanea
+Hyporhamphus quoyi	Lagodon rhomboides
+Hyporhamphus quoyi	Microspathodon chrysurus
+Hyporhamphus quoyi	Scartella cristata
+Hyporhamphus quoyi	Zooplankton and Crustaceans
+Hyporhamphus quoyi	Mollusks
+Hyporhamphus quoyi	Phytoplankton and Algae
+Hyporhamphus quoyi	Worms
+Lagodon rhomboides	Abudefduf taurus
+Lagodon rhomboides	Chanos chanos
+Lagodon rhomboides	Girella cyanea
+Lagodon rhomboides	Microspathodon chrysurus
+Lagodon rhomboides	Scartella cristata
+Lagodon rhomboides	Other Invertebrates
+Lagodon rhomboides	Phytoplankton and Algae
+Lagodon rhomboides	Zooplankton and Crustaceans
+Lagodon rhomboides	Mollusks
+Lagodon rhomboides	Worms
+Lagodon rhomboides	Detritus
+Leuroglossus schmidti	Zooplankton and Crustaceans
+Leuroglossus schmidti	Abudefduf taurus
+Leuroglossus schmidti	Chanos chanos
+Leuroglossus schmidti	Girella cyanea
+Leuroglossus schmidti	Hyporhamphus quoyi
+Leuroglossus schmidti	Lagodon rhomboides
+Leuroglossus schmidti	Microspathodon chrysurus
+Leuroglossus schmidti	Scartella cristata
+Leuroglossus schmidti	Scopelosaurus harryi
+Lutjanus argentimaculatus	Abudefduf taurus
+Lutjanus argentimaculatus	Ammodytes americanus
+Lutjanus argentimaculatus	Ammodytes dubius
+Lutjanus argentimaculatus	Chanos chanos
+Lutjanus argentimaculatus	Citharichthys sordidus
+Lutjanus argentimaculatus	Engraulis japonicus
+Lutjanus argentimaculatus	Girella cyanea
+Lutjanus argentimaculatus	Hyporhamphus quoyi
+Lutjanus argentimaculatus	Lagodon rhomboides
+Lutjanus argentimaculatus	Leuroglossus schmidti
+Lutjanus argentimaculatus	Microspathodon chrysurus
+Lutjanus argentimaculatus	Phoxinus phoxinus
+Lutjanus argentimaculatus	Sargocentron punctatissimum
+Lutjanus argentimaculatus	Scartella cristata
+Lutjanus argentimaculatus	Scopelosaurus harryi
+Lutjanus argentimaculatus	Xyrichtys novacula
+Lutjanus argentimaculatus	Zooplankton and Crustaceans
+Microspathodon chrysurus	Chanos chanos
+Microspathodon chrysurus	Girella cyanea
+Microspathodon chrysurus	Zooplankton and Crustaceans
+Microspathodon chrysurus	Phytoplankton and Algae
+Microspathodon chrysurus	Mollusks
+Microspathodon chrysurus	Other Invertebrates
+Mola mola	Zooplankton and Crustaceans
+Myliobatis freminvillei	Abudefduf taurus
+Myliobatis freminvillei	Ammodytes americanus
+Myliobatis freminvillei	Ammodytes dubius
+Myliobatis freminvillei	Ammodytes personatus
+Myliobatis freminvillei	Brotula multibarbata
+Myliobatis freminvillei	Chaetodon ocellatus
+Myliobatis freminvillei	Chanos chanos
+Myliobatis freminvillei	Citharichthys sordidus
+Myliobatis freminvillei	Engraulis japonicus
+Myliobatis freminvillei	Gerres cinereus
+Myliobatis freminvillei	Girella cyanea
+Myliobatis freminvillei	Heteropriacanthus cruentatus
+Myliobatis freminvillei	Hyporhamphus quoyi
+Myliobatis freminvillei	Lagodon rhomboides
+Myliobatis freminvillei	Leuroglossus schmidti
+Myliobatis freminvillei	Lutjanus argentimaculatus
+Myliobatis freminvillei	Microspathodon chrysurus
+Myliobatis freminvillei	Phoxinus phoxinus
+Myliobatis freminvillei	Sargocentron punctatissimum
+Myliobatis freminvillei	Scartella cristata
+Myliobatis freminvillei	Scopelosaurus harryi
+Myliobatis freminvillei	Xyrichtys novacula
+Myliobatis freminvillei	Mollusks
+Myliobatis freminvillei	Detritus
+Myliobatis freminvillei	Zooplankton and Crustaceans
+Myliobatis freminvillei	Worms
+Phoxinus phoxinus	Abudefduf taurus
+Phoxinus phoxinus	Ammodytes americanus
+Phoxinus phoxinus	Chanos chanos
+Phoxinus phoxinus	Girella cyanea
+Phoxinus phoxinus	Hyporhamphus quoyi
+Phoxinus phoxinus	Lagodon rhomboides
+Phoxinus phoxinus	Leuroglossus schmidti
+Phoxinus phoxinus	Microspathodon chrysurus
+Phoxinus phoxinus	Scartella cristata
+Phoxinus phoxinus	Scopelosaurus harryi
+Phoxinus phoxinus	Zooplankton and Crustaceans
+Phoxinus phoxinus	Worms
+Plagiotremus tapeinosoma	Phytoplankton and Algae
+Plagiotremus tapeinosoma	Abudefduf taurus
+Plagiotremus tapeinosoma	Ammodytes americanus
+Plagiotremus tapeinosoma	Ammodytes dubius
+Plagiotremus tapeinosoma	Ammodytes personatus
+Plagiotremus tapeinosoma	Bairdiella chrysoura
+Plagiotremus tapeinosoma	Brotula multibarbata
+Plagiotremus tapeinosoma	Chaetodon ocellatus
+Plagiotremus tapeinosoma	Chanos chanos
+Plagiotremus tapeinosoma	Citharichthys sordidus
+Plagiotremus tapeinosoma	Dicentrarchus labrax
+Plagiotremus tapeinosoma	Engraulis japonicus
+Plagiotremus tapeinosoma	Gerres cinereus
+Plagiotremus tapeinosoma	Girella cyanea
+Plagiotremus tapeinosoma	Heteropriacanthus cruentatus
+Plagiotremus tapeinosoma	Hyporhamphus quoyi
+Plagiotremus tapeinosoma	Lagodon rhomboides
+Plagiotremus tapeinosoma	Leuroglossus schmidti
+Plagiotremus tapeinosoma	Lutjanus argentimaculatus
+Plagiotremus tapeinosoma	Microspathodon chrysurus
+Plagiotremus tapeinosoma	Myliobatis freminvillei
+Plagiotremus tapeinosoma	Phoxinus phoxinus
+Plagiotremus tapeinosoma	Rhinoptera bonasus
+Plagiotremus tapeinosoma	Sargocentron punctatissimum
+Plagiotremus tapeinosoma	Scartella cristata
+Plagiotremus tapeinosoma	Scopelosaurus harryi
+Plagiotremus tapeinosoma	Selar crumenophthalmus
+Plagiotremus tapeinosoma	Xyrichtys novacula
+Plagiotremus tapeinosoma	Zooplankton and Crustaceans
+Plagiotremus tapeinosoma	Worms
+Prionotus evolans	Abudefduf taurus
+Prionotus evolans	Aetobatus narinari
+Prionotus evolans	Ammodytes americanus
+Prionotus evolans	Ammodytes dubius
+Prionotus evolans	Ammodytes personatus
+Prionotus evolans	Apogon imberbis
+Prionotus evolans	Bairdiella chrysoura
+Prionotus evolans	Brotula multibarbata
+Prionotus evolans	Caranx bucculentus
+Prionotus evolans	Chaetodon ocellatus
+Prionotus evolans	Chanos chanos
+Prionotus evolans	Citharichthys sordidus
+Prionotus evolans	Coryphaenoides acrolepis
+Prionotus evolans	Dicentrarchus labrax
+Prionotus evolans	Engraulis japonicus
+Prionotus evolans	Galeocerdo cuvier
+Prionotus evolans	Gerres cinereus
+Prionotus evolans	Girella cyanea
+Prionotus evolans	Gymnothorax vicinus
+Prionotus evolans	Heteropriacanthus cruentatus
+Prionotus evolans	Hyporhamphus quoyi
+Prionotus evolans	Lagodon rhomboides
+Prionotus evolans	Leuroglossus schmidti
+Prionotus evolans	Lutjanus argentimaculatus
+Prionotus evolans	Microspathodon chrysurus
+Prionotus evolans	Myliobatis freminvillei
+Prionotus evolans	Phoxinus phoxinus
+Prionotus evolans	Plagiotremus tapeinosoma
+Prionotus evolans	Rhinoptera bonasus
+Prionotus evolans	Sargocentron punctatissimum
+Prionotus evolans	Scartella cristata
+Prionotus evolans	Scopelosaurus harryi
+Prionotus evolans	Selar crumenophthalmus
+Prionotus evolans	Triaenodon obesus
+Prionotus evolans	Xyrichtys novacula
+Prionotus evolans	Mollusks
+Prionotus evolans	Zooplankton and Crustaceans
+Rhinoptera bonasus	Abudefduf taurus
+Rhinoptera bonasus	Ammodytes americanus
+Rhinoptera bonasus	Ammodytes dubius
+Rhinoptera bonasus	Ammodytes personatus
+Rhinoptera bonasus	Brotula multibarbata
+Rhinoptera bonasus	Chaetodon ocellatus
+Rhinoptera bonasus	Chanos chanos
+Rhinoptera bonasus	Citharichthys sordidus
+Rhinoptera bonasus	Dicentrarchus labrax
+Rhinoptera bonasus	Engraulis japonicus
+Rhinoptera bonasus	Gerres cinereus
+Rhinoptera bonasus	Girella cyanea
+Rhinoptera bonasus	Heteropriacanthus cruentatus
+Rhinoptera bonasus	Hyporhamphus quoyi
+Rhinoptera bonasus	Lagodon rhomboides
+Rhinoptera bonasus	Leuroglossus schmidti
+Rhinoptera bonasus	Lutjanus argentimaculatus
+Rhinoptera bonasus	Microspathodon chrysurus
+Rhinoptera bonasus	Myliobatis freminvillei
+Rhinoptera bonasus	Phoxinus phoxinus
+Rhinoptera bonasus	Sargocentron punctatissimum
+Rhinoptera bonasus	Scartella cristata
+Rhinoptera bonasus	Scopelosaurus harryi
+Rhinoptera bonasus	Xyrichtys novacula
+Rhinoptera bonasus	Detritus
+Rhinoptera bonasus	Zooplankton and Crustaceans
+Rhinoptera bonasus	Mollusks
+Sargocentron punctatissimum	Abudefduf taurus
+Sargocentron punctatissimum	Ammodytes americanus
+Sargocentron punctatissimum	Ammodytes dubius
+Sargocentron punctatissimum	Chanos chanos
+Sargocentron punctatissimum	Engraulis japonicus
+Sargocentron punctatissimum	Girella cyanea
+Sargocentron punctatissimum	Hyporhamphus quoyi
+Sargocentron punctatissimum	Lagodon rhomboides
+Sargocentron punctatissimum	Leuroglossus schmidti
+Sargocentron punctatissimum	Microspathodon chrysurus
+Sargocentron punctatissimum	Phoxinus phoxinus
+Sargocentron punctatissimum	Scartella cristata
+Sargocentron punctatissimum	Scopelosaurus harryi
+Sargocentron punctatissimum	Zooplankton and Crustaceans
+Sargocentron punctatissimum	Mollusks
+Sargocentron punctatissimum	Worms
+Sargocentron punctatissimum	Other Invertebrates
+Scartella cristata	Phytoplankton and Algae
+Scartella cristata	Abudefduf taurus
+Scartella cristata	Chanos chanos
+Scartella cristata	Girella cyanea
+Scartella cristata	Microspathodon chrysurus
+Scartella cristata	Mollusks
+Scartella cristata	Zooplankton and Crustaceans
+Scartella cristata	Worms
+Scopelosaurus harryi	Abudefduf taurus
+Scopelosaurus harryi	Chanos chanos
+Scopelosaurus harryi	Girella cyanea
+Scopelosaurus harryi	Hyporhamphus quoyi
+Scopelosaurus harryi	Lagodon rhomboides
+Scopelosaurus harryi	Microspathodon chrysurus
+Scopelosaurus harryi	Scartella cristata
+Scopelosaurus harryi	Zooplankton and Crustaceans
+Scopelosaurus harryi	Mollusks
+Selar crumenophthalmus	Abudefduf taurus
+Selar crumenophthalmus	Ammodytes americanus
+Selar crumenophthalmus	Ammodytes dubius
+Selar crumenophthalmus	Ammodytes personatus
+Selar crumenophthalmus	Brotula multibarbata
+Selar crumenophthalmus	Chaetodon ocellatus
+Selar crumenophthalmus	Chanos chanos
+Selar crumenophthalmus	Citharichthys sordidus
+Selar crumenophthalmus	Dicentrarchus labrax
+Selar crumenophthalmus	Engraulis japonicus
+Selar crumenophthalmus	Gerres cinereus
+Selar crumenophthalmus	Girella cyanea
+Selar crumenophthalmus	Heteropriacanthus cruentatus
+Selar crumenophthalmus	Hyporhamphus quoyi
+Selar crumenophthalmus	Lagodon rhomboides
+Selar crumenophthalmus	Leuroglossus schmidti
+Selar crumenophthalmus	Lutjanus argentimaculatus
+Selar crumenophthalmus	Microspathodon chrysurus
+Selar crumenophthalmus	Myliobatis freminvillei
+Selar crumenophthalmus	Phoxinus phoxinus
+Selar crumenophthalmus	Rhinoptera bonasus
+Selar crumenophthalmus	Sargocentron punctatissimum
+Selar crumenophthalmus	Scartella cristata
+Selar crumenophthalmus	Scopelosaurus harryi
+Selar crumenophthalmus	Xyrichtys novacula
+Selar crumenophthalmus	Zooplankton and Crustaceans
+Selar crumenophthalmus	Detritus
+Selar crumenophthalmus	Worms
+Selar crumenophthalmus	Mollusks
+Sphyrna lewini	Abudefduf taurus
+Sphyrna lewini	Aetobatus narinari
+Sphyrna lewini	Ammodytes americanus
+Sphyrna lewini	Ammodytes dubius
+Sphyrna lewini	Ammodytes personatus
+Sphyrna lewini	Apogon imberbis
+Sphyrna lewini	Auxis thazard
+Sphyrna lewini	Bairdiella chrysoura
+Sphyrna lewini	Brotula multibarbata
+Sphyrna lewini	Caranx bucculentus
+Sphyrna lewini	Chaetodon ocellatus
+Sphyrna lewini	Chanos chanos
+Sphyrna lewini	Citharichthys sordidus
+Sphyrna lewini	Coryphaenoides acrolepis
+Sphyrna lewini	Dicentrarchus labrax
+Sphyrna lewini	Engraulis japonicus
+Sphyrna lewini	Galeocerdo cuvier
+Sphyrna lewini	Gerres cinereus
+Sphyrna lewini	Girella cyanea
+Sphyrna lewini	Gymnothorax vicinus
+Sphyrna lewini	Heteropriacanthus cruentatus
+Sphyrna lewini	Hyporhamphus quoyi
+Sphyrna lewini	Lagodon rhomboides
+Sphyrna lewini	Leuroglossus schmidti
+Sphyrna lewini	Lutjanus argentimaculatus
+Sphyrna lewini	Microspathodon chrysurus
+Sphyrna lewini	Myliobatis freminvillei
+Sphyrna lewini	Phoxinus phoxinus
+Sphyrna lewini	Plagiotremus tapeinosoma
+Sphyrna lewini	Prionotus evolans
+Sphyrna lewini	Rhinoptera bonasus
+Sphyrna lewini	Sargocentron punctatissimum
+Sphyrna lewini	Scartella cristata
+Sphyrna lewini	Scopelosaurus harryi
+Sphyrna lewini	Selar crumenophthalmus
+Sphyrna lewini	Triaenodon obesus
+Sphyrna lewini	Xyrichtys novacula
+Sphyrna lewini	Zooplankton and Crustaceans
+Sphyrna lewini	Mollusks
+Sphyrna lewini	Phytoplankton and Algae
+Sphyrna zygaena	Abudefduf taurus
+Sphyrna zygaena	Aetobatus narinari
+Sphyrna zygaena	Ammodytes americanus
+Sphyrna zygaena	Ammodytes dubius
+Sphyrna zygaena	Ammodytes personatus
+Sphyrna zygaena	Apogon imberbis
+Sphyrna zygaena	Auxis thazard
+Sphyrna zygaena	Bairdiella chrysoura
+Sphyrna zygaena	Brotula multibarbata
+Sphyrna zygaena	Caranx bucculentus
+Sphyrna zygaena	Cephalopholis sexmaculata
+Sphyrna zygaena	Chaetodon ocellatus
+Sphyrna zygaena	Chanos chanos
+Sphyrna zygaena	Citharichthys sordidus
+Sphyrna zygaena	Coryphaenoides acrolepis
+Sphyrna zygaena	Dicentrarchus labrax
+Sphyrna zygaena	Engraulis japonicus
+Sphyrna zygaena	Fistularia commersonii
+Sphyrna zygaena	Galeocerdo cuvier
+Sphyrna zygaena	Gerres cinereus
+Sphyrna zygaena	Girella cyanea
+Sphyrna zygaena	Gymnothorax vicinus
+Sphyrna zygaena	Heteropriacanthus cruentatus
+Sphyrna zygaena	Hyporhamphus quoyi
+Sphyrna zygaena	Lagodon rhomboides
+Sphyrna zygaena	Leuroglossus schmidti
+Sphyrna zygaena	Lutjanus argentimaculatus
+Sphyrna zygaena	Microspathodon chrysurus
+Sphyrna zygaena	Mola mola
+Sphyrna zygaena	Myliobatis freminvillei
+Sphyrna zygaena	Phoxinus phoxinus
+Sphyrna zygaena	Plagiotremus tapeinosoma
+Sphyrna zygaena	Prionotus evolans
+Sphyrna zygaena	Rhinoptera bonasus
+Sphyrna zygaena	Sargocentron punctatissimum
+Sphyrna zygaena	Scartella cristata
+Sphyrna zygaena	Scopelosaurus harryi
+Sphyrna zygaena	Selar crumenophthalmus
+Sphyrna zygaena	Sphyrna lewini
+Sphyrna zygaena	Triaenodon obesus
+Sphyrna zygaena	Xyrichtys novacula
+Sphyrna zygaena	Mollusks
+Sphyrna zygaena	Zooplankton and Crustaceans
+Sphyrna zygaena	Detritus
+Triaenodon obesus	Abudefduf taurus
+Triaenodon obesus	Aetobatus narinari
+Triaenodon obesus	Ammodytes americanus
+Triaenodon obesus	Ammodytes dubius
+Triaenodon obesus	Ammodytes personatus
+Triaenodon obesus	Apogon imberbis
+Triaenodon obesus	Bairdiella chrysoura
+Triaenodon obesus	Brotula multibarbata
+Triaenodon obesus	Caranx bucculentus
+Triaenodon obesus	Chaetodon ocellatus
+Triaenodon obesus	Chanos chanos
+Triaenodon obesus	Citharichthys sordidus
+Triaenodon obesus	Coryphaenoides acrolepis
+Triaenodon obesus	Dicentrarchus labrax
+Triaenodon obesus	Engraulis japonicus
+Triaenodon obesus	Gerres cinereus
+Triaenodon obesus	Girella cyanea
+Triaenodon obesus	Gymnothorax vicinus
+Triaenodon obesus	Heteropriacanthus cruentatus
+Triaenodon obesus	Hyporhamphus quoyi
+Triaenodon obesus	Lagodon rhomboides
+Triaenodon obesus	Leuroglossus schmidti
+Triaenodon obesus	Lutjanus argentimaculatus
+Triaenodon obesus	Microspathodon chrysurus
+Triaenodon obesus	Myliobatis freminvillei
+Triaenodon obesus	Phoxinus phoxinus
+Triaenodon obesus	Plagiotremus tapeinosoma
+Triaenodon obesus	Rhinoptera bonasus
+Triaenodon obesus	Sargocentron punctatissimum
+Triaenodon obesus	Scartella cristata
+Triaenodon obesus	Scopelosaurus harryi
+Triaenodon obesus	Selar crumenophthalmus
+Triaenodon obesus	Xyrichtys novacula
+Triaenodon obesus	Mollusks
+Xyrichtys novacula	Abudefduf taurus
+Xyrichtys novacula	Ammodytes americanus
+Xyrichtys novacula	Ammodytes dubius
+Xyrichtys novacula	Chanos chanos
+Xyrichtys novacula	Citharichthys sordidus
+Xyrichtys novacula	Engraulis japonicus
+Xyrichtys novacula	Girella cyanea
+Xyrichtys novacula	Hyporhamphus quoyi
+Xyrichtys novacula	Lagodon rhomboides
+Xyrichtys novacula	Leuroglossus schmidti
+Xyrichtys novacula	Microspathodon chrysurus
+Xyrichtys novacula	Phoxinus phoxinus
+Xyrichtys novacula	Sargocentron punctatissimum
+Xyrichtys novacula	Scartella cristata
+Xyrichtys novacula	Scopelosaurus harryi
+Xyrichtys novacula	Zooplankton and Crustaceans
+Xyrichtys novacula	Mollusks
+Xyrichtys novacula	Detritus
+Xyrichtys novacula	Worms
+Xyrichtys novacula	Other Invertebrates
