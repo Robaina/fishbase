@@ -24,7 +24,7 @@ process_and_save_data <- function(species_list, merged_data, output_file) {
     if (all(required_columns %in% colnames(merged_data))) {
         final_data <- species_list %>%
             left_join(merged_data, by = c("B.species" = "Species")) %>%
-            select(`B.class`, `B.family`, `B.species`, Troph, FoodI, FoodII, FoodIII, Stage, DietPercent, ItemName) %>%
+            select(`B.class`, `B.family`, `B.species`, Troph, FoodI, FoodII, FoodIII, Stage, DietPercent, ItemName, `ID`) %>%
             rename(Class = `B.class`, Family = `B.family`, Species = `B.species`)
 
         write_csv(final_data, output_file)

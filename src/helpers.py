@@ -129,6 +129,34 @@ def create_trophic_web(df: pd.DataFrame) -> nx.DiGraph:
     return G
 
 
+def add_asv_ids_to_graph_data(
+    graph_file_path: str, mapping_file_path: str, output_file_path: str
+) -> None:
+    """
+    Adds a new column "ID" to the graph TSV file by mapping species to ASV IDs from the mapping file.
+
+    Args:
+    graph_file_path (str): Path to the graph TSV file.
+    mapping_file_path (str): Path to the mapping TSV file.
+    output_file_path (str): Path to save the updated TSV file.
+    """
+    graph_df = pd.read_csv(graph_file_path, sep="\t")
+    mapping_df = pd.read_csv(mapping_file_path)
+    species_to_asv = {}
+    for _, row in mapping_df.iterrows():
+        species = row["B.species"]
+        asv_ids = row["ID"]
+        species_to_asv[species] = asv_ids
+
+    graph_df["ID"] = (
+        graph_df["Predator"].map(species_to_asv).fillna("")
+        + ","
+        + graph_df["Prey"].map(species_to_asv).fillna("")
+    )
+    graph_df["ID"] = graph_df["ID"].str.strip(",")
+    graph_df.to_csv(output_file_path, sep="\t", index=False)
+
+
 def visualize_trophic_web(G: nx.DiGraph) -> None:
     """
     Visualize the trophic web graph.
