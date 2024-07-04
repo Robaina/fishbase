@@ -98,7 +98,7 @@ def create_trophic_web(df: pd.DataFrame) -> nx.DiGraph:
     for species, trophic_level in species_trophic_levels.items():
         G.add_node(species, trophic_level=trophic_level, node_type="fish")
 
-    prey_categories: Set[str] = set()
+    prey_categories = set()
     for col in ["FoodI", "FoodII", "FoodIII"]:
         prey_categories.update(map(simplify_prey_category, df[col].dropna().unique()))
 
