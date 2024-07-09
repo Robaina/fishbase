@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import networkx as nx
+import numpy as np
 import pandas as pd
 
 
@@ -82,17 +83,22 @@ def save_graph(graph: nx.DiGraph, file_path: str) -> None:
     )
 
 
-def create_trophic_web(df: pd.DataFrame) -> nx.DiGraph:
+def create_trophic_web(df: pd.DataFrame, station_id: str = None) -> nx.DiGraph:
     """
     Create a trophic web graph from the given dataframe.
 
     Args:
         df (pd.DataFrame): Dataframe containing trophic information.
+        station_id (str, optional): Station ID to filter species by. Default is None.
 
     Returns:
         nx.DiGraph: Directed graph representing the trophic web.
     """
     G = nx.DiGraph()
+
+    # Filter the dataframe by station if station_id is provided
+    if station_id:
+        df = df[df["Stations"].str.contains(station_id, na=False)]
 
     species_trophic_levels = df.groupby("Species")["Troph"].mean().to_dict()
     for species, trophic_level in species_trophic_levels.items():
@@ -196,3 +202,51 @@ def visualize_trophic_web(G: nx.DiGraph) -> None:
     plt.axis("off")
     plt.tight_layout()
     plt.show()
+
+
+def process_station_data(station_file, station_ids):
+    # Read the station data
+    df = pd.read_csv(station_file, index_col=0)
+
+    # Create a dictionary to store ASV to station mappings
+    asv_stations = {}
+
+    for index, row in df.iterrows():
+        asv_id = row["ID"]
+        present_stations = []
+        for station in station_ids:
+            station_cols = [col for col in df.columns if col.startswith(f"{station}.")]
+            if np.all(row[station_cols] > 0):
+                present_stations.append(station)
+
+        if not present_stations:
+            present_stations = ["not_found"]
+
+        asv_stations[asv_id] = present_stations
+
+    return asv_stations
+
+
+def update_trophic_data(trophic_file, asv_stations, output_file):
+    # Read the trophic data
+    df = pd.read_csv(trophic_file)
+
+    def get_stations(asv_list):
+        if pd.isna(asv_list):
+            return "not_found"
+        stations = set()
+        for asv in str(asv_list).split(","):
+            stations.update(asv_stations.get(asv.strip(), ["not_found"]))
+        return ",".join(sorted(stations))
+
+    # Add new column with stations
+    df["Stations"] = df["ID"].apply(get_stations)
+
+    # Save updated dataframe
+    df.to_csv(output_file, index=False)
+
+
+def add_station_to_trophic_info(station_file, trophic_file, output_file, station_ids):
+    asv_stations = process_station_data(station_file, station_ids)
+    update_trophic_data(trophic_file, asv_stations, output_file)
+    print(f"Updated trophic data saved to {output_file}")

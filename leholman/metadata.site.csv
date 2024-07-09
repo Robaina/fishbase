@@ -1,0 +1,24 @@
+﻿SiteID,Location,island,latitude,longitude,EcoRegion,SamplingDate,DeepSampleDepthFeet,ShallowSampleDepthFeet
+BAR,Barahona Beach,Isabela,"S 01º02,325´","W 091º 09,382´",Western,30/09/2018,12,6
+CDOU,Cabo Douglas,Fernandina,"S 00º18,169´","W 091º 39,104´",Western,03/10/2018,12,3
+CHAM,Cabo Hammond,Fernandina,"S 00º28,175´","W 091º 36,671´",Western,02/10/2018,18,3
+CMAR,Cabo Marshall,Isabela,"S 00º00,080´","W 091º 13,431´",CSouthEastern,05/10/2018,17.8,3
+CORA,Salvaje de Corazón,Genovesa,"N 00º18,679´","W 089º 58,509´",Northern,08/10/2018,18,3
+CUEV,Las Cuevas,Floreana,"S 01º15,201´","W 090º 22,446´",CSouthEastern,12/10/2018,28,3
+DAPH,Daphne Mayor,Seymour,"S 00º25,548´","W 090º 22,327´",CSouthEastern,10/10/2018,32,3
+EGAS,Cerca a Puerto Egas,Santiago,"S 00º15,576´","W 090º 52,127´",CSouthEastern,09/10/2018,71,3
+ELI,Marielas-Bahia Elizabeth,Isabela,"S 00º35,703´","W 091º 05,154´",Elizabeth,01/10/2018,16,3
+GARD,Bahía Gardner,Española,"S 01º21,928´","W 089º 38,359´",CSouthEastern,13/10/2018,19,3
+PCAL,Punta Calle,Marchena,"N 00º17,186´","W 090º 30,109´",Northern,07/10/2018,21,3
+PESP,Punta Espinosa,Fernandina,"S 00º16,337´","W 091º 26,123´",Western,03/10/2018,28,3
+PIN,Cabo Ibbetson,Pinta,"N 00º36,233´","W 090º 47,390´",Northern,06/10/2018,25,3
+PLAZ,Islas Plaza,Santa Cruz,"S 00º34,054´","W 090º 10,417´",CSouthEastern,11/10/2018,18,3
+PMAN,Punta Mangle,Fernandina,"S 00º27,514´","W 091º 23,450´",Elizabeth,02/10/2018,11.4,3
+PMOR,Punta Moreno,Isabela,"S 00º43,338´","W 091º 20,704´",Western,01/10/2018,22,3
+PROJ,Playa Roja,Rábida,"S 00º24,537´","W 090º 42,932´",CSouthEastern,09/10/2018,61,3
+PVIC,Punta Vicente Roca,Isabela,"S 00º02,722´","W 091º 32,581´",Western,04/10/2018,23,3
+RED,Roca Redonda,Isabela,"N 00º16,236´","W 091º 37,589´",Northern,04/10/2018,26.8,3
+SOMB,Sombrero Chino,Santiago,"S 00º21,049´","W 090º 34,110´",CSouthEastern,10/10/2018,25,3
+STAFE,Bahía Santa fe,Santa Fe,"S 00º47,969´","W 090º 02,847´",CSouthEastern,11/10/2018,20,3
+SUAR,Punta Suárez,Española,"S 01º21,034´","W 089º 42,626´",CSouthEastern,13/10/2018,36,3
+TOR,Isla Tortuga,Isabela,"S 01º00,703´","W 090º 52,602´",Western,30/09/2018,100,6
