@@ -204,6 +204,121 @@ def visualize_trophic_web(
     # Create a new figure
     fig, ax = plt.subplots(figsize=figsize)
 
+    def hierarchical_layout(
+        G, subset_key="layer", width=1, height=1, offset_factor=0.05
+    ):
+        pos = {}
+        layers = {}
+        for node in G.nodes():
+            layer = G.nodes[node][subset_key]
+            if layer not in layers:
+                layers[layer] = []
+            layers[layer].append(node)
+
+        max_layer = max(layers.keys())
+        for layer, nodes in layers.items():
+            y = height * (1 - layer / max_layer)  # Invert y-coordinate
+            nodes.sort()  # Sort nodes alphabetically for consistent ordering
+            x_step = width / (len(nodes) + 1)
+            for i, node in enumerate(nodes, start=1):
+                x = i * x_step
+                offset = offset_factor * (-1) ** i  # Zigzag pattern
+                pos[node] = (x, y + offset)
+        return pos
+
+    # Define the layers for hierarchical layout
+    for node in G.nodes():
+        G.nodes[node]["layer"] = int(G.nodes[node].get("trophic_level", 0))
+
+    pos = hierarchical_layout(G)
+
+    # Get trophic levels
+    trophic_levels = np.array(
+        [G.nodes[node].get("trophic_level", 0) for node in G.nodes]
+    )
+    max_trophic_level = trophic_levels.max()
+    min_trophic_level = trophic_levels.min()
+
+    # Normalize trophic levels to range between 0 and 1
+    norm = Normalize(vmin=min_trophic_level, vmax=max_trophic_level)
+
+    # Use the viridis color map
+    cmap = plt.cm.viridis
+    node_colors = cmap(norm(trophic_levels))
+
+    # Draw the nodes
+    nx.draw_networkx_nodes(
+        G,
+        pos,
+        node_color=node_colors,
+        node_size=node_size,
+        alpha=0.9,
+        margins=0.15,
+        cmap=cmap,
+        ax=ax,
+    )
+
+    # Draw the edges
+    nx.draw_networkx_edges(
+        G,
+        pos,
+        edge_color="lightgray",
+        arrows=True,
+        arrowsize=20,
+        min_target_margin=node_margin,
+        min_source_margin=node_margin,
+        connectionstyle="arc3,rad=0.1",
+        ax=ax,
+    )
+
+    # Draw the labels
+    nx.draw_networkx_labels(
+        G,
+        pos,
+        font_size=10,
+        font_color="black",
+        font_weight="bold",
+        ax=ax,
+    )
+
+    # Set the title
+    ax.set_title(title, fontsize=16)
+
+    # Remove axis
+    ax.invert_yaxis()
+    ax.axis("off")
+
+    # Add colorbar if requested
+    if colorbar:
+        sm = ScalarMappable(cmap=cmap, norm=norm)
+        sm.set_array([])
+        cax = fig.add_axes([0.92, 0.3, 0.02, 0.4])  # [left, bottom, width, height]
+        cbar = plt.colorbar(sm, cax=cax, orientation="vertical")
+        cbar.set_label("Trophic Level", fontsize=12)
+        cbar.ax.tick_params(labelsize=10)
+
+    # Show the plot
+    plt.tight_layout()
+    if figure_file:
+        plt.savefig(figure_file, dpi=300)
+    if not no_figure:
+        plt.show()
+    plt.close()
+
+
+def visualize_trophic_web_horizontal(
+    G,
+    figsize=(20, 12),
+    node_size=5000,
+    node_margin=33,
+    title="Trophic Web",
+    colorbar=True,
+    figure_file=None,
+    no_figure=False,
+):
+    # Create a new figure
+    fig, ax = plt.subplots(figsize=figsize)
+
     def hierarchical_layout(G, subset_key="layer", offset_factor=0.02):
         pos = nx.multipartite_layout(G, subset_key=subset_key)
 
@@ -396,7 +511,7 @@ def plot_trophic_level_distribution(
             )
             axes[i].set_xlabel("Trophic Level")
             axes[i].set_ylabel("Counts")
-            axes[i].set_title(f"Distribution of Trophic Levels at Station {station_id}")
+            axes[i].set_title(title)
 
         # Remove any unused subplots
         for j in range(i + 1, len(axes)):
