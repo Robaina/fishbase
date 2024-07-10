@@ -1,0 +1,25 @@
+Predator	Prey	ID
+Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
+Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
+Scartella cristata	Primary Producers	ASV_57,ASV_27
+Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
+Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
+Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
+Cephalopholis sexmaculata	Chanos chanos	ASV_8,ASV_1,ASV_236,ASV_97
+Cephalopholis sexmaculata	Apogon imberbis	ASV_8,ASV_1,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Cephalopholis sexmaculata	Plagiotremus tapeinosoma	ASV_8,ASV_1,ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Chanos chanos	Primary Producers	ASV_236,ASV_97
+Chanos chanos	Detritus and Debris	ASV_236,ASV_97
+Chanos chanos	Zooplankton	ASV_236,ASV_97
+Chanos chanos	Benthic Invertebrates	ASV_236,ASV_97
+Apogon imberbis	Ammodytes personatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_22,ASV_1336,ASV_6
+Apogon imberbis	Scartella cristata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_57,ASV_27
+Apogon imberbis	Chanos chanos	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_236,ASV_97
+Apogon imberbis	Plagiotremus tapeinosoma	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Apogon imberbis	Benthic Invertebrates	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Plagiotremus tapeinosoma	Primary Producers	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Plagiotremus tapeinosoma	Ammodytes personatus	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_22,ASV_1336,ASV_6
+Plagiotremus tapeinosoma	Scartella cristata	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_57,ASV_27
+Plagiotremus tapeinosoma	Chanos chanos	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_236,ASV_97
+Plagiotremus tapeinosoma	Zooplankton	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Plagiotremus tapeinosoma	Benthic Invertebrates	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69

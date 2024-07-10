@@ -1,0 +1,22 @@
+Predator	Prey	ID
+Cephalopholis sexmaculata	Auxis thazard	ASV_8,ASV_1,ASV_265,ASV_185
+Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
+Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
+Cephalopholis sexmaculata	Ammodytes americanus	ASV_8,ASV_1,ASV_241,ASV_124
+Cephalopholis sexmaculata	Apogon imberbis	ASV_8,ASV_1,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Auxis thazard	Benthic Invertebrates	ASV_265,ASV_185
+Auxis thazard	Ammodytes personatus	ASV_265,ASV_185,ASV_22,ASV_1336,ASV_6
+Auxis thazard	Scartella cristata	ASV_265,ASV_185,ASV_57,ASV_27
+Auxis thazard	Ammodytes americanus	ASV_265,ASV_185,ASV_241,ASV_124
+Auxis thazard	Apogon imberbis	ASV_265,ASV_185,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Auxis thazard	Zooplankton	ASV_265,ASV_185
+Auxis thazard	Cephalopods	ASV_265,ASV_185
+Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
+Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
+Scartella cristata	Primary Producers	ASV_57,ASV_27
+Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
+Ammodytes americanus	Zooplankton	ASV_241,ASV_124
+Apogon imberbis	Ammodytes personatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_22,ASV_1336,ASV_6
+Apogon imberbis	Scartella cristata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_57,ASV_27
+Apogon imberbis	Ammodytes americanus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_241,ASV_124
+Apogon imberbis	Benthic Invertebrates	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82

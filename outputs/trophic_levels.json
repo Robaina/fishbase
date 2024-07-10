@@ -1,0 +1,127 @@
+{
+    "Primary Producers": {
+        "trophic_level": 1.0,
+        "subcategories": [
+            "benthic algae/weeds",
+            "blue-green algae",
+            "brown algae",
+            "diatoms",
+            "dinoflagellates",
+            "green algae",
+            "n.a./other phytoplankton",
+            "periphyton",
+            "red algae",
+            "terrestrial plants",
+            "other plants"
+        ]
+    },
+    "Detritus and Debris": {
+        "trophic_level": 1.83,
+        "subcategories": [
+            "detritus",
+            "debris",
+            "carcasses"
+        ]
+    },
+    "Zooplankton": {
+        "trophic_level": 2.22,
+        "subcategories": [
+            "cladocerans",
+            "euphausiids",
+            "mysids",
+            "ostracods",
+            "plank. copepods",
+            "n.a./other plank. crustaceans",
+            "n.a./other plank. invertebrates"
+        ]
+    },
+    "Benthic Invertebrates": {
+        "trophic_level": 2.35,
+        "subcategories": [
+            "amphipods",
+            "ascidians",
+            "benth. copepods",
+            "bivalves",
+            "chitons",
+            "crabs",
+            "gastropods",
+            "hard corals",
+            "isopods",
+            "jellyfish/hydroids",
+            "lobsters",
+            "n.a./other annelids",
+            "n.a./other benth. crustaceans",
+            "n.a./other benth. invertebrates",
+            "n.a./other echinoderms",
+            "n.a./other mollusks",
+            "n.a./other polyps",
+            "non-annelids",
+            "polychaetes",
+            "sea cucumbers",
+            "sea stars/brittle stars",
+            "sea urchins",
+            "shrimps/prawns",
+            "sponges",
+            "stomatopods",
+            "worms"
+        ]
+    },
+    "Cephalopods": {
+        "trophic_level": 3.5,
+        "subcategories": [
+            "squids/cuttlefish",
+            "octopi",
+            "n.a./other cephalopods"
+        ]
+    },
+    "Fish": {
+        "trophic_level": 3.33,
+        "subcategories": [
+            "bony fish",
+            "fish eggs/larvae",
+            "finfish",
+            "n.a./other finfish"
+        ]
+    },
+    "Marine Mammals": {
+        "trophic_level": 4.08,
+        "subcategories": [
+            "dolphins",
+            "pinnipeds",
+            "other mammals",
+            "n.a./other mammals"
+        ]
+    },
+    "Birds": {
+        "trophic_level": 3.56,
+        "subcategories": [
+            "sea birds",
+            "shore birds",
+            "n.a./other birds"
+        ]
+    },
+    "Reptiles and Amphibians": {
+        "trophic_level": 2.57,
+        "subcategories": [
+            "turtles",
+            "n.a./other reptiles",
+            "toads/frogs",
+            "salamanders/newts"
+        ]
+    },
+    "Insects": {
+        "trophic_level": 2.15,
+        "subcategories": [
+            "insects"
+        ]
+    },
+    "Other Categories": {
+        "trophic_level": 2.53,
+        "subcategories": [
+            "nekton",
+            "n.a./other invertebrates",
+            "n.a./others",
+            "others"
+        ]
+    }
+}

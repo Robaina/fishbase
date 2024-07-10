@@ -1,0 +1,1065 @@
+Class,Family,Species,Troph,Length,FoodI,FoodII,FoodIII,Prey_category,Prey_Troph,Stage,DietPercent,ItemName,ID,Stations
+Actinopteri,Acanthuridae,Prionurus scalprum,,50.0,,,,,,,,,"ASV_21,ASV_3,ASV_337,ASV_6,ASV_11,ASV_213,ASV_5,ASV_52,ASV_68","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR,not_found"
+Actinopteri,Acropomatidae,Malakichthys barbatus,,18.010000228881836,,,,,,,,,ASV_283,not_found
+Actinopteri,Ammodytidae,Ammodytes americanus,3.2,23.5,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,juv./adults,0.5,Meganyctiphanes norvegica,"ASV_241,ASV_124","BAR,CDOU,CHAM,CMAR,PESP,PMOR"
+Actinopteri,Ammodytidae,Ammodytes americanus,3.2,23.5,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,0.3899999856948852,mysids,"ASV_241,ASV_124","BAR,CDOU,CHAM,CMAR,PESP,PMOR"
+Actinopteri,Ammodytidae,Ammodytes americanus,3.2,23.5,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,48.61000061035156,Sagitta elegans,"ASV_241,ASV_124","BAR,CDOU,CHAM,CMAR,PESP,PMOR"
+Actinopteri,Ammodytidae,Ammodytes americanus,3.2,23.5,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,50.459999084472656,Calanoida,"ASV_241,ASV_124","BAR,CDOU,CHAM,CMAR,PESP,PMOR"
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,0.800000011920929,Parathemisto sp.,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,zoobenthos,sponges/tunicates,ascidians,Benthic Invertebrates,2.35,juv./adults,6.5,Urochordata,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,59.59999847412109,Calanoida,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.5,Osteichthyes,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,22.200000762939453,Animal remains,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,1.2000000476837158,Crustacea,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,0.4000000059604645,Chaetognatha,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.48,25.0,zoobenthos,cnidarians,n.a./other polyps,Benthic Invertebrates,2.35,juv./adults,2.799999952316284,Cnidaria,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,9.899999618530272,Gammarus annulatus,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,45.20000076293945,Calanus sp.,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.899999976158142,Ammodytes dubius,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,7.199999809265137,Animal remains,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zooplankton,fish (early stages),fish eggs/larvae,Fish,3.33,larvae,0.6000000238418579,Osteichthyes,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,0.2000000029802322,Neomysis americana,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,2.200000047683716,Euphausiacea,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,0.3000000119209289,Larvacea,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,32.20000076293945,Sagitta sp.,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.32,25.0,zoobenthos,cnidarians,n.a./other polyps,Benthic Invertebrates,2.35,juv./adults,0.3000000119209289,Cnidaria,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,1.899999976158142,Parathemisto sp.,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zoobenthos,sponges/tunicates,ascidians,Benthic Invertebrates,2.35,juv./adults,0.699999988079071,Urochordata,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,73.69999694824219,Calanus sp.,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3000000119209289,Osteichthyes,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,3.900000095367432,Animal remains,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,juv./adults,0.6000000238418579,Meganyctiphanes norvegica,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zooplankton,fish (early stages),fish eggs/larvae,Fish,3.33,eggs,0.2000000029802322,Osteichthyes,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,2.200000047683716,Neomysis americana,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,1.399999976158142,Ostracoda,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.14,25.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,15.100000381469728,Limacina sp.,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,zoobenthos,sponges/tunicates,ascidians,Benthic Invertebrates,2.35,juv./adults,21.5,Urochordata,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,67.9000015258789,Calanoida,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,4.0,Animal remains,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,3.700000047683716,Limacina sp.,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,0.3000000119209289,Cirripedia,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,juv./adults,0.4000000059604645,Hyperiidae,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,0.1000000014901161,Chaetognatha,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes dubius,3.11,25.0,zoobenthos,benth. crust.,ostracods,Zooplankton,2.22,juv./adults,2.0999999046325684,Ostracoda,"ASV_331,ASV_818,ASV_954,ASV_287,ASV_365",not_found
+Actinopteri,Ammodytidae,Ammodytes personatus,3.63,15.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,0.1000000014901161,algae,"ASV_22,ASV_1336,ASV_6","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Ammodytidae,Ammodytes personatus,3.63,15.0,zooplankton,plank. crust.,cladocerans,Zooplankton,2.22,juv./adults,27.700000762939453,cladocerans,"ASV_22,ASV_1336,ASV_6","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Ammodytidae,Ammodytes personatus,3.63,15.0,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,larvae,1.2999999523162842,euphausiids,"ASV_22,ASV_1336,ASV_6","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Ammodytidae,Ammodytes personatus,3.63,15.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,larvae,0.5,veliger,"ASV_22,ASV_1336,ASV_6","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Ammodytidae,Ammodytes personatus,3.63,15.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,eggs,2.700000047683716,ova,"ASV_22,ASV_1336,ASV_6","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Ammodytidae,Ammodytes personatus,3.63,15.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,larvae,5.300000190734863,nauplii,"ASV_22,ASV_1336,ASV_6","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Ammodytidae,Ammodytes personatus,3.63,15.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,recruits/juv.,62.400001525878906,copepodite,"ASV_22,ASV_1336,ASV_6","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Antennariidae,Antennatus coccineus,,,,,,,,,,,"ASV_1236,ASV_1223,ASV_460",not_found
+Actinopteri,Apogonidae,Apogon imberbis,3.92,15.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,42.0,bony fish,"ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82","CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMOR,PROJ,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Apogonidae,Apogon imberbis,3.92,15.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,58.0,benth. crustaceans,"ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82","CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMOR,PROJ,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Argentinidae,Glossanodon semifasciatus,,22.700000762939453,,,,,,,,,ASV_745,not_found
+Actinopteri,Aulopidae,Hime damasi,,,,,,,,,,,"ASV_1076,ASV_1332",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.16,20.0,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,juv./adults,7.579999923706055,euphausiids,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.16,20.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,5.269999980926514,Chaetognatha,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.16,20.0,zooplankton,plank. crust.,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,5.489999771118164,Hyperiidae,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.16,20.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,10.220000267028809,Coelenterata,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.16,20.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,13.1899995803833,Oikopleura,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.16,20.0,zoobenthos,benth. crust.,ostracods,Zooplankton,2.22,juv./adults,0.9900000095367432,ostracods,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.16,20.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,57.25,Calanoida,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.12,20.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,3.220000028610229,Amphipoda,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.12,20.0,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,juv./adults,26.700000762939453,Euphausiacea,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.12,20.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,3.220000028610229,Chaetognatha,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.12,20.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,10.970000267028809,Coelenterata,"ASV_1101,ASV_243",not_found
+Actinopteri,Bathylagidae,Leuroglossus schmidti,3.12,20.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,55.900001525878906,Copepoda,"ASV_1101,ASV_243",not_found
+Actinopteri,Belonidae,Platybelone argala,,,,,,,,,,,"ASV_326,ASV_1103,ASV_326,ASV_385","PLAZ,not_found"
+Actinopteri,Blenniidae,Cirripectes imitator,,9.300000190734863,,,,,,,,,"ASV_26,ASV_409,ASV_756,ASV_768,ASV_10,ASV_206","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,TOR,not_found"
+Actinopteri,Blenniidae,Plagiotremus tapeinosoma,3.84,14.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,leaves/blades,1.0,algae,"ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69","BAR,CMAR,CORA,DAPH,ELI,GARD,PCAL,PIN,PLAZ,PMAN,PROJ,SOMB,not_found"
+Actinopteri,Blenniidae,Plagiotremus tapeinosoma,3.84,14.0,nekton,finfish,bony fish,Fish,3.33,n.a./others,60.0,fish,"ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69","BAR,CMAR,CORA,DAPH,ELI,GARD,PCAL,PIN,PLAZ,PMAN,PROJ,SOMB,not_found"
+Actinopteri,Blenniidae,Plagiotremus tapeinosoma,3.84,14.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,30.0,Cyclopoida,"ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69","BAR,CMAR,CORA,DAPH,ELI,GARD,PCAL,PIN,PLAZ,PMAN,PROJ,SOMB,not_found"
+Actinopteri,Blenniidae,Plagiotremus tapeinosoma,3.84,14.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,9.0,polychaetes,"ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69","BAR,CMAR,CORA,DAPH,ELI,GARD,PCAL,PIN,PLAZ,PMAN,PROJ,SOMB,not_found"
+Actinopteri,Blenniidae,Scartella cristata,2.02,12.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,99.1999969482422,Acanthophora,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.02,12.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.800000011920929,Acmaeidae,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,35.79999923706055,Algae (filamentous),"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,benth. crust.,isopods,Benthic Invertebrates,2.35,n.a./others,1.5,Dynoides castroi,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,benth. crust.,isopods,Benthic Invertebrates,2.35,n.a./others,4.800000190734863,Sphaeroma walkeri,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,1.5,Amphipoda (fragments),"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,3.0999999046325684,Petrolisthes sp,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,6.400000095367432,Hyale media,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,29.200000762939453,Decapoda (fragments),"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,n.a./others,1.5,Bryozoa,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,n.a./others,1.5,Littorina ziczac,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,n.a./others,1.5,Modiolus carvalhoi,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,n.a./others,1.5,Odostomia sp.,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,n.a./others,2.5,Acmaea subrugosa,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,n.a./others,3.0999999046325684,Brachidontes sp.,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,recruits/juv.,1.5,Mollusca,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,n.a./others,1.5,Phragmatopoma (fragments),"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Blenniidae,Scartella cristata,2.96,12.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,n.a./others,3.0999999046325684,Phragmatopoma lapidosa,"ASV_57,ASV_27","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Bothidae,Bothus robinsi,,25.0,,,,,,,,,"ASV_785,ASV_208,ASV_316,ASV_597,ASV_727,ASV_899",not_found
+Actinopteri,Bythitidae,Alionematichthys riukiuensis,,7.869999885559082,,,,,,,,,ASV_1138,not_found
+Actinopteri,Bythitidae,Brosmophycis marginata,,46.0,,,,,,,,,"ASV_1129,ASV_979,ASV_1029,ASV_1335,ASV_424",not_found
+Actinopteri,Bythitidae,Grammonus robustus,,21.0,,,,,,,,,"ASV_299,ASV_163",not_found
+Actinopteri,Carangidae,Caranx bucculentus,3.75,66.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,22.0,Teleostei,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.75,66.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,33.599998474121094,Brachyura,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.75,66.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,5.800000190734863,benth. crustaceans,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.75,66.0,zoobenthos,echinoderms,n.a./other echinoderms,Benthic Invertebrates,2.35,n.a./others,4.900000095367432,echinoderms,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.75,66.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,n.a./others,9.100000381469728,mollusks,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.75,66.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,19.0,Penaeidae,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.75,66.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,5.599999904632568,stomatopods,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,14.90999984741211,Teleostei,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,39.04999923706055,Brachyura,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,zoobenthos,worms,n.a./other annelids,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,Annelids,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,6.690000057220459,other Crustacea,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,12.68000030517578,Mollusks,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,19.3700008392334,Penaeidae,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,3.549999952316284,Cephalopoda,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,3.84,66.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,3.650000095367432,Stomatopoda,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,4.04,66.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,48.470001220703125,bony fish,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,4.04,66.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,45.59999847412109,Malacostraca,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,4.04,66.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,0.209999993443489,polychaetes,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,4.04,66.0,zoobenthos,echinoderms,sea stars/brittle stars,Benthic Invertebrates,2.35,juv./adults,0.3000000119209289,Ophiuroidea,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Caranx bucculentus,4.04,66.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,5.460000038146973,Cephalopoda,"ASV_138,ASV_317,ASV_192,ASV_215","PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.1,70.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,51.31999969482422,bony fish,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.1,70.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,6.949999809265137,mysids,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.1,70.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,27.809999465942383,shrimps/prawns,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.1,70.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,13.90999984741211,stomatopods,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.8,70.0,nekton,finfish,bony fish,Fish,3.33,n.a./others,50.0,fish scales,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.8,70.0,zooplankton,fish (early stages),fish eggs/larvae,Fish,3.33,larvae,9.600000381469728,engraulidae,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.8,70.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,12.5,crab,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.8,70.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,25.0,shrimp larvae,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.8,70.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,larvae,0.800000011920929,gastropod larvae,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.8,70.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,n.a./others,2.0999999046325684,Candacia,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.62,70.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.899999976158142,bony fish,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.62,70.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,0.699999988079071,benth. crustaceans,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.62,70.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,97.4000015258789,shrimps/prawns,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.43,70.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,13.600000381469728,Osteichthyes,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.43,70.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,71.69999694824219,Animal remains,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.43,70.0,zoobenthos,benth. crust.,lobsters,Benthic Invertebrates,2.35,juv./adults,10.600000381469728,crabs,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.43,70.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,4.099999904632568,Crustacea,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.12,70.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,74.66999816894531,bony fish,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.12,70.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,2.740000009536743,debris,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.12,70.0,zoobenthos,worms,n.a./other annelids,Benthic Invertebrates,2.35,juv./adults,0.1099999994039535,annelids,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,4.12,70.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,juv./adults,22.479999542236328,Crustacea,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.5,snapper,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,7.599999904632568,crabs,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,10.300000190734863,detritus,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,zoobenthos,benth. crust.,lobsters,Benthic Invertebrates,2.35,juv./adults,0.699999988079071,lobsters,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,recruits/juv.,8.899999618530273,invertebrates,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,31.399999618530277,zooplankton,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,recruits/juv.,27.5,zooplankton,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.6000000238418579,shrimps,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,11.300000190734863,squids,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Selar crumenophthalmus,3.41,70.0,others,herps,toads/frogs,Reptiles and Amphibians,2.57,n.a./others,1.2000000476837158,toads,"ASV_151,ASV_62","BAR,PMAN,PVIC,not_found"
+Actinopteri,Carangidae,Trachinotus baillonii,,60.0,,,,,,,,,"ASV_82,ASV_217,ASV_51","CHAM,CMAR,CORA,DAPH,GARD,PCAL,PIN,PVIC,RED,SOMB"
+Actinopteri,Carapidae,Carapus kagoshimanus,,,,,,,,,,,ASV_578,not_found
+Actinopteri,Carapidae,Echiodon drummondii,,30.0,,,,,,,,,ASV_983,not_found
+Actinopteri,Chaetodontidae,Chaetodon ocellatus,3.7,20.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,5.369999885559082,benthic algae/weeds,"ASV_229,ASV_119","PVIC,not_found"
+Actinopteri,Chaetodontidae,Chaetodon ocellatus,3.7,20.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,2.109999895095825,crustaceans,"ASV_229,ASV_119","PVIC,not_found"
+Actinopteri,Chaetodontidae,Chaetodon ocellatus,3.7,20.0,zoobenthos,cnidarians,n.a./other polyps,Benthic Invertebrates,2.35,juv./adults,52.790000915527344,Anthozoa,"ASV_229,ASV_119","PVIC,not_found"
+Actinopteri,Chaetodontidae,Chaetodon ocellatus,3.7,20.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,4.210000038146973,terebellid tentacles,"ASV_229,ASV_119","PVIC,not_found"
+Actinopteri,Chaetodontidae,Chaetodon ocellatus,3.7,20.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,14.4399995803833,polychaetes,"ASV_229,ASV_119","PVIC,not_found"
+Actinopteri,Chaetodontidae,Chaetodon ocellatus,3.7,20.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,21.06999969482422,sabellid tentacles,"ASV_229,ASV_119","PVIC,not_found"
+Actinopteri,Chaetodontidae,Johnrandallia nigrirostris,,20.0,,,,,,,,,"ASV_95,ASV_78","CDOU,CMAR,CUEV,DAPH,GARD,PCAL,PESP,PIN,PLAZ,PROJ,RED,SOMB,STAFE,SUAR"
+Actinopteri,Chaetodontidae,Prognathodes aya,,15.0,,,,,,,,,ASV_1178,not_found
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,14.0,Batis maritima,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,20.0,algae,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,plants,phytoplankton,blue-green algae,Primary Producers,1.0,n.a./others,3.0,blue-green algae,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,11.0,debris,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,plants,phytoplankton,diatoms,Primary Producers,1.0,n.a./others,43.0,Navicula,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,n.a./others,3.0,Foraminifera,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,zoobenthos,worms,non-annelids,Benthic Invertebrates,2.35,juv./adults,3.0,Nematoda,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.04,180.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,3.0,plank. copepods,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.0,180.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,7.0,benthic algae/weeds,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.0,180.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,10.0,benthic algae/weeds,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.0,180.0,plants,phytoplankton,blue-green algae,Primary Producers,1.0,n.a./others,3.0,blue-green algae,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.0,180.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,32.0,debris,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,2.0,180.0,plants,phytoplankton,diatoms,Primary Producers,1.0,n.a./others,48.0,Navicula,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,1.99,180.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,1.0,Batis maritima,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,1.99,180.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,3.0,benthic algae/weeds,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,1.99,180.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,13.0,debris,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,1.99,180.0,plants,phytoplankton,diatoms,Primary Producers,1.0,n.a./others,17.0,diatoms,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,1.99,180.0,plants,phytoplankton,diatoms,Primary Producers,1.0,n.a./others,64.0,Navicula,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chanidae,Chanos chanos,1.99,180.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,n.a./others,2.0,nematodes,"ASV_236,ASV_97","CORA,DAPH,PCAL,PIN,not_found"
+Actinopteri,Chiasmodontidae,Pseudoscopelus sagamianus,,21.5,,,,,,,,,ASV_891,not_found
+Actinopteri,Chlorophthalmidae,Chlorophthalmus acutifrons,,30.0,,,,,,,,,"ASV_180,ASV_679,ASV_593","PVIC,not_found"
+Actinopteri,Chlorophthalmidae,Chlorophthalmus borealis,,14.100000381469728,,,,,,,,,"ASV_938,ASV_1323",not_found
+Actinopteri,Cichlidae,Guianacara geayi,,12.399999618530272,,,,,,,,,ASV_1203,not_found
+Actinopteri,Cichlidae,Oreochromis niloticus x Oreochromis aureus,,,,,,,,,,,"ASV_204,ASV_478,ASV_195",not_found
+Actinopteri,Cirrhitidae,Cirrhitichthys oxycephalus,,10.0,,,,,,,,,"ASV_1007,ASV_173,ASV_234,ASV_434,ASV_686,ASV_106,ASV_1098,ASV_231","CMAR,CORA,DAPH,ELI,PIN,PMOR,RED,not_found"
+Actinopteri,Clupeidae,Dorosoma cepedianum,,57.0,,,,,,,,,"ASV_136,ASV_611,ASV_80","BAR,DAPH,ELI,PMAN,not_found"
+Actinopteri,Congridae,Gorgasia sp. JAL-2006,,,,,,,,,,,"ASV_320,ASV_750,ASV_981",not_found
+Actinopteri,Congridae,Paraconger notialis,,72.0,,,,,,,,,ASV_378,not_found
+Actinopteri,Echeneidae,Remora brachyptera,,50.0,,,,,,,,,ASV_359,not_found
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,juv./adults,57.09999847412109,euphausiids,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,zooplankton,fish (early stages),fish eggs/larvae,Fish,3.33,larvae,6.599999904632568,fish larvae,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,zooplankton,jellyfish/hydroids,jellyfish/hydroids,Benthic Invertebrates,2.35,juv./adults,0.800000011920929,jellyfish/hydroids,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,juv./adults,2.299999952316284,Hyperiidea,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,0.4000000059604645,Parasagitta elegans,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,1.399999976158142,Pteropoda,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,others,others,n.a./others,Other Categories,2.53,n.a./others,0.2000000029802322,n.a./others,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.23,18.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,31.200000762939453,plank. copepods,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.11,18.0,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,juv./adults,41.29999923706055,euphausiids,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.11,18.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,juv./adults,20.0,Hyperiidea,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.11,18.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,0.8999999761581421,Parasagitta elegans,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.11,18.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,2.700000047683716,Pteropoda,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.11,18.0,others,others,n.a./others,Other Categories,2.53,n.a./others,4.0,n.a./others,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.11,18.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,31.100000381469727,plank. copepods,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,0.8135942220687866,unspecified gammarids,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.061791967600584,unspecified gastropods,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,0.0720906257629394,unspecified mysids,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,0.030895983800292,unspecified cumaceans,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,nekton,finfish,n.a./other finfish,Fish,3.33,recruits/juv.,57.04428482055664,unspecified young fishes,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,juv./adults,26.04531478881836,Acetes chinensis,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,2.234809398651123,Sagitta crassa,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Engraulidae,Engraulis japonicus,3.74,18.0,zooplankton,plank. crust.,plank. Copepods,Zooplankton,2.22,juv./adults,13.697218894958496,unspecified copepods,"ASV_368,ASV_535,ASV_977,ASV_197","BAR,not_found"
+Actinopteri,Ephippidae,Platax orbicularis,,60.0,,,,,,,,,ASV_188,not_found
+Actinopteri,Exocoetidae,Hirundichthys oxycephalus,,18.0,,,,,,,,,"ASV_167,ASV_212,ASV_273","ELI,PMAN,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.26,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,77.8499984741211,bony fish,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.26,160.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,8.6899995803833,mysids,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.26,160.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,4.769999980926514,benth. crustaceans,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.26,160.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.2399999946355819,shrimps/prawns,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.26,160.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,8.449999809265137,shrimps/prawns,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.35,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,87.8787841796875,unspecified fishes,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.35,160.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,4.040403842926025,digested matter,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.35,160.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,2.0202019214630127,unspecified crustaceans,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.35,160.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,1.0101009607315063,unsecified mollusks,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.35,160.0,others,others,n.a./others,Other Categories,2.53,n.a./others,5.0505051612854,unidentified matter,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0288628041744232,Symphodus doderleinii,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1731768399477005,Thalassoma pavo,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2693861722946167,Diplodus vulgaris,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2790071070194244,Siganus rivulatus,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3848374187946319,Symphodus sp.,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4714258313179016,Oblada melanura,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.5002886056900024,Pagellus bogaraveo,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.6638445258140564,Diplodus annularis,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.7504329681396484,Synodus saurus,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.7792957425117493,Sparisoma cretense,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.3180681467056274,Engraulis encrasicolus,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.3565518856048584,Coris julis,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.981912612915039,Mullus surmuletus,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.3090243339538574,Chromis chromis,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.328843593597412,Atherina hepsetus,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.48451042175293,uniddentified pelagic fishes,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,10.457956314086914,Mullus barbatus,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,25.69751739501953,Boops boops,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,25.918798446655277,Spicara smaris,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,bony fish,Fish,3.33,recruits/juv.,2.0685009956359863,unidentified juvenile gobiiids,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,zooplankton,fish (early stages),fish eggs/larvae,Fish,3.33,larvae,1.1448912620544434,unidentified fish fry,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,5.195304870605469,unindentified benthic fishes,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Fistulariidae,Fistularia commersonii,4.49,160.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,8.437560081481934,unidentified fish,"ASV_191,ASV_581,ASV_116","CMAR,PIN,PROJ,RED,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,23.26000022888184,Laevicardium,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,27.299999237060547,hippids,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,14.65999984741211,Acmaea,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,4.449999809265137,benth. crustaceans,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,1.919999957084656,hemichordata,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,worms,non-annelids,Benthic Invertebrates,2.35,juv./adults,6.070000171661377,Aspidosiphon sp.,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,12.84000015258789,polychaetes,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,echinoderms,sea stars/brittle stars,Benthic Invertebrates,2.35,n.a./others,1.919999957084656,Ophiothrix sp.,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,4.349999904632568,Callianassa,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.47,41.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,3.240000009536743,Gonodactylus oerstedii,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.48,41.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,2.0,benthic algae/weeds,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.48,41.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,3.0,bivalves,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.48,41.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.5,Paguridae,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.48,41.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,3.0,Neritina virginea,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.48,41.0,zoobenthos,insects,insects,Insects,2.15,n.a./others,2.5,insects,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.48,41.0,zoobenthos,benth. crust.,ostracods,Zooplankton,2.22,juv./adults,89.0,ostracods,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.86,41.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,33.900001525878906,crabs,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.86,41.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,14.699999809265137,invertebrates,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.86,41.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,23.299999237060547,invertebrates,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.86,41.0,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,8.399999618530273,zooplankton,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.86,41.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,12.800000190734863,Polychaeta,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.86,41.0,zoobenthos,echinoderms,sea stars/brittle stars,Benthic Invertebrates,2.35,juv./adults,1.899999976158142,Asteroidea,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gerreidae,Gerres cinereus,3.86,41.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,5.0,shrimps,"ASV_200,ASV_94,ASV_983","CDOU,PLAZ,PMAN,PVIC,not_found"
+Actinopteri,Gobiidae,Bathygobius lineatus,,,,,,,,,,,"ASV_1141,ASV_544,ASV_105,ASV_1307",not_found
+Actinopteri,Gobiidae,Chriolepis dialepta,,,,,,,,,,,"ASV_424,ASV_187,ASV_358,ASV_567,ASV_757",not_found
+Actinopteri,Gobiidae,Coryphopterus urospilus,,6.5,,,,,,,,,ASV_772,not_found
+Actinopteri,Gonostomatidae,Cyclothone acclinidens,,6.300000190734863,,,,,,,,,"ASV_874,ASV_315",not_found
+Actinopteri,Gonostomatidae,Sigmops sp. CBM DNA No. 2015-230,,,,,,,,,,,ASV_782,not_found
+Actinopteri,Haemulidae,Pomadasys stridens,,20.0,,,,,,,,,"ASV_106,ASV_140,ASV_16,ASV_386,ASV_738,ASV_91,ASV_112,ASV_2,ASV_246,ASV_36,ASV_48,ASV_484,ASV_61,ASV_827","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,TOR,not_found"
+Actinopteri,Hemiramphidae,Euleptorhamphus viridis,,53.0,,,,,,,,,"ASV_626,ASV_159,ASV_429","BAR,PCAL,PVIC,SUAR,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.0,fish,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,zooplankton,plank. crust.,cladocerans,Zooplankton,2.22,juv./adults,59.0,Bosminopsis,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,2.0,gastropods,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,zoobenthos,insects,insects,Insects,2.15,adults,11.0,insects,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,zoobenthos,insects,insects,Insects,2.15,larvae,8.0,Chironomidae,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,plants,phytoplankton,n.a./other phytoplankton,Primary Producers,1.0,n.a./others,2.0,phytoplankton,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,zooplankton,other plank. invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,juv./adults,1.0,Brachionus,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,zoobenthos,benth. crust.,ostracods,Zooplankton,2.22,juv./adults,1.0,Chydorids,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,11.0,Calanoid,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.02,31.200000762939453,plants,other plants,terrestrial plants,Primary Producers,1.0,leaves/blades,4.0,plants,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,zooplankton,plank. crust.,cladocerans,Zooplankton,2.22,juv./adults,55.0,Bosminopsis,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,2.0,gastropods,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,zoobenthos,insects,insects,Insects,2.15,adults,13.0,insects,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,zoobenthos,insects,insects,Insects,2.15,larvae,7.0,Chironomidae,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,zoobenthos,worms,n.a./other annelids,Benthic Invertebrates,2.35,juv./adults,2.0,Nematodes,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,plants,phytoplankton,n.a./other phytoplankton,Primary Producers,1.0,n.a./others,3.0,phytoplankton,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,zoobenthos,benth. crust.,ostracods,Zooplankton,2.22,juv./adults,1.0,Chydorids,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,16.0,Calanoid,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Hemiramphidae,Hyporhamphus quoyi,3.03,31.200000762939453,plants,other plants,terrestrial plants,Primary Producers,1.0,leaves/blades,1.0,plants,"ASV_197,ASV_49,ASV_98","BAR,PMAN,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,5.46999979019165,Gammaridea,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,1.1799999475479126,Harpacticoid,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,69.3499984741211,Xanthid,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,1.0700000524520874,Prosobranch gastropods,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,3.9700000286102295,Tanaidae,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,0.209999993443489,limpets,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,8.569999694824219,crab megalops,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,7.179999828338623,polychaetes,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,echinoderms,sea urchins,Benthic Invertebrates,2.35,juv./adults,0.959999978542328,echinoids,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Holocentridae,Sargocentron punctatissimum,3.43,23.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,2.039999961853028,Caridea,"ASV_264,ASV_554,ASV_140","CORA,not_found"
+Actinopteri,Kyphosidae,Girella cyanea,2.0,20.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,0.1800000071525573,chlorophytes,"ASV_398,ASV_151","BAR,PMAN,PVIC,not_found"
+Actinopteri,Kyphosidae,Girella cyanea,2.0,20.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,2.2799999713897705,rhodophytes,"ASV_398,ASV_151","BAR,PMAN,PVIC,not_found"
+Actinopteri,Kyphosidae,Girella cyanea,2.0,20.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,5.820000171661377,chlorophytes,"ASV_398,ASV_151","BAR,PMAN,PVIC,not_found"
+Actinopteri,Kyphosidae,Girella cyanea,2.0,20.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,91.7300033569336,Codium fragile,"ASV_398,ASV_151","BAR,PMAN,PVIC,not_found"
+Actinopteri,Labridae,Bodianus diplotaenia,,76.0,,,,,,,,,"ASV_27,ASV_416,ASV_46,ASV_21,ASV_56","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR,not_found"
+Actinopteri,Labridae,Bodianus loxozonus,,47.0,,,,,,,,,"ASV_124,ASV_75","CDOU,CHAM,PESP,PMOR,not_found"
+Actinopteri,Labridae,Halichoeres dispilus,,25.0,,,,,,,,,"ASV_224,ASV_9,ASV_13,ASV_147,ASV_221,ASV_646","BAR,CDOU,CHAM,CMAR,CUEV,DAPH,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,RED,SOMB,STAFE,SUAR,TOR,not_found"
+Actinopteri,Labridae,Iniistius pavo,,42.0,,,,,,,,,ASV_1089,not_found
+Actinopteri,Labridae,Nicholsina usta,,30.0,,,,,,,,,"ASV_262,ASV_79,ASV_1340,ASV_249","BAR,CDOU,CHAM,PIN,not_found"
+Actinopteri,Labridae,Novaculichthys taeniourus,,30.0,,,,,,,,,ASV_361,not_found
+Actinopteri,Labridae,Semicossyphus pulcher,,91.0,,,,,,,,,"ASV_86,ASV_73","BAR,CDOU,CHAM,CMAR,CUEV,PLAZ,PMAN,PMOR,RED,SUAR"
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,0.6000000238418579,amphipods,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,27.899999618530277,Ervilia nitens,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,6.300000190734863,carcasses,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,38.5,Batillaria,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,benth. crust.,isopods,Benthic Invertebrates,2.35,juv./adults,3.0999999046325684,isopods,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,4.199999809265137,benth. crustaceans,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,n.a./others,5.599999904632568,Dentalium sp.,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,7.5,polychaetes,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.67,38.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,6.300000190734863,shrimps/prawns,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,42.0,Anthocardium tuberculatum,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.5,Bathus podas,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,2.700000047683716,Anomura,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,9.100000381469728,Cyclope pellucida,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,3.299999952316284,Gastrosaccus sanctus,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,3.200000047683716,cumacea,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,zoobenthos,echinoderms,sea urchins,Benthic Invertebrates,2.35,juv./adults,37.79999923706055,Echinocardium cordatum,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labridae,Xyrichtys novacula,3.45,38.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.4000000059604645,Crangon crangon,"ASV_301,ASV_410,ASV_279",not_found
+Actinopteri,Labrisomidae,Malacoctenus triangulatus,,7.5,,,,,,,,,"ASV_120,ASV_217,ASV_739,ASV_156,ASV_38,ASV_72","BAR,CDOU,CHAM,CORA,DAPH,ELI,PCAL,PLAZ,PMAN,PMOR,RED,SOMB,TOR,not_found"
+Actinopteri,Leuciscidae,Phoxinus phoxinus,3.2,14.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,6.119999885559082,Gammaridae,ASV_419,not_found
+Actinopteri,Leuciscidae,Phoxinus phoxinus,3.2,14.0,zoobenthos,insects,insects,Insects,2.15,larvae,90.81999969482422,Chironomidae,ASV_419,not_found
+Actinopteri,Leuciscidae,Phoxinus phoxinus,3.2,14.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,3.059999942779541,polychaetes,ASV_419,not_found
+Actinopteri,Leuciscidae,Phoxinus sp. UAIC 14401.01,,,,,,,,,,,ASV_966,not_found
+Actinopteri,Lutjanidae,Caesio lunaris,,40.0,,,,,,,,,"ASV_80,ASV_1147",not_found
+Actinopteri,Lutjanidae,Lipocheilus carnolabrum,,50.0,,,,,,,,,"ASV_147,ASV_1251,ASV_138","PVIC,not_found"
+Actinopteri,Lutjanidae,Lutjanus argentimaculatus,3.58,150.0,nekton,finfish,bony fish,Fish,3.33,recruits/juv.,11.0,bony fish,"ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86","CMAR,CORA,PCAL,PIN,PMOR,RED,SUAR,not_found"
+Actinopteri,Lutjanidae,Lutjanus argentimaculatus,3.58,150.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,81.0,crabs,"ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86","CMAR,CORA,PCAL,PIN,PMOR,RED,SUAR,not_found"
+Actinopteri,Lutjanidae,Lutjanus argentimaculatus,3.58,150.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,8.0,shrimps/prawns,"ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86","CMAR,CORA,PCAL,PIN,PMOR,RED,SUAR,not_found"
+Actinopteri,Lutjanidae,Lutjanus sp. MM-2016,,,,,,,,,,,"ASV_617,ASV_536","CORA,not_found"
+Actinopteri,Lutjanidae,Pterocaesio tile,,30.0,,,,,,,,,"ASV_2,ASV_81,ASV_902,ASV_15","CDOU,CHAM,CMAR,CORA,CUEV,EGAS,PCAL,PLAZ,PMAN,PROJ,PVIC,RED,not_found"
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,3.66,104.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,84.5999984741211,Chionoecets angulatus,ASV_860,not_found
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,3.66,104.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,6.400000095367432,unidentified,ASV_860,not_found
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,3.66,104.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,9.0,unidentified,ASV_860,not_found
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,4.0,104.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,15.0,unidentified,ASV_860,not_found
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,4.0,104.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,3.0,unidentified,ASV_860,not_found
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,4.0,104.0,others,others,n.a./others,Other Categories,2.53,juv./adults,12.0,unidentified,ASV_860,not_found
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,4.0,104.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,24.0,unidentified,ASV_860,not_found
+Actinopteri,Macrouridae,Coryphaenoides acrolepis,4.0,104.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,46.0,unidentified,ASV_860,not_found
+Actinopteri,Molidae,Mola mola,4.5,333.0,zooplankton,jellyfish/hydroids,jellyfish/hydroids,Benthic Invertebrates,2.35,juv./adults,100.0,jellyfish/hydroids,"ASV_271,ASV_226",not_found
+Actinopteri,Monocentridae,Monocentris japonicus,,,,,,,,,,,"ASV_715,ASV_746",not_found
+Actinopteri,Moronidae,Dicentrarchus labrax,3.79,103.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,30.030000686645508,Syngnathus abaster,ASV_1002,not_found
+Actinopteri,Moronidae,Dicentrarchus labrax,3.79,103.0,zoobenthos,benth. crust.,isopods,Benthic Invertebrates,2.35,juv./adults,0.1700000017881393,Idothea sp.,ASV_1002,not_found
+Actinopteri,Moronidae,Dicentrarchus labrax,3.79,103.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,68.1500015258789,Crangon crangon,ASV_1002,not_found
+Actinopteri,Moronidae,Dicentrarchus labrax,3.79,103.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,1.6399999856948853,Nereis succinea,ASV_1002,not_found
+Actinopteri,Mugilidae,Chaenomugil proboscideus,,22.0,,,,,,,,,"ASV_444,ASV_1123",not_found
+Actinopteri,Muraenidae,Anarchias seychellensis,,29.0,,,,,,,,,"ASV_1188,ASV_310,ASV_777,ASV_146",not_found
+Actinopteri,Muraenidae,Anarchias sp. CBM:ZF:18316,,,,,,,,,,,ASV_457,not_found
+Actinopteri,Muraenidae,Enchelycore anatina,,120.0,,,,,,,,,"ASV_951,ASV_265","CHAM,not_found"
+Actinopteri,Muraenidae,Enchelycore nigricans,,100.0,,,,,,,,,"ASV_551,ASV_120,ASV_1291","BAR,CDOU,CHAM,CMAR,CORA,PLAZ,PMAN,TOR,not_found"
+Actinopteri,Muraenidae,Enchelycore pardalis,,92.0,,,,,,,,,"ASV_1179,ASV_349,ASV_286",not_found
+Actinopteri,Muraenidae,Gymnomuraena zebra,,150.0,,,,,,,,,"ASV_750,ASV_778",not_found
+Actinopteri,Muraenidae,Gymnothorax flavimarginatus,,240.0,,,,,,,,,"ASV_205,ASV_127,ASV_992","BAR,not_found"
+Actinopteri,Muraenidae,Gymnothorax formosus,,,,,,,,,,,"ASV_109,ASV_116,ASV_819,ASV_1333,ASV_77,ASV_91","CDOU,CHAM,CMAR,CORA,CUEV,DAPH,ELI,PCAL,PIN,PLAZ,PMAN,PROJ,RED,SOMB,TOR,not_found"
+Actinopteri,Muraenidae,Gymnothorax fuscomaculatus,,20.0,,,,,,,,,ASV_1281,not_found
+Actinopteri,Muraenidae,Gymnothorax sp. KAUM:I:98486,,,,,,,,,,,"ASV_1105,ASV_230,ASV_377,ASV_746,ASV_84,ASV_141,ASV_355,ASV_57","BAR,CDOU,CHAM,CORA,PESP,PIN,PLAZ,PMAN,PVIC,RED,SOMB,STAFE,TOR,not_found"
+Actinopteri,Muraenidae,Gymnothorax unicolor,,100.0,,,,,,,,,"ASV_344,ASV_89","CDOU,CHAM,CUEV,DAPH,ELI,PESP,PMOR,STAFE"
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.26,132.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,62.5,Scarus sp.,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.26,132.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,25.0,crabs,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.26,132.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,12.5,octopi,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.8922159671783447,Muraenidae,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,5.588821887969971,Holocentridae,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,14.371259689331056,Labridae,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,22.155689239501957,Halichoeres bivittatus,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,2.0958080291748047,Mithrax sculptus,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,5.588821887969971,unspecified crabs,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,10.17963981628418,Pitho anisodon,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,zoobenthos,benth. crust.,lobsters,Benthic Invertebrates,2.35,juv./adults,5.588821887969971,Panulirus argus,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,13.872260093688965,unspecified fishes,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,others,others,n.a./others,Other Categories,2.53,n.a./others,5.588821887969971,unspecified,ASV_673,not_found
+Actinopteri,Muraenidae,Gymnothorax vicinus,4.17,132.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,11.077839851379396,unspecified octopus,ASV_673,not_found
+Actinopteri,Muraenidae,Muraena lentiginosa,,61.0,,,,,,,,,"ASV_1202,ASV_185,ASV_251,ASV_564,ASV_73,ASV_170,ASV_183,ASV_37","BAR,CDOU,CHAM,CMAR,CUEV,PCAL,PIN,PLAZ,PMAN,RED,SOMB,not_found"
+Actinopteri,Muraenidae,Scuticaria tigrina,,140.0,,,,,,,,,"ASV_111,ASV_1169,ASV_327,ASV_388,ASV_211,ASV_402,ASV_419,ASV_552,ASV_74","CDOU,CHAM,ELI,TOR,not_found"
+Actinopteri,Muraenidae,Uropterygius macularius,,30.0,,,,,,,,,"ASV_1090,ASV_166,ASV_227,ASV_363,ASV_941,ASV_100,ASV_1341,ASV_289,ASV_294,ASV_308,ASV_478","CDOU,CHAM,CMAR,CORA,DAPH,PCAL,PESP,PIN,PLAZ,PMOR,PROJ,PVIC,not_found"
+Actinopteri,Muraenidae,Uropterygius micropterus,,37.29999923706055,,,,,,,,,"ASV_1009,ASV_1168,ASV_296,ASV_338,ASV_411,ASV_413,ASV_507,ASV_1275,ASV_218,ASV_230,ASV_247,ASV_258,ASV_324,ASV_671","CHAM,not_found"
+Actinopteri,Myctophidae,Diaphus watasei,,17.0,,,,,,,,,"ASV_1183,ASV_477",not_found
+Actinopteri,Myctophidae,Diogenichthys laternatus,,5.0,,,,,,,,,"ASV_448,ASV_561,ASV_788,ASV_854,ASV_110,ASV_118,ASV_488","CDOU,CHAM,not_found"
+Actinopteri,Myctophidae,Hygophum proximum,,5.0,,,,,,,,,"ASV_1072,ASV_988",not_found
+Actinopteri,Myctophidae,Hygophum reinhardtii,,6.0,,,,,,,,,"ASV_242,ASV_152,ASV_435","CHAM,RED,not_found"
+Actinopteri,Myctophidae,Hygophum sp. CBM:ZF:14740,,,,,,,,,,,ASV_1200,not_found
+Actinopteri,Myctophidae,Lampanyctus macdonaldi,,16.0,,,,,,,,,"ASV_1125,ASV_1302",not_found
+Actinopteri,Myctophidae,Lampanyctus sp. Y13,,,,,,,,,,,ASV_1238,not_found
+Actinopteri,Myctophidae,Myctophum aurolaternatum,,11.0,,,,,,,,,"ASV_775,ASV_319",not_found
+Actinopteri,Myctophidae,Myctophum nitidulum,,8.300000190734863,,,,,,,,,"ASV_1155,ASV_1273,ASV_1314,ASV_1319,ASV_1331,ASV_496,ASV_551,ASV_768","CMAR,RED,not_found"
+Actinopteri,Myctophidae,Nannobrachium achirus,,,,,,,,,,,"ASV_393,ASV_1102,ASV_214",not_found
+Actinopteri,Myctophidae,Nannobrachium atrum,,,,,,,,,,,ASV_891,not_found
+Actinopteri,Myctophidae,Notoscopelus resplendens,,9.5,,,,,,,,,"ASV_631,ASV_659,ASV_423",not_found
+Actinopteri,Myctophidae,Triphoturus mexicanus,,7.0,,,,,,,,,"ASV_145,ASV_1221,ASV_383",not_found
+Actinopteri,Notosudidae,Scopelosaurus harryi,3.13,32.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,63.400001525878906,Calanus cristatus,"ASV_829,ASV_577",not_found
+Actinopteri,Notosudidae,Scopelosaurus harryi,3.13,32.0,zooplankton,plank. crust.,euphausiids,Zooplankton,2.22,juv./adults,30.5,Thysanoessa longipes,"ASV_829,ASV_577",not_found
+Actinopteri,Notosudidae,Scopelosaurus harryi,3.13,32.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,6.099999904632568,Clione limacina,"ASV_829,ASV_577",not_found
+Actinopteri,Ophichthidae,Brachysomophis porphyreus,,129.5,,,,,,,,,"ASV_796,ASV_861,ASV_325,ASV_427,ASV_494,ASV_657",not_found
+Actinopteri,Ophichthidae,Ophichthus serpentinus,,68.0,,,,,,,,,ASV_1206,not_found
+Actinopteri,Ophichthidae,Ophisurus macrorhynchos,,140.0,,,,,,,,,"ASV_364,ASV_1325",not_found
+Actinopteri,Ophichthidae,Xyrias revulsus,,93.0,,,,,,,,,ASV_1018,not_found
+Actinopteri,Ophichthidae,Yirrkala misolensis,,51.20000076293945,,,,,,,,,"ASV_782,ASV_239",not_found
+Actinopteri,Ophidiidae,Brotula multibarbata,3.67,100.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,18.030000686645508,bony fish,"ASV_432,ASV_956",not_found
+Actinopteri,Ophidiidae,Brotula multibarbata,3.67,100.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,69.13999938964844,xanthid,"ASV_432,ASV_956",not_found
+Actinopteri,Ophidiidae,Brotula multibarbata,3.67,100.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,5.53000020980835,mysids,"ASV_432,ASV_956",not_found
+Actinopteri,Ophidiidae,Brotula multibarbata,3.67,100.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,0.3300000131130218,crab megalops,"ASV_432,ASV_956",not_found
+Actinopteri,Ophidiidae,Brotula multibarbata,3.67,100.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,6.96999979019165,Decapoda,"ASV_432,ASV_956",not_found
+Actinopteri,Opistognathidae,Opistognathus iyonis,,6.0,,,,,,,,,"ASV_190,ASV_130","GARD,RED"
+Actinopteri,Opistognathidae,Opistognathus jacksoniensis,,,,,,,,,,,"ASV_1066,ASV_148,ASV_215,ASV_247,ASV_33,ASV_429,ASV_513,ASV_531,ASV_672,ASV_849,ASV_1218,ASV_139,ASV_16,ASV_196,ASV_225,ASV_234,ASV_347","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR,not_found"
+Actinopteri,Oplegnathidae,Oplegnathus fasciatus,,80.0,,,,,,,,,"ASV_436,ASV_363","CDOU,not_found"
+Actinopteri,Oplegnathidae,Oplegnathus woodwardi,,45.0,,,,,,,,,"ASV_213,ASV_109,ASV_280","PCAL,PIN,not_found"
+Actinopteri,Paralichthyidae,Citharichthys sordidus,3.45,41.0,zoobenthos,worms,n.a./other annelids,Benthic Invertebrates,2.35,juv./adults,10.3100004196167,annelids,ASV_471,not_found
+Actinopteri,Paralichthyidae,Citharichthys sordidus,3.45,41.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,89.69000244140625,benth. crustaceans,ASV_471,not_found
+Actinopteri,Paralichthyidae,Citharichthys sordidus,3.5,41.0,zoobenthos,worms,n.a./other annelids,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,annelids,ASV_471,not_found
+Actinopteri,Paralichthyidae,Citharichthys sordidus,3.5,41.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,99.9000015258789,benth. crustaceans,ASV_471,not_found
+Actinopteri,Paralichthyidae,Etropus microstomus,,13.0,,,,,,,,,ASV_682,not_found
+Actinopteri,Paralichthyidae,Paralichthys albigutta,,71.0,,,,,,,,,"ASV_835,ASV_364",not_found
+Actinopteri,Phosichthyidae,Vinciguerria sp. CBM:ZF:14736,,,,,,,,,,,"ASV_15,ASV_318,ASV_774,ASV_9","BAR,CDOU,CHAM,CMAR,CORA,CUEV,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,not_found"
+Actinopteri,Pomacentridae,Abudefduf taurus,2.14,25.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,94.0,Amphiroa,ASV_1162,not_found
+Actinopteri,Pomacentridae,Abudefduf taurus,2.14,25.0,zoobenthos,mollusks,chitons,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,chitons,ASV_1162,not_found
+Actinopteri,Pomacentridae,Abudefduf taurus,2.14,25.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.3000000119209289,Porcellanidae,ASV_1162,not_found
+Actinopteri,Pomacentridae,Abudefduf taurus,2.14,25.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.2000000029802322,gastropods,ASV_1162,not_found
+Actinopteri,Pomacentridae,Abudefduf taurus,2.14,25.0,zoobenthos,cnidarians,n.a./other polyps,Benthic Invertebrates,2.35,juv./adults,5.300000190734863,Zoanthus sociatus,ASV_1162,not_found
+Actinopteri,Pomacentridae,Abudefduf taurus,2.14,25.0,zoobenthos,cnidarians,n.a./other polyps,Benthic Invertebrates,2.35,n.a./others,0.1000000014901161,hydroids,ASV_1162,not_found
+Actinopteri,Pomacentridae,Chromis multilineata,,,,,,,,,,,ASV_198,"PIN,PROJ"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,amphipods,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,92.81999969482422,Ceramium byssoideum,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,nekton,finfish,bony fish,Fish,3.33,n.a./others,0.1000000014901161,fish scales,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,gastropods,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,cnidarians,hard corals,Benthic Invertebrates,2.35,juv./adults,2.289999961853028,corals,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,1.870000004768372,crustaceans,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,benth. crust.,ostracods,Zooplankton,2.22,juv./adults,0.209999993443489,ostracods,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,echinoderms,sea stars/brittle stars,Benthic Invertebrates,2.35,n.a./others,1.0399999618530271,ophiuroids,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,1.25,shrimps,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon chrysurus,2.1,21.0,zoobenthos,sponges/tunicates,sponges,Benthic Invertebrates,2.35,juv./adults,0.209999993443489,sponges,"ASV_255,ASV_99","BAR,CUEV,ELI,PESP,PIN,PLAZ,PMAN,PMOR,STAFE"
+Actinopteri,Pomacentridae,Microspathodon dorsalis,,31.0,,,,,,,,,"ASV_108,ASV_1115,ASV_705,ASV_122","CDOU,CHAM,not_found"
+Actinopteri,Pomacentridae,Stegastes fuscus,,12.600000381469728,,,,,,,,,"ASV_11,ASV_4","BAR,CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR,not_found"
+Actinopteri,Pomacentridae,Stegastes rectifraenum,,13.5,,,,,,,,,"ASV_47,ASV_45","BAR,CDOU,CHAM,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PMOR,PROJ,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Priacanthidae,Cookeolus japonicus,,69.0,,,,,,,,,ASV_1041,not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,0.699999988079071,amphipods,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zooplankton,fish (early stages),fish eggs/larvae,Fish,3.33,larvae,29.899999618530277,Dactylopterus volitans,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,1.2000000476837158,gastropods,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zoobenthos,benth. crust.,isopods,Benthic Invertebrates,2.35,juv./adults,4.900000095367432,isopods,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,7.800000190734863,mysids,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,5.400000095367432,stomatopod,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,10.0,alpheid shrimp,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,14.399999618530272,crab,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,larvae,8.899999618530273,Cephalopod,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.42,50.70000076293945,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,16.799999237060547,polychaetes,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.81,50.70000076293945,nekton,finfish,bony fish,Fish,3.33,juv./adults,14.8100004196167,bony fish,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.81,50.70000076293945,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,adults,10.050000190734863,crabs,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.81,50.70000076293945,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,0.5299999713897705,mysids,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.81,50.70000076293945,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,42.720001220703125,crabs megalops,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.81,50.70000076293945,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,4.760000228881836,shrimps,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.81,50.70000076293945,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,26.979999542236328,squids/cuttlefish,"ASV_795,ASV_1023",not_found
+Actinopteri,Priacanthidae,Heteropriacanthus cruentatus,3.81,50.70000076293945,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,0.1299999952316284,stomatopods,"ASV_795,ASV_1023",not_found
+Actinopteri,Regalecidae,Regalecus russelii,,,,,,,,,,,ASV_826,not_found
+Actinopteri,Rondeletiidae,Rondeletia loricata,,11.0,,,,,,,,,ASV_1156,not_found
+Actinopteri,Sciaenidae,Bairdiella chrysoura,4.4,30.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,11.899999618530272,bony fish,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,4.4,30.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,78.69999694824219,Engraulidae,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,4.4,30.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,0.3000000119209289,detritus,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,4.4,30.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,1.0,Decapoda,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,4.4,30.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,n.a./others,3.299999952316284,Tanaidae,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,4.4,30.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,0.6000000238418579,polychaetes,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,4.4,30.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,4.199999809265137,Penaeidae,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.84,30.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.200000047683716,bony fish,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.84,30.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,9.5,Ariidae,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.84,30.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,29.700000762939453,Engraulidae,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.84,30.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,7.099999904632568,debris,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.84,30.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,18.5,Decapoda,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.84,30.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,33.0,Caridea,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,16.799999237060547,Gammaridea,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,7.5,algae,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,15.0,bony fish,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,2.5,Bittium,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,18.5,Calanoida,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,13.699999809265137,polychaetes,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,7.5,Palaemonetes,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.39,30.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,18.5,Hippolyte,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Bairdiella chrysoura,3.2,30.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,100.0,Mysidopsis bigelowi,"ASV_158,ASV_72,ASV_47,ASV_76","BAR,CMAR,CORA,ELI,GARD,PIN,PLAZ,PMAN,PROJ,PVIC,SOMB,STAFE,SUAR"
+Actinopteri,Sciaenidae,Equetus lanceolatus,,,,,,,,,,,"ASV_420,ASV_689,ASV_107,ASV_682,ASV_980","CDOU,CHAM,not_found"
+Actinopteri,Sciaenidae,Genyonemus lineatus,,41.0,,,,,,,,,"ASV_159,ASV_1249,ASV_50","BAR,PVIC,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.8600000143051147,bivalves,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.150000095367432,Clupeidae,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.200000047683716,Monacanthidae,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,11.640000343322754,Scomberoides spp.,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,46.79999923706055,Spratelloides delicatulus,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,8.140000343322754,mysids,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,larvae,1.3300000429153442,plank. crustaceans,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,21.450000762939453,squids/cuttlefish,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,1.0199999809265137,stomatopods,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.34,65.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,4.409999847412109,stomatopods,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.5,65.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,40.810001373291016,Anchovy,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.5,65.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,59.18999862670898,Squid,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.23,65.0,nekton,finfish,bony fish,Fish,3.33,recruits/juv.,86.4000015258789,fish,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scombridae,Auxis thazard,4.23,65.0,nekton,finfish,n.a./other finfish,Fish,3.33,n.a./others,13.600000381469728,fisheries,"ASV_265,ASV_185","CHAM,not_found"
+Actinopteri,Scorpaenidae,Pontinus macrocephalus,,36.5,,,,,,,,,"ASV_399,ASV_201,ASV_490","CDOU,PMOR,PVIC,not_found"
+Actinopteri,Scorpaenidae,Scorpaena miostoma,,13.0,,,,,,,,,ASV_893,not_found
+Actinopteri,Scorpaenidae,Scorpaena neglecta,,37.5,,,,,,,,,"ASV_1114,ASV_1149,ASV_249,ASV_157,ASV_255","CDOU,CHAM,PIN,PLAZ,STAFE,not_found"
+Actinopteri,Scorpaenidae,Scorpaenodes evides,,10.5,,,,,,,,,"ASV_100,ASV_1091,ASV_248,ASV_315,ASV_515,ASV_789,ASV_813,ASV_1352,ASV_261,ASV_53,ASV_587,ASV_595,ASV_670","CDOU,CHAM,CMAR,DAPH,PCAL,PESP,PIN,PMOR,PROJ,PVIC,RED,SOMB,not_found"
+Actinopteri,Scorpaenidae,Scorpaenopsis possi,,19.399999618530277,,,,,,,,,ASV_922,not_found
+Actinopteri,Serranidae,Cephalopholis cyanostigma,,40.0,,,,,,,,,ASV_235,not_found
+Actinopteri,Serranidae,Cephalopholis sexmaculata,4.5,50.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,14.859999656677246,Teleostei,"ASV_8,ASV_1","CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,GARD,PCAL,PESP,PIN,PLAZ,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Serranidae,Cephalopholis sexmaculata,4.5,50.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,85.13999938964844,Apogonidae,"ASV_8,ASV_1","CDOU,CHAM,CMAR,CORA,CUEV,DAPH,EGAS,GARD,PCAL,PESP,PIN,PLAZ,PMOR,PROJ,PVIC,RED,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Serranidae,Epinephelus bontoides,,30.0,,,,,,,,,"ASV_1019,ASV_1064,ASV_651,ASV_92,ASV_1104,ASV_167,ASV_39","CDOU,CHAM,CMAR,DAPH,EGAS,ELI,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,SOMB,not_found"
+Actinopteri,Serranidae,Epinephelus heniochus,,35.0,,,,,,,,,"ASV_45,ASV_17","BAR,CDOU,CHAM,CMAR,CORA,DAPH,EGAS,GARD,PCAL,PESP,PIN,PLAZ,PMAN,PMOR,PROJ,SOMB,STAFE,SUAR,TOR"
+Actinopteri,Serranidae,Epinephelus rivulatus,,45.0,,,,,,,,,ASV_313,not_found
+Actinopteri,Serranidae,Epinephelus stictus,,33.0,,,,,,,,,"ASV_963,ASV_88","BAR,not_found"
+Actinopteri,Serranidae,Grammistops ocellatus,,13.199999809265137,,,,,,,,,ASV_1005,not_found
+Actinopteri,Serranidae,Hypoplectrus gemma,,13.0,,,,,,,,,ASV_290,not_found
+Actinopteri,Serranidae,Liopropoma lunulatum,,18.700000762939453,,,,,,,,,"ASV_668,ASV_604",not_found
+Actinopteri,Serranidae,Pogonoperca punctata,,35.0,,,,,,,,,"ASV_153,ASV_277,ASV_491,ASV_640,ASV_155,ASV_174,ASV_398,ASV_55","CHAM,PCAL,PESP,PIN,PLAZ,PROJ,RED,STAFE,SUAR,not_found"
+Actinopteri,Serranidae,Pseudogramma polyacantha,,8.600000381469727,,,,,,,,,"ASV_543,ASV_248",not_found
+Actinopteri,Serranidae,Sacura margaritacea,,13.0,,,,,,,,,ASV_927,not_found
+Actinopteri,Serranidae,Serranocirrhitus latus,,13.0,,,,,,,,,ASV_607,not_found
+Actinopteri,Siganidae,Siganus javus,,53.0,,,,,,,,,ASV_902,not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,sponges/tunicates,ascidians,Benthic Invertebrates,2.35,juv./adults,57.29999923706055,ascidians,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,18.26000022888184,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,7.929999828338623,crabs,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,1.950000047683716,barnacles,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,0.3700000047683716,bryozoans,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,0.5400000214576721,mollusks,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,9.359999656677246,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,cnidarians,n.a./other polyps,Benthic Invertebrates,2.35,juv./adults,2.7799999713897705,anemones,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,1.4600000381469729,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.96,40.0,zoobenthos,sponges/tunicates,sponges,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,sponges,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.4,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,23.100000381469727,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.4,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,31.5,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.4,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,24.899999618530277,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.4,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,1.100000023841858,brachiopods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.4,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,19.399999618530277,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.16,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,39.38999938964844,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.16,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,22.479999542236328,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.16,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,15.649999618530272,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.16,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,8.09000015258789,brachiopods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.16,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,14.390000343322754,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.32,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,9.380000114440918,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.32,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,73.26000213623047,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.32,40.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,11.6899995803833,bivalves,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.32,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,5.670000076293945,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,80.27999877929686,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.110000133514404,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,7.940000057220459,copepods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,1.9800000190734863,brachiopods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,5.670000076293945,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,81.87000274658203,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.470000028610229,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,5.670000076293945,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,5.059999942779541,brachiopods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.33,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,4.929999828338623,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.04,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,2.75,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.04,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,96.66999816894533,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.04,40.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.4600000083446502,bivalves,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.04,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,0.1099999994039535,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.03,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,2.130000114440918,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.03,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,97.87000274658205,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,6.380000114440918,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,6.380000114440918,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,86.48999786376953,bivalves,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,0.7400000095367432,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.0,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,3.0,Temora,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.0,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,13.0,Acartia,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.0,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,23.0,plank. copepods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.0,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,28.0,Centropages,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.0,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,33.0,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.44,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,71.19999694824219,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.44,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.1799999475479126,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.44,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,23.229999542236328,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.44,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,1.2799999713897705,benth. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.44,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,3.0999999046325684,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.12,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,93.45999908447266,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.12,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.6100000143051147,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.12,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,3.0,copepods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.12,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,0.8600000143051147,brachiopods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.12,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,1.0700000524520874,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,30.799999237060547,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,6.340000152587891,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,28.649999618530277,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,4.190000057220459,bivalves,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,3.9600000381469727,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,3.2799999713897705,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,5.659999847412109,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.93,40.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,17.100000381469727,shrimps/prawns,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.22,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,43.79999923706055,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.22,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,30.149999618530277,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.22,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,2.8399999141693115,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.22,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,3.069999933242798,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.22,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,1.1399999856948853,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.22,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,n.a./others,1.9299999475479128,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.22,40.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,17.059999465942383,shrimps/prawns,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.02,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,67.94000244140625,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.02,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,0.959999978542328,benth. copepods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.02,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,19.739999771118164,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.02,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,0.959999978542328,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.02,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,3.950000047683716,plank. copepods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.02,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,3.950000047683716,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.02,40.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,2.509999990463257,shrimps/prawns,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.12,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,30.76000022888184,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.12,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,41.630001068115234,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.12,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,4.570000171661377,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.12,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,7.929999828338623,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.12,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,5.650000095367432,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.12,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,1.090000033378601,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.12,40.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,8.369999885559082,shrimps/prawns,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,21.76000022888184,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,48.5099983215332,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,3.450000047683716,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,9.510000228881836,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,3.3299999237060547,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.15,40.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,13.4399995803833,shrimps/prawns,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.41,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,0.8999999761581421,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.41,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,10.800000190734863,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.41,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,44.79999923706055,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.41,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,bryozoan,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.41,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,43.400001525878906,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.42,40.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,5.28000020980835,benthic algae/weeds,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.42,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.559999942779541,amphioxus,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.42,40.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,66.94000244140625,copepods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.42,40.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,4.360000133514404,bachiopods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.42,40.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,19.86000061035156,polychaetes,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.24,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,16.0,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.24,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,19.0,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.24,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,47.70000076293945,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.24,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,17.299999237060547,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.17,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,32.43000030517578,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.17,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,7.559999942779541,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.17,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,10.270000457763672,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.17,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,43.2400016784668,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.17,40.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,6.489999771118164,shrimps/prawns,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.92,40.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,18.0,debris,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.92,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,23.899999618530277,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.92,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,58.09999847412109,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.01,40.0,zoobenthos,benth. crust.,amphipods,Benthic Invertebrates,2.35,juv./adults,4.900000095367432,amphipods,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.01,40.0,zoobenthos,benth. crust.,benth. copepods,Benthic Invertebrates,2.35,juv./adults,2.299999952316284,Harpacticoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.01,40.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,4.300000190734863,debris,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.01,40.0,zooplankton,other plank. Invertebrates,n.a./other plank. invertebrates,Zooplankton,2.22,eggs,8.800000190734863,plank. invertebrates,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,3.01,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,79.69999694824219,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.92,40.0,detritus,detritus,debris,Detritus and Debris,1.83,n.a./others,8.100000381469727,debris,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,2.92,40.0,zooplankton,plank. crust.,plank. copepods,Zooplankton,2.22,juv./adults,91.9000015258789,Calanoida,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,4.4,40.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.7000000476837158,Engraulidae,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,4.4,40.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,81.30000305175781,Mollusca,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,4.4,40.0,zoobenthos,cnidarians,n.a./other polyps,Benthic Invertebrates,2.35,juv./adults,16.299999237060547,Anthozoa,"ASV_313,ASV_448",not_found
+Actinopteri,Sparidae,Lagodon rhomboides,4.4,40.0,zoobenthos,echinoderms,sea stars/brittle stars,Benthic Invertebrates,2.35,juv./adults,0.699999988079071,Ophiuroidea,"ASV_313,ASV_448",not_found
+Actinopteri,Sphyraenidae,Sphyraena helleri,,80.0,,,,,,,,,"ASV_250,ASV_59,ASV_207,ASV_209,ASV_35","CDOU,CHAM,CMAR,CORA,ELI,PCAL,PESP,PLAZ,PMAN,PMOR,PVIC,RED,not_found"
+Actinopteri,Stomiidae,Astronesthes sp. CBM DNA No. 2015-229,,,,,,,,,,,"ASV_421,ASV_961,ASV_323,ASV_470",not_found
+Actinopteri,Synodontidae,Synodus oculeus,,18.309999465942383,,,,,,,,,"ASV_1122,ASV_1140,ASV_272",not_found
+Actinopteri,Tetraodontidae,Lagocephalus lagocephalus,,61.0,,,,,,,,,ASV_704,not_found
+Actinopteri,Trachipteridae,Desmodema polystictum,,110.0,,,,,,,,,ASV_1243,not_found
+Actinopteri,Trichiuridae,Evoxymetopon taeniatus,,200.0,,,,,,,,,"ASV_228,ASV_184","CDOU,RED,not_found"
+Actinopteri,Triglidae,Prionotus evolans,4.28,45.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,Bivalvia,"ASV_1170,ASV_964,ASV_1304",not_found
+Actinopteri,Triglidae,Prionotus evolans,4.28,45.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,77.30000305175781,Osteichthyes,"ASV_1170,ASV_964,ASV_1304",not_found
+Actinopteri,Triglidae,Prionotus evolans,4.28,45.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,15.300000190734863,Cancer irroratus,"ASV_1170,ASV_964,ASV_1304",not_found
+Actinopteri,Triglidae,Prionotus evolans,4.28,45.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,1.2999999523162842,Crustacea,"ASV_1170,ASV_964,ASV_1304",not_found
+Actinopteri,Triglidae,Prionotus evolans,4.28,45.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,6.0,Crangon septemspinosa,"ASV_1170,ASV_964,ASV_1304",not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,35.400001525878906,bony fish,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,12.199999809265137,Decapod crustaceans,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,0.2000000029802322,benthic invertebrates,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,8.0,Chondrichthyes,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,others,mammals,n.a./other mammals,Marine Mammals,4.08,juv./adults,4.599999904632568,mammals,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,0.6000000238418579,molluscs,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,others,herps,n.a./other reptiles,Reptiles and Amphibians,2.57,juv./adults,23.799999237060547,Sea turtles,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,others,birds,sea birds,Birds,3.56,juv./adults,10.399999618530272,sea birds,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.08,750.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,4.800000190734863,squids/cuttlefish,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,3.8,750.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,50.0,Diodon,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,3.8,750.0,others,herps,turtles,Reptiles and Amphibians,2.57,juv./adults,50.0,Caretta caretta,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.0,Pomatomus saltatrix,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,31.600000381469727,Lophius americanus,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,4.199999809265137,Animal remains,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,others,birds,n.a./other birds,Birds,3.56,juv./adults,0.2000000029802322,Sea birds,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,0.3000000119209289,Cephalopods,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,5.5,Galeocerdo cuvieri,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,6.199999809265137,Carcharhinus obscurus,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,8.300000190734863,Cetorhinus maximus,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,others,mammals,n.a./other mammals,Marine Mammals,4.08,juv./adults,30.100000381469727,Mammalia,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Galeocerdo cuvier,4.54,750.0,others,herps,turtles,Reptiles and Amphibians,2.57,juv./adults,7.599999904632568,Sea turtle,ASV_1061,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.08,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,61.900001525878906,bony fish,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.08,430.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,22.0,Decapod crustaceans,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.08,430.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,0.5,Chondrichthyes,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.08,430.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,molluscs,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.08,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,15.5,squids/cuttlefish,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,12.0,Anchoa hepsetus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,88.0,Osteichthyes,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.98,430.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,leaves/blades,0.3000000119209289,plant material,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.98,430.0,nekton,finfish,bony fish,Fish,3.33,recruits/juv.,64.80000305175781,Oxyurichthys lochotus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.98,430.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,5.639999866485596,Portunus vigil,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.98,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,28.0,Alpheus malabaricus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.98,430.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,1.2999999523162842,Squilla oratatoria,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0500350259244442,Brotula spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0700490325689315,Seriola peruana,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2201541066169738,Symphurus spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.0507354736328125,Aplatophis spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.4209946393966677,Auxis rochei,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.46312427520752,Isopistus remifer,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.144300937652588,Euthynnus lineatus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,12.498748779296877,Anchoa ischana,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,15.971179962158203,Pomadasys panamensis,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,16.031221389770508,Chloroscombrus orqueta,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,20.18412971496582,Selene peruviana,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.470329225063324,Litopenaeus spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,19.9339542388916,Xiphopenaeus riveti,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.0100070051848888,Dosidicus gigas,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.840588390827179,Loliolopsis diomedeae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.31,430.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,0.6404483318328857,Cloridopsis dubia,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,0.6136761903762817,Thalassia testudinum,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,0.9546074271202089,Halodule wrightii,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,plants,other plants,benthic algae/weeds,Primary Producers,1.0,n.a./others,1.4319109916687012,Unspecified Angiosperm,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.0194819997996091,Yoldia spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0097409998998045,Unspecified Ariidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0194819997996091,Unspecified Sparidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0292230006307363,Unspecified Gerreidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0974092036485672,Unspecified Exocoetidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1363719999790191,Orthopristis chrysoptera,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2337809950113296,Cynoscion spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2435220032930374,Chloroscombrus chrysurus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2727449834346771,Brevoortia spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4383400082588196,Leiostomus xanthurus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4480809867382049,Unspecified Synodontidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4773037135601043,Brevoortia patronus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4870449900627136,Cynoscion arenarius,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.6526399850845337,Anchoa spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.9059029817581176,Harengula jaguana,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.9253849983215332,Unspecified Clupeidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.9935709834098816,Micropogonias undulatus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.0812389850616455,Citharichthys spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.6656930446624756,Unspecified Sciaenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.4059998989105225,Stellifer lanceolatus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.048898935317993,Unspecified Bothidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.458017110824585,Bairdiella chrysoura,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,25.150983810424805,Unspecified Teleostei,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.5260081887245178,Unspecified Portunidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.5941939949989319,Unspecified crabs,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.0194819997996091,Unspecified Gastropoda,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,isopods,Benthic Invertebrates,2.35,juv./adults,0.1168906986713409,Unspecified Isopoda,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,0.535749077796936,Unspecified cephalopods,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,0.0876680016517639,Unspecified Mollusca,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zooplankton,plank. crust.,n.a./other plank. crustaceans,Zooplankton,2.22,juv./adults,17.543346405029297,Unspecified crustaceans,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.0681862011551857,Rimapenaeus constrictus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.1071498021483421,Sicyonia sp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.1948180049657821,Alpheus armillatus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.4285989999771118,Unspecified Penaeidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.7792710065841675,Palaemon spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.876680314540863,Penaeus duorarum,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,1.090980052947998,Penaeus setiferus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,1.8020650148391724,Penaeus spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,3.458017110824585,Xiphopenaeus kroyeri,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.2337813973426818,Unspecified Loliginidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,2.2598869800567627,Lolliguncula brevis,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,0.3604130148887634,Squilla empusa,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,3.99,430.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,22.71575927734375,Unspecified stomatopods,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1189960017800331,Thunnus spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2669920027256012,Anchoa spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.4159599542617798,Peprilus snyderi,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.638949990272522,Etropus crossotus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.735949993133545,Unspecified Sciaenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.027940034866333,Unspecified Labridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.85191011428833,Unspecified Muraenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.091909885406494,Auxis spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.5518898963928223,Euthynnus lineatus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.912879943847656,Sardinops sagax,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.270870208740234,Balistes polylepis,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.40487003326416,Synodus scituliceps,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.76885986328125,Unspecified Bothidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,5.027850151062012,Ophichthus triserialis,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.792799949645996,Unspecified Synodontidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,7.346779823303223,Decapterus spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,7.825769901275635,Mugil cephalus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,7.8897600173950195,Selar crumenophthalmus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,11.568699836730955,Unspecified fishes,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,14.616600036621094,Unspecified Carangidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,0.0149996001273393,Unspecified crustaceans,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,2.736920118331909,Pleuroncodes planipes,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,0.0010000000474974,Argonauta spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.0909973010420799,Sicyona disdorsalis,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.2549920082092285,Penaeus californiensis,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.7319779992103577,Trachypenaeus spp.,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.7339779734611511,Rimapenaeus pacificus,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.0039998800493776,Abraliopsis affinis,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.0459985993802547,Lolliguncula (Loliolopsis) diomedeae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,0.247991994023323,Squilla mantoidea,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0399999991059303,unspecified Triglidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0599999986588954,unspecified Leiognathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1899999976158142,unspecified Pomacentriidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.209999993443489,unspecified elasmobranch,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2599999904632568,unspecified Congridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3899999856948852,unspecified Haemulidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4399999976158142,unspecified Rhinobatidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.5199999809265137,unspecified Ostraciidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.5600000023841858,unspecified Acantheridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.7200000286102295,unspecified Ariidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.7300000190734863,unspecified Carangidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.3600000143051147,unspecified Plotosidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.5800000429153442,unspecified Clupeidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.8799999952316284,unspecified Rajidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.309999942779541,unspecified Sciaenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.890000104904175,unspecified Mullidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.2100000381469727,unspecified Sparidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.369999885559082,unspecified Teraponidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.509999990463257,unspecified Scyliorhinidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.369999885559082,unspecified Anguillidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.400000095367432,unspecified Trichiuridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.21999979019165,unspecified Scombridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,13.369999885559082,unspecified Synodontidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,16.43000030517578,unspecified teleosts,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.1099999994039535,unspecified crabs,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,0.0900000035762786,unspecified crustaceans,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,1.7899999618530271,unspecified Coleoidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,10.399999618530272,unspecified Octopodidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.4099999964237213,unspecified Octopoteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,6.28000020980835,unspecified Sepiidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.46,430.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,11.899999618530272,unspecified mantis shrimp,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.0399999991059303,unspecified bivalve,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0599999986588954,unspecified Myctophidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4199999868869781,unspecified Sphyraenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4900000095367431,unspecified Ariidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4900000095367431,unspecified Synodontidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.1100000143051147,unspecified Scyliorhinidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.6299999952316284,unspecified Rhinobatidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.7999999523162842,unspecified Squalidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.8200000524520876,unspecified Anguillidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.850000023841858,unspecified Sciaenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.539999961853028,unspecified Haemulidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.0199999809265137,unspecified Rajidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.569999933242798,unspecified Cheilodactyleidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.859999895095825,unspecified Teraponidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.159999847412109,unspecified Sparidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.690000057220459,unspecified Trichiuridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,10.65999984741211,unspecified Scombridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,17.739999771118164,unspecified teleosts,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.0900000035762786,unspecified crabs,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,zoobenthos,benth. crust.,lobsters,Benthic Invertebrates,2.35,juv./adults,0.4799999892711639,unspecified Macrura,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,0.0599999986588954,unspecified crustaceans,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,16.170000076293945,unspecified cephalopods,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,2.930000066757202,unspecified Octopodidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.3600000143051147,unspecified prawns,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,1.409999966621399,unspecified Enoploteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,2.109999895095825,unspecified Sepiidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.53,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,16.440000534057617,unspecified Octopoteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.5,unspecified Sphyraenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.6000000238418579,unspecified Synodontidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.75,unspecified Dactylopteridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.940000057220459,unspecified Peristediidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.380000114440918,unspecified Teraponidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,7.5,unspecified Sparidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,31.559999465942383,unspecified teleosts,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,benth. crust.,lobsters,Benthic Invertebrates,2.35,juv./adults,0.0599999986588954,unspecified Macrura,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,others,birds,n.a./other birds,Birds,3.56,juv./adults,0.0099999997764825,unspecified birds,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,4.889999866485596,unspecified Octopodidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,1.0199999809265137,unspecified Sepiidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,13.220000267028809,unspecified Octopoteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,31.559999465942383,unspecified Enoploteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0399959981441497,Sygnathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0899910032749176,Engraulidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0899910032749176,Ostraciidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1399860084056854,Platycephalidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2399760037660598,Clupeidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2899709939956665,unspecified batoid,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.7699230313301086,Ariidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.8399159908294678,Sphyraenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.9099090099334716,Serranidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.0498950481414795,Plotosidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.0698930025100708,unspecified elasmobranch,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.2798720598220823,Priancathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.2998700141906738,Leiognathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.389860987663269,Mullidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.569843053817749,Exocetidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.8798120021820068,Carangidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.169783115386963,Anguillidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.389760971069336,Scyliorhinidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.709728956222534,Synodontidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.7597241401672363,Rhinobatidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.749624967575073,Haemulidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.099589824676514,Trichiuridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.129587173461914,Scombridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.56954288482666,Teraponidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,5.189481258392334,Sciaenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,12.158783912658691,Sparidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,17.028297424316406,unspecified teleosts,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.0299970004707574,unspecified gastropod,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,benth. crust.,lobsters,Benthic Invertebrates,2.35,juv./adults,1.1698830127716064,unspecified Macrura,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,0.2099789977073669,unspecified crustacean,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,0.0699930042028427,unspecified cephalopod,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,1.6498349905014038,unspecified Coleoidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,7.589241027832031,Octopodidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.369962990283966,unspecified prawn,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.1799820065498352,Lycoteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,4.629537105560303,Octopoteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,10.198980331420898,Sepiidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0099980002269148,unspecified Sygnathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0699860006570816,unspecified Belonidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.079984001815319,unspecified Carangidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0999800041317939,unspecified Sphyraenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1399720013141632,unspecified Oplegnathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.179964005947113,unspecified Serranidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1999600082635879,unspecified Synodontidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2099580019712448,unspecified Ostraciidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2199560105800628,unspecified Mugilidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2399520128965377,unspecified Anguillidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2599480152130127,unspecified Leiognathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3199360072612762,unspecified Exocetidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.5798840522766113,unspecified Cheilodactyleidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.0497900247573853,unspecified Mullidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.219756007194519,unspecified Clupeidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.2697460651397705,unspecified Dasyatidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.309738039970398,unspecified Haemulidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.699660062789917,unspecified Scombridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.1095781326293945,unspecified Teraponidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.249550104141236,unspecified Ariidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.379523992538452,unspecified Platycephalidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.7594480514526367,unspecified Gymnuridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.699260234832764,unspecified Plotosidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,5.338932037353516,unspecified Rhinobatidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.638672351837158,unspecified Scyliorhinidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,8.108378410339355,unspecified Trichiuridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,8.518296241760254,unspecified Sciaenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,9.558088302612305,unspecifiedSparidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,11.76764678955078,unspecified teleost,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,2.0495901107788086,unspecified Brachyura,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,benth. crust.,lobsters,Benthic Invertebrates,2.35,juv./adults,0.0399920009076595,unspecified Macrura,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,0.0899820029735565,unspecified crustacean,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,0.2199560105800628,unspecified cephalopod,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,mollusks,n.a./other cephalopods,Cephalopods,3.5,juv./adults,0.3699260056018829,unspecified Coleoidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,4.689062118530273,unspecified Octopodidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.2699460089206695,unspecified shrimp,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.1999600082635879,unspecified Octopoteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,1.2397520542144775,unspecified Enoploteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,3.08938217163086,unspecified Sepiidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,13.897220611572266,unspecified Teuthoidea,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.47,430.0,zoobenthos,benth. crust.,stomatopods,Benthic Invertebrates,2.35,juv./adults,1.5596880912780762,unspecified stomatopod,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0402293056249618,unspecified Engraulidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0502866357564926,unspecified Carangidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.060343962162733,unspecified Leiognathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.0905159413814544,unspecified Enoploteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1307452470064163,unspecified Teraponidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1508599072694778,unspecified Mugilidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3520064353942871,unspecified Serranidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4324650466442108,unspecified Octopodidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.5833249688148499,unspecified elasmobranch,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.7945288419723511,unspecified Trichiuridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.8146434426307678,unspecified Sparidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.9051594138145448,unspecified Anguillidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.257165789604187,unspecified Carcharhinidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.3778537511825562,unspecified Clupeidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.508599042892456,unspecified Sepiidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.7499748468399048,unspecified Oplegnathidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.82037615776062,unspecified Sciaenidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.920949459075928,unspecified Ariidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.2628984451293945,unspecified Gymnuridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.5746755599975586,unspecified Dasyatidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.485567569732666,unspecified Plotosidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.827517032623291,unspecified Squatinidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.999899387359619,unspecified shark,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,8.05591869354248,unspecified Scyliorhinidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,8.407925605773926,unspecified Scombridae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,9.765664100646973,unspecified Octopoteuthidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,11.073116302490234,unspecified teleost,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,11.606155395507812,unspecified Rhinobatidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna lewini,4.5,430.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,15.900633811950684,unspecified Haemulidae,ASV_1088,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,5.43,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,97.8000030517578,Merluccius capensis,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,5.43,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,2.200000047683716,Loligo v. reynaudii,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.21,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,29.799999237060547,bony fish,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.21,500.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,0.4000000059604645,benthic crustaceans,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.21,500.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,0.8999999761581421,Chondrichthyes,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.21,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,68.9000015258789,squids/cuttlefish,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,50.0,Merluccius capensis,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,1.5,Squalus megalops,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,48.5,Loligo v. reynaudii,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,100.0,Osteichthyes,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,4.599999904632568,Osteichthyes,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,5.900000095367432,Triglidae,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,6.5,Peprilus triacanthus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,17.100000381469727,Clupea harengus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,63.79999923706055,Coryphaena hippurus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,2.0,Animal remains,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,n.a./other finfish,Fish,3.33,juv./adults,0.1000000014901161,Rajidae,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1001001000404357,Scomberesox saurus scombroides,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1001001000404357,Selene brevoortii,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1001001000404357,Trachurus murphyi,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.1001001000404357,unspecified Fistulariidae,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.2002002000808715,Hemanthias peruanus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3003003001213074,Anchoa nasus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3003003001213074,Sardinops sagax,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.3003003001213074,Scomber japonicus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.4004004001617431,Opisthonema libertate,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,0.6006006002426147,unspecified Engraulidae,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.6016016006469729,Ancistrocheirus lesueurii,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,1.7017017602920532,Merluccius gayi peruanus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,2.202202320098877,Stigmatoteuthis hoylei,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,3.2032032012939453,Peprilus sp.,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,2.702702760696411,unspecified fish remains,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,zoobenthos,mollusks,octopi,Cephalopods,3.5,juv./adults,2.102102041244507,Octopodea,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,0.1001001000404357,Architeuthis dux,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,1.001001000404358,Ommastrephes bartramii,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,1.2012012004852295,Octopoteuthis sicula,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,7.50750732421875,Gonatus antarcticus,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,9.109108924865724,Mastigoteuthis dentata,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,30.53053092956543,Dosidicus gigas,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Sphyrna zygaena,4.5,500.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,34.5345344543457,Doryteuthis gahi,ASV_288,not_found
+Chondrichthyes,Carcharhinidae,Triaenodon obesus,4.19,213.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,79.19999694824219,bony fish,ASV_325,not_found
+Chondrichthyes,Carcharhinidae,Triaenodon obesus,4.19,213.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,3.400000095367432,molluscs,ASV_325,not_found
+Chondrichthyes,Carcharhinidae,Triaenodon obesus,4.19,213.0,nekton,cephalopods,squids/cuttlefish,Cephalopods,3.5,juv./adults,17.399999618530273,squids/cuttlefish,ASV_325,not_found
+Chondrichthyes,Dasyatidae,Pteroplatytrygon violacea,,96.0,,,,,,,,,"ASV_219,ASV_25","CDOU,CMAR,ELI,GARD,PMAN,PROJ,PVIC,RED,SUAR,not_found"
+Chondrichthyes,Heterodontidae,Heterodontus japonicus,,120.0,,,,,,,,,"ASV_141,ASV_87,ASV_1329","CHAM,not_found"
+Chondrichthyes,Myliobatidae,Aetobatus narinari,3.67,230.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,46.59999847412109,bivalves,"ASV_183,ASV_604",not_found
+Chondrichthyes,Myliobatidae,Aetobatus narinari,3.67,230.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,53.400001525878906,Astraea tuber,"ASV_183,ASV_604",not_found
+Chondrichthyes,Myliobatidae,Aetobatus narinari,4.57,230.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,46.59999847412109,invertebrates,"ASV_183,ASV_604",not_found
+Chondrichthyes,Myliobatidae,Aetobatus narinari,4.57,230.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,juv./adults,53.400001525878906,invertebrates,"ASV_183,ASV_604",not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,73.0999984741211,Ensis directus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,2.700000047683716,Animal remains,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,6.0,Ranilia muricata,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,1.100000023841858,Gastropoda,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,0.2000000029802322,Amphipoda,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,mollusks,n.a./other mollusks,Benthic Invertebrates,2.35,juv./adults,10.699999809265137,Nudibranchia,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,worms,non-annelids,Benthic Invertebrates,2.35,juv./adults,3.799999952316284,Rhynchocoela,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,worms,polychaetes,Benthic Invertebrates,2.35,juv./adults,2.200000047683716,Polychaeta,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.41,129.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.2000000029802322,Crangon septemspinosa,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,4.01,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.0599999986588954,Mytilus edulis,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,4.01,129.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.0099999997764825,Ovalipes ocellatus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,4.01,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,19.24810028076172,Busycon sp.,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,4.01,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,70.92289733886719,Euspira heros,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,4.01,129.0,zoobenthos,benth. crust.,n.a./other benth. crustaceans,Benthic Invertebrates,2.35,juv./adults,1.0298999547958374,Pagurus acadianus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,4.01,129.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,8.729100227355957,Pagurus pollicaris,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,1.2914999723434448,Tagelus divisus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,2.3227999210357666,Mytilus edulis,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,9.821800231933594,Ensis leei,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.100100003182888,Callinectes sapidus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.0800999999046325,Ilyanassa trivittata,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,4.675600051879883,Busycon sp.,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,72.82740020751953,Euspira heros,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,0.9911999702453612,Pagurus acadianus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,5.636799812316895,Pagurus longicarpus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.0099999997764825,Crangon septemspinosa,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.0199999995529651,Spirontocaris liljeborgii,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.9,129.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,2.2227001190185547,Carcinus maenas,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.2899999916553497,Yoldia sp.,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.5,Tagelus divisus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,0.5600000023841858,Lunarca ovalis,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,3.2300000190734863,Ensis leei,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.1299999952316284,Callinectes sapidus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,0.4099999964237213,Nucella lapillus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,6.619999885559082,Crepidula fornicata,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,7.329999923706055,Ilyanassa trivittata,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,9.649999618530272,Busycon sp.,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,mollusks,gastropods,Benthic Invertebrates,2.35,juv./adults,27.200000762939453,Euspira heros,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,0.0700000002980232,Pagurus acadianus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,benth. crust.,n.a./other benth. Crustaceans,Benthic Invertebrates,2.35,juv./adults,43.81999969482422,Pagurus longicarpus,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Myliobatis freminvillei,3.78,129.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.1899999976158142,Crangon septemspinosa,ASV_253,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,4.39,120.0,nekton,finfish,bony fish,Fish,3.33,juv./adults,90.6999969482422,Anchoa hepsetus,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,4.39,120.0,detritus,detritus,carcasses,Detritus and Debris,1.83,n.a./others,0.4000000059604645,Animal remains,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,4.39,120.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,0.2000000029802322,Pagurus sp.,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,4.39,120.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,0.1000000014901161,Mysidacea,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,4.39,120.0,zooplankton,plank. crust.,mysids,Zooplankton,2.22,juv./adults,8.5,Mysidopsis bigelowi,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,4.39,120.0,zoobenthos,benth. crust.,shrimps/prawns,Benthic Invertebrates,2.35,juv./adults,0.1000000014901161,Crangon septemspinosa,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,3.23,120.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,7.400000095367432,Mercenaria mercenaria,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,3.23,120.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,12.399999618530272,Tagelus plebeius,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,3.23,120.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,13.399999618530272,Macoma balthica,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,3.23,120.0,zoobenthos,mollusks,bivalves,Benthic Invertebrates,2.35,juv./adults,66.5999984741211,Mya arenaria,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,3.23,120.0,nekton,finfish,n.a./other finfish,Fish,3.33,n.a./others,0.2000000029802322,teleost,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,3.5,120.0,zoobenthos,benth. crust.,crabs,Benthic Invertebrates,2.35,juv./adults,95.0999984741211,crabs,ASV_1033,not_found
+Chondrichthyes,Myliobatidae,Rhinoptera bonasus,3.5,120.0,zoobenthos,other benth. invertebrates,n.a./other benth. invertebrates,Benthic Invertebrates,2.35,recruits/juv.,4.900000095367432,invertebrates,ASV_1033,not_found
+Chondrichthyes,Potamotrygonidae,Taeniura meyeni,,,,,,,,,,,ASV_284,not_found

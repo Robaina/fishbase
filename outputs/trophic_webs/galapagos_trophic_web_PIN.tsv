@@ -1,0 +1,66 @@
+Predator	Prey	ID
+Cephalopholis sexmaculata	Lutjanus argentimaculatus	ASV_8,ASV_1,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Cephalopholis sexmaculata	Microspathodon chrysurus	ASV_8,ASV_1,ASV_255,ASV_99
+Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
+Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
+Cephalopholis sexmaculata	Bairdiella chrysoura	ASV_8,ASV_1,ASV_158,ASV_72,ASV_47,ASV_76
+Cephalopholis sexmaculata	Fistularia commersonii	ASV_8,ASV_1,ASV_191,ASV_581,ASV_116
+Cephalopholis sexmaculata	Chanos chanos	ASV_8,ASV_1,ASV_236,ASV_97
+Cephalopholis sexmaculata	Apogon imberbis	ASV_8,ASV_1,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Cephalopholis sexmaculata	Plagiotremus tapeinosoma	ASV_8,ASV_1,ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Lutjanus argentimaculatus	Microspathodon chrysurus	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_255,ASV_99
+Lutjanus argentimaculatus	Scartella cristata	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_57,ASV_27
+Lutjanus argentimaculatus	Chanos chanos	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_236,ASV_97
+Lutjanus argentimaculatus	Benthic Invertebrates	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Microspathodon chrysurus	Benthic Invertebrates	ASV_255,ASV_99
+Microspathodon chrysurus	Primary Producers	ASV_255,ASV_99
+Microspathodon chrysurus	Chanos chanos	ASV_255,ASV_99,ASV_236,ASV_97
+Microspathodon chrysurus	Zooplankton	ASV_255,ASV_99
+Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
+Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
+Scartella cristata	Primary Producers	ASV_57,ASV_27
+Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
+Bairdiella chrysoura	Lutjanus argentimaculatus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Bairdiella chrysoura	Microspathodon chrysurus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_255,ASV_99
+Bairdiella chrysoura	Ammodytes personatus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_22,ASV_1336,ASV_6
+Bairdiella chrysoura	Scartella cristata	ASV_158,ASV_72,ASV_47,ASV_76,ASV_57,ASV_27
+Bairdiella chrysoura	Chanos chanos	ASV_158,ASV_72,ASV_47,ASV_76,ASV_236,ASV_97
+Bairdiella chrysoura	Apogon imberbis	ASV_158,ASV_72,ASV_47,ASV_76,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Bairdiella chrysoura	Plagiotremus tapeinosoma	ASV_158,ASV_72,ASV_47,ASV_76,ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Bairdiella chrysoura	Detritus and Debris	ASV_158,ASV_72,ASV_47,ASV_76
+Bairdiella chrysoura	Benthic Invertebrates	ASV_158,ASV_72,ASV_47,ASV_76
+Bairdiella chrysoura	Primary Producers	ASV_158,ASV_72,ASV_47,ASV_76
+Bairdiella chrysoura	Zooplankton	ASV_158,ASV_72,ASV_47,ASV_76
+Fistularia commersonii	Lutjanus argentimaculatus	ASV_191,ASV_581,ASV_116,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Fistularia commersonii	Microspathodon chrysurus	ASV_191,ASV_581,ASV_116,ASV_255,ASV_99
+Fistularia commersonii	Ammodytes personatus	ASV_191,ASV_581,ASV_116,ASV_22,ASV_1336,ASV_6
+Fistularia commersonii	Scartella cristata	ASV_191,ASV_581,ASV_116,ASV_57,ASV_27
+Fistularia commersonii	Bairdiella chrysoura	ASV_191,ASV_581,ASV_116,ASV_158,ASV_72,ASV_47,ASV_76
+Fistularia commersonii	Chanos chanos	ASV_191,ASV_581,ASV_116,ASV_236,ASV_97
+Fistularia commersonii	Apogon imberbis	ASV_191,ASV_581,ASV_116,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Fistularia commersonii	Plagiotremus tapeinosoma	ASV_191,ASV_581,ASV_116,ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Fistularia commersonii	Zooplankton	ASV_191,ASV_581,ASV_116
+Fistularia commersonii	Benthic Invertebrates	ASV_191,ASV_581,ASV_116
+Fistularia commersonii	Detritus and Debris	ASV_191,ASV_581,ASV_116
+Fistularia commersonii	Other Categories	ASV_191,ASV_581,ASV_116
+Chanos chanos	Primary Producers	ASV_236,ASV_97
+Chanos chanos	Detritus and Debris	ASV_236,ASV_97
+Chanos chanos	Zooplankton	ASV_236,ASV_97
+Chanos chanos	Benthic Invertebrates	ASV_236,ASV_97
+Apogon imberbis	Lutjanus argentimaculatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Apogon imberbis	Microspathodon chrysurus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_255,ASV_99
+Apogon imberbis	Ammodytes personatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_22,ASV_1336,ASV_6
+Apogon imberbis	Scartella cristata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_57,ASV_27
+Apogon imberbis	Bairdiella chrysoura	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_158,ASV_72,ASV_47,ASV_76
+Apogon imberbis	Chanos chanos	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_236,ASV_97
+Apogon imberbis	Plagiotremus tapeinosoma	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Apogon imberbis	Benthic Invertebrates	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Plagiotremus tapeinosoma	Primary Producers	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Plagiotremus tapeinosoma	Lutjanus argentimaculatus	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Plagiotremus tapeinosoma	Microspathodon chrysurus	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_255,ASV_99
+Plagiotremus tapeinosoma	Ammodytes personatus	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_22,ASV_1336,ASV_6
+Plagiotremus tapeinosoma	Scartella cristata	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_57,ASV_27
+Plagiotremus tapeinosoma	Bairdiella chrysoura	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_158,ASV_72,ASV_47,ASV_76
+Plagiotremus tapeinosoma	Chanos chanos	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69,ASV_236,ASV_97
+Plagiotremus tapeinosoma	Zooplankton	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69
+Plagiotremus tapeinosoma	Benthic Invertebrates	ASV_1117,ASV_520,ASV_77,ASV_839,ASV_1048,ASV_1181,ASV_69

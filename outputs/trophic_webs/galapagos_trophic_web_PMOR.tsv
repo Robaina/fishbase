@@ -1,0 +1,20 @@
+Predator	Prey	ID
+Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
+Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
+Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
+Cephalopholis sexmaculata	Lutjanus argentimaculatus	ASV_8,ASV_1,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Cephalopholis sexmaculata	Ammodytes americanus	ASV_8,ASV_1,ASV_241,ASV_124
+Cephalopholis sexmaculata	Microspathodon chrysurus	ASV_8,ASV_1,ASV_255,ASV_99
+Cephalopholis sexmaculata	Apogon imberbis	ASV_8,ASV_1,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Lutjanus argentimaculatus	Ammodytes americanus	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_241,ASV_124
+Lutjanus argentimaculatus	Microspathodon chrysurus	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_255,ASV_99
+Lutjanus argentimaculatus	Benthic Invertebrates	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Ammodytes americanus	Zooplankton	ASV_241,ASV_124
+Microspathodon chrysurus	Benthic Invertebrates	ASV_255,ASV_99
+Microspathodon chrysurus	Primary Producers	ASV_255,ASV_99
+Microspathodon chrysurus	Zooplankton	ASV_255,ASV_99
+Apogon imberbis	Ammodytes personatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_22,ASV_1336,ASV_6
+Apogon imberbis	Lutjanus argentimaculatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Apogon imberbis	Ammodytes americanus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_241,ASV_124
+Apogon imberbis	Microspathodon chrysurus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_255,ASV_99
+Apogon imberbis	Benthic Invertebrates	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
