@@ -137,10 +137,12 @@ def build_trophic_web(trophic_info_csv, station_id: str = None):
                         and G.nodes[fish_node]["trophic_level"] < predator_troph
                         and fish_node != predator
                     ):  # Prevent self-loops
-                        G.add_edge(predator, fish_node)
+                        # G.add_edge(predator, fish_node)
+                        G.add_edge(fish_node, predator)
             elif prey_category in G.nodes():
                 # Link to the prey category
-                G.add_edge(predator, prey_category)
+                # G.add_edge(predator, prey_category)
+                G.add_edge(prey_category, predator)
 
     # Ensure all fish nodes are connected
     for node in list(G.nodes()):
@@ -156,7 +158,8 @@ def build_trophic_web(trophic_info_csv, station_id: str = None):
                 best_prey = max(
                     possible_prey, key=lambda x: G.nodes[x]["trophic_level"]
                 )
-                G.add_edge(node, best_prey)
+                # G.add_edge(node, best_prey)
+                G.add_edge(best_prey, node)
             else:
                 # If no suitable prey found, remove the isolated node
                 G.remove_node(node)

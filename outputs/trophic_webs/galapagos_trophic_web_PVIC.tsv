@@ -1,52 +1,52 @@
 Predator	Prey	ID
-Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
-Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
-Scartella cristata	Primary Producers	ASV_57,ASV_27
-Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
-Girella cyanea	Primary Producers	ASV_398,ASV_151
-Bairdiella chrysoura	Ammodytes personatus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_22,ASV_1336,ASV_6
-Bairdiella chrysoura	Scartella cristata	ASV_158,ASV_72,ASV_47,ASV_76,ASV_57,ASV_27
-Bairdiella chrysoura	Girella cyanea	ASV_158,ASV_72,ASV_47,ASV_76,ASV_398,ASV_151
-Bairdiella chrysoura	Chaetodon ocellatus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_229,ASV_119
-Bairdiella chrysoura	Gerres cinereus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_200,ASV_94,ASV_983
+Insects	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Gerres cinereus	Caranx bucculentus	ASV_200,ASV_94,ASV_983,ASV_138,ASV_317,ASV_192,ASV_215
+Gerres cinereus	Selar crumenophthalmus	ASV_200,ASV_94,ASV_983,ASV_151,ASV_62
+Gerres cinereus	Bairdiella chrysoura	ASV_200,ASV_94,ASV_983,ASV_158,ASV_72,ASV_47,ASV_76
+Gerres cinereus	Cephalopholis sexmaculata	ASV_200,ASV_94,ASV_983,ASV_8,ASV_1
+Chaetodon ocellatus	Caranx bucculentus	ASV_229,ASV_119,ASV_138,ASV_317,ASV_192,ASV_215
+Chaetodon ocellatus	Selar crumenophthalmus	ASV_229,ASV_119,ASV_151,ASV_62
+Chaetodon ocellatus	Bairdiella chrysoura	ASV_229,ASV_119,ASV_158,ASV_72,ASV_47,ASV_76
+Chaetodon ocellatus	Cephalopholis sexmaculata	ASV_229,ASV_119,ASV_8,ASV_1
+Caranx bucculentus	Selar crumenophthalmus	ASV_138,ASV_317,ASV_192,ASV_215,ASV_151,ASV_62
+Caranx bucculentus	Bairdiella chrysoura	ASV_138,ASV_317,ASV_192,ASV_215,ASV_158,ASV_72,ASV_47,ASV_76
+Caranx bucculentus	Cephalopholis sexmaculata	ASV_138,ASV_317,ASV_192,ASV_215,ASV_8,ASV_1
+Cephalopods	Caranx bucculentus	ASV_138,ASV_317,ASV_192,ASV_215
+Cephalopods	Selar crumenophthalmus	ASV_151,ASV_62
+Scartella cristata	Caranx bucculentus	ASV_57,ASV_27,ASV_138,ASV_317,ASV_192,ASV_215
+Scartella cristata	Selar crumenophthalmus	ASV_57,ASV_27,ASV_151,ASV_62
+Scartella cristata	Bairdiella chrysoura	ASV_57,ASV_27,ASV_158,ASV_72,ASV_47,ASV_76
+Scartella cristata	Cephalopholis sexmaculata	ASV_57,ASV_27,ASV_8,ASV_1
+Selar crumenophthalmus	Caranx bucculentus	ASV_151,ASV_62,ASV_138,ASV_317,ASV_192,ASV_215
+Selar crumenophthalmus	Bairdiella chrysoura	ASV_151,ASV_62,ASV_158,ASV_72,ASV_47,ASV_76
+Selar crumenophthalmus	Cephalopholis sexmaculata	ASV_151,ASV_62,ASV_8,ASV_1
+Primary Producers	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Primary Producers	Scartella cristata	ASV_57,ASV_27
+Primary Producers	Chaetodon ocellatus	ASV_229,ASV_119
+Primary Producers	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Primary Producers	Girella cyanea	ASV_398,ASV_151
+Primary Producers	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76
+Detritus and Debris	Selar crumenophthalmus	ASV_151,ASV_62
+Detritus and Debris	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76
+Girella cyanea	Caranx bucculentus	ASV_398,ASV_151,ASV_138,ASV_317,ASV_192,ASV_215
+Girella cyanea	Selar crumenophthalmus	ASV_398,ASV_151,ASV_151,ASV_62
+Girella cyanea	Bairdiella chrysoura	ASV_398,ASV_151,ASV_158,ASV_72,ASV_47,ASV_76
+Girella cyanea	Cephalopholis sexmaculata	ASV_398,ASV_151,ASV_8,ASV_1
+Reptiles and Amphibians	Selar crumenophthalmus	ASV_151,ASV_62
+Ammodytes personatus	Caranx bucculentus	ASV_22,ASV_1336,ASV_6,ASV_138,ASV_317,ASV_192,ASV_215
+Ammodytes personatus	Selar crumenophthalmus	ASV_22,ASV_1336,ASV_6,ASV_151,ASV_62
+Ammodytes personatus	Bairdiella chrysoura	ASV_22,ASV_1336,ASV_6,ASV_158,ASV_72,ASV_47,ASV_76
+Ammodytes personatus	Cephalopholis sexmaculata	ASV_22,ASV_1336,ASV_6,ASV_8,ASV_1
 Bairdiella chrysoura	Caranx bucculentus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_138,ASV_317,ASV_192,ASV_215
 Bairdiella chrysoura	Selar crumenophthalmus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_151,ASV_62
-Bairdiella chrysoura	Detritus and Debris	ASV_158,ASV_72,ASV_47,ASV_76
-Bairdiella chrysoura	Benthic Invertebrates	ASV_158,ASV_72,ASV_47,ASV_76
-Bairdiella chrysoura	Primary Producers	ASV_158,ASV_72,ASV_47,ASV_76
-Bairdiella chrysoura	Zooplankton	ASV_158,ASV_72,ASV_47,ASV_76
-Chaetodon ocellatus	Primary Producers	ASV_229,ASV_119
-Chaetodon ocellatus	Benthic Invertebrates	ASV_229,ASV_119
-Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
-Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
-Cephalopholis sexmaculata	Girella cyanea	ASV_8,ASV_1,ASV_398,ASV_151
-Cephalopholis sexmaculata	Bairdiella chrysoura	ASV_8,ASV_1,ASV_158,ASV_72,ASV_47,ASV_76
-Cephalopholis sexmaculata	Chaetodon ocellatus	ASV_8,ASV_1,ASV_229,ASV_119
-Cephalopholis sexmaculata	Gerres cinereus	ASV_8,ASV_1,ASV_200,ASV_94,ASV_983
-Cephalopholis sexmaculata	Caranx bucculentus	ASV_8,ASV_1,ASV_138,ASV_317,ASV_192,ASV_215
-Cephalopholis sexmaculata	Selar crumenophthalmus	ASV_8,ASV_1,ASV_151,ASV_62
-Gerres cinereus	Benthic Invertebrates	ASV_200,ASV_94,ASV_983
-Gerres cinereus	Primary Producers	ASV_200,ASV_94,ASV_983
-Gerres cinereus	Insects	ASV_200,ASV_94,ASV_983
-Gerres cinereus	Zooplankton	ASV_200,ASV_94,ASV_983
-Caranx bucculentus	Ammodytes personatus	ASV_138,ASV_317,ASV_192,ASV_215,ASV_22,ASV_1336,ASV_6
-Caranx bucculentus	Scartella cristata	ASV_138,ASV_317,ASV_192,ASV_215,ASV_57,ASV_27
-Caranx bucculentus	Girella cyanea	ASV_138,ASV_317,ASV_192,ASV_215,ASV_398,ASV_151
-Caranx bucculentus	Chaetodon ocellatus	ASV_138,ASV_317,ASV_192,ASV_215,ASV_229,ASV_119
-Caranx bucculentus	Gerres cinereus	ASV_138,ASV_317,ASV_192,ASV_215,ASV_200,ASV_94,ASV_983
-Caranx bucculentus	Benthic Invertebrates	ASV_138,ASV_317,ASV_192,ASV_215
-Caranx bucculentus	Bairdiella chrysoura	ASV_138,ASV_317,ASV_192,ASV_215,ASV_158,ASV_72,ASV_47,ASV_76
-Caranx bucculentus	Selar crumenophthalmus	ASV_138,ASV_317,ASV_192,ASV_215,ASV_151,ASV_62
-Caranx bucculentus	Cephalopods	ASV_138,ASV_317,ASV_192,ASV_215
-Selar crumenophthalmus	Ammodytes personatus	ASV_151,ASV_62,ASV_22,ASV_1336,ASV_6
-Selar crumenophthalmus	Scartella cristata	ASV_151,ASV_62,ASV_57,ASV_27
-Selar crumenophthalmus	Girella cyanea	ASV_151,ASV_62,ASV_398,ASV_151
-Selar crumenophthalmus	Bairdiella chrysoura	ASV_151,ASV_62,ASV_158,ASV_72,ASV_47,ASV_76
-Selar crumenophthalmus	Chaetodon ocellatus	ASV_151,ASV_62,ASV_229,ASV_119
-Selar crumenophthalmus	Gerres cinereus	ASV_151,ASV_62,ASV_200,ASV_94,ASV_983
-Selar crumenophthalmus	Caranx bucculentus	ASV_151,ASV_62,ASV_138,ASV_317,ASV_192,ASV_215
-Selar crumenophthalmus	Zooplankton	ASV_151,ASV_62
-Selar crumenophthalmus	Benthic Invertebrates	ASV_151,ASV_62
-Selar crumenophthalmus	Detritus and Debris	ASV_151,ASV_62
-Selar crumenophthalmus	Cephalopods	ASV_151,ASV_62
-Selar crumenophthalmus	Reptiles and Amphibians	ASV_151,ASV_62
+Bairdiella chrysoura	Cephalopholis sexmaculata	ASV_158,ASV_72,ASV_47,ASV_76,ASV_8,ASV_1
+Zooplankton	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Zooplankton	Selar crumenophthalmus	ASV_151,ASV_62
+Zooplankton	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Zooplankton	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76
+Benthic Invertebrates	Scartella cristata	ASV_57,ASV_27
+Benthic Invertebrates	Caranx bucculentus	ASV_138,ASV_317,ASV_192,ASV_215
+Benthic Invertebrates	Selar crumenophthalmus	ASV_151,ASV_62
+Benthic Invertebrates	Chaetodon ocellatus	ASV_229,ASV_119
+Benthic Invertebrates	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Benthic Invertebrates	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76

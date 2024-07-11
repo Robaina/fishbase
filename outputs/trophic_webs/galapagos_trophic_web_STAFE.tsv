@@ -1,26 +1,26 @@
 Predator	Prey	ID
-Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
-Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
-Scartella cristata	Primary Producers	ASV_57,ASV_27
-Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
-Bairdiella chrysoura	Ammodytes personatus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_22,ASV_1336,ASV_6
-Bairdiella chrysoura	Scartella cristata	ASV_158,ASV_72,ASV_47,ASV_76,ASV_57,ASV_27
-Bairdiella chrysoura	Microspathodon chrysurus	ASV_158,ASV_72,ASV_47,ASV_76,ASV_255,ASV_99
-Bairdiella chrysoura	Apogon imberbis	ASV_158,ASV_72,ASV_47,ASV_76,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
-Bairdiella chrysoura	Detritus and Debris	ASV_158,ASV_72,ASV_47,ASV_76
-Bairdiella chrysoura	Benthic Invertebrates	ASV_158,ASV_72,ASV_47,ASV_76
-Bairdiella chrysoura	Primary Producers	ASV_158,ASV_72,ASV_47,ASV_76
-Bairdiella chrysoura	Zooplankton	ASV_158,ASV_72,ASV_47,ASV_76
-Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
-Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
-Cephalopholis sexmaculata	Bairdiella chrysoura	ASV_8,ASV_1,ASV_158,ASV_72,ASV_47,ASV_76
-Cephalopholis sexmaculata	Microspathodon chrysurus	ASV_8,ASV_1,ASV_255,ASV_99
-Cephalopholis sexmaculata	Apogon imberbis	ASV_8,ASV_1,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
-Microspathodon chrysurus	Benthic Invertebrates	ASV_255,ASV_99
-Microspathodon chrysurus	Primary Producers	ASV_255,ASV_99
-Microspathodon chrysurus	Zooplankton	ASV_255,ASV_99
-Apogon imberbis	Ammodytes personatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_22,ASV_1336,ASV_6
-Apogon imberbis	Scartella cristata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_57,ASV_27
 Apogon imberbis	Bairdiella chrysoura	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_158,ASV_72,ASV_47,ASV_76
-Apogon imberbis	Microspathodon chrysurus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_255,ASV_99
-Apogon imberbis	Benthic Invertebrates	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Apogon imberbis	Cephalopholis sexmaculata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_8,ASV_1
+Microspathodon chrysurus	Apogon imberbis	ASV_255,ASV_99,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Microspathodon chrysurus	Bairdiella chrysoura	ASV_255,ASV_99,ASV_158,ASV_72,ASV_47,ASV_76
+Microspathodon chrysurus	Cephalopholis sexmaculata	ASV_255,ASV_99,ASV_8,ASV_1
+Scartella cristata	Apogon imberbis	ASV_57,ASV_27,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Scartella cristata	Bairdiella chrysoura	ASV_57,ASV_27,ASV_158,ASV_72,ASV_47,ASV_76
+Scartella cristata	Cephalopholis sexmaculata	ASV_57,ASV_27,ASV_8,ASV_1
+Primary Producers	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Primary Producers	Scartella cristata	ASV_57,ASV_27
+Primary Producers	Microspathodon chrysurus	ASV_255,ASV_99
+Primary Producers	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76
+Ammodytes personatus	Apogon imberbis	ASV_22,ASV_1336,ASV_6,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Ammodytes personatus	Bairdiella chrysoura	ASV_22,ASV_1336,ASV_6,ASV_158,ASV_72,ASV_47,ASV_76
+Ammodytes personatus	Cephalopholis sexmaculata	ASV_22,ASV_1336,ASV_6,ASV_8,ASV_1
+Bairdiella chrysoura	Apogon imberbis	ASV_158,ASV_72,ASV_47,ASV_76,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Bairdiella chrysoura	Cephalopholis sexmaculata	ASV_158,ASV_72,ASV_47,ASV_76,ASV_8,ASV_1
+Zooplankton	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Zooplankton	Microspathodon chrysurus	ASV_255,ASV_99
+Zooplankton	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76
+Detritus and Debris	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76
+Benthic Invertebrates	Apogon imberbis	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Benthic Invertebrates	Scartella cristata	ASV_57,ASV_27
+Benthic Invertebrates	Microspathodon chrysurus	ASV_255,ASV_99
+Benthic Invertebrates	Bairdiella chrysoura	ASV_158,ASV_72,ASV_47,ASV_76

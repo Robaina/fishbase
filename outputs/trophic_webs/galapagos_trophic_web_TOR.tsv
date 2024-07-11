@@ -1,4 +1,4 @@
 Predator	Prey	ID
-Scartella cristata	Primary Producers	ASV_57,ASV_27
-Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
-Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
+Scartella cristata	Cephalopholis sexmaculata	ASV_57,ASV_27,ASV_8,ASV_1
+Primary Producers	Scartella cristata	ASV_57,ASV_27
+Benthic Invertebrates	Scartella cristata	ASV_57,ASV_27

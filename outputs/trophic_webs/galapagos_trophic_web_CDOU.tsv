@@ -1,20 +1,20 @@
 Predator	Prey	ID
-Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
-Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
-Cephalopholis sexmaculata	Gerres cinereus	ASV_8,ASV_1,ASV_200,ASV_94,ASV_983
-Cephalopholis sexmaculata	Ammodytes americanus	ASV_8,ASV_1,ASV_241,ASV_124
-Cephalopholis sexmaculata	Apogon imberbis	ASV_8,ASV_1,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
-Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
-Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
-Scartella cristata	Primary Producers	ASV_57,ASV_27
-Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
-Gerres cinereus	Benthic Invertebrates	ASV_200,ASV_94,ASV_983
-Gerres cinereus	Primary Producers	ASV_200,ASV_94,ASV_983
-Gerres cinereus	Insects	ASV_200,ASV_94,ASV_983
-Gerres cinereus	Zooplankton	ASV_200,ASV_94,ASV_983
-Ammodytes americanus	Zooplankton	ASV_241,ASV_124
-Apogon imberbis	Ammodytes personatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_22,ASV_1336,ASV_6
-Apogon imberbis	Scartella cristata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_57,ASV_27
-Apogon imberbis	Gerres cinereus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_200,ASV_94,ASV_983
-Apogon imberbis	Ammodytes americanus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_241,ASV_124
-Apogon imberbis	Benthic Invertebrates	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Apogon imberbis	Cephalopholis sexmaculata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_8,ASV_1
+Gerres cinereus	Apogon imberbis	ASV_200,ASV_94,ASV_983,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Gerres cinereus	Cephalopholis sexmaculata	ASV_200,ASV_94,ASV_983,ASV_8,ASV_1
+Scartella cristata	Apogon imberbis	ASV_57,ASV_27,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Scartella cristata	Cephalopholis sexmaculata	ASV_57,ASV_27,ASV_8,ASV_1
+Zooplankton	Ammodytes americanus	ASV_241,ASV_124
+Zooplankton	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Zooplankton	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Benthic Invertebrates	Apogon imberbis	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Benthic Invertebrates	Scartella cristata	ASV_57,ASV_27
+Benthic Invertebrates	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Insects	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Ammodytes americanus	Apogon imberbis	ASV_241,ASV_124,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Ammodytes americanus	Cephalopholis sexmaculata	ASV_241,ASV_124,ASV_8,ASV_1
+Primary Producers	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Primary Producers	Scartella cristata	ASV_57,ASV_27
+Primary Producers	Gerres cinereus	ASV_200,ASV_94,ASV_983
+Ammodytes personatus	Apogon imberbis	ASV_22,ASV_1336,ASV_6,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Ammodytes personatus	Cephalopholis sexmaculata	ASV_22,ASV_1336,ASV_6,ASV_8,ASV_1

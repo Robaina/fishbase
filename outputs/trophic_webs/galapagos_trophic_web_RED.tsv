@@ -1,24 +1,24 @@
 Predator	Prey	ID
-Ammodytes personatus	Primary Producers	ASV_22,ASV_1336,ASV_6
-Ammodytes personatus	Zooplankton	ASV_22,ASV_1336,ASV_6
-Scartella cristata	Primary Producers	ASV_57,ASV_27
-Scartella cristata	Benthic Invertebrates	ASV_57,ASV_27
-Cephalopholis sexmaculata	Ammodytes personatus	ASV_8,ASV_1,ASV_22,ASV_1336,ASV_6
-Cephalopholis sexmaculata	Scartella cristata	ASV_8,ASV_1,ASV_57,ASV_27
-Cephalopholis sexmaculata	Fistularia commersonii	ASV_8,ASV_1,ASV_191,ASV_581,ASV_116
-Cephalopholis sexmaculata	Lutjanus argentimaculatus	ASV_8,ASV_1,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
-Cephalopholis sexmaculata	Apogon imberbis	ASV_8,ASV_1,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
-Fistularia commersonii	Ammodytes personatus	ASV_191,ASV_581,ASV_116,ASV_22,ASV_1336,ASV_6
-Fistularia commersonii	Scartella cristata	ASV_191,ASV_581,ASV_116,ASV_57,ASV_27
-Fistularia commersonii	Lutjanus argentimaculatus	ASV_191,ASV_581,ASV_116,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
-Fistularia commersonii	Apogon imberbis	ASV_191,ASV_581,ASV_116,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
-Fistularia commersonii	Zooplankton	ASV_191,ASV_581,ASV_116
-Fistularia commersonii	Benthic Invertebrates	ASV_191,ASV_581,ASV_116
-Fistularia commersonii	Detritus and Debris	ASV_191,ASV_581,ASV_116
-Fistularia commersonii	Other Categories	ASV_191,ASV_581,ASV_116
-Lutjanus argentimaculatus	Scartella cristata	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_57,ASV_27
-Lutjanus argentimaculatus	Benthic Invertebrates	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
-Apogon imberbis	Ammodytes personatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_22,ASV_1336,ASV_6
-Apogon imberbis	Scartella cristata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_57,ASV_27
-Apogon imberbis	Lutjanus argentimaculatus	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
-Apogon imberbis	Benthic Invertebrates	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Apogon imberbis	Fistularia commersonii	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_191,ASV_581,ASV_116
+Apogon imberbis	Cephalopholis sexmaculata	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82,ASV_8,ASV_1
+Other Categories	Fistularia commersonii	ASV_191,ASV_581,ASV_116
+Lutjanus argentimaculatus	Apogon imberbis	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Lutjanus argentimaculatus	Fistularia commersonii	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_191,ASV_581,ASV_116
+Lutjanus argentimaculatus	Cephalopholis sexmaculata	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86,ASV_8,ASV_1
+Scartella cristata	Apogon imberbis	ASV_57,ASV_27,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Scartella cristata	Fistularia commersonii	ASV_57,ASV_27,ASV_191,ASV_581,ASV_116
+Scartella cristata	Lutjanus argentimaculatus	ASV_57,ASV_27,ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Scartella cristata	Cephalopholis sexmaculata	ASV_57,ASV_27,ASV_8,ASV_1
+Fistularia commersonii	Cephalopholis sexmaculata	ASV_191,ASV_581,ASV_116,ASV_8,ASV_1
+Primary Producers	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Primary Producers	Scartella cristata	ASV_57,ASV_27
+Ammodytes personatus	Apogon imberbis	ASV_22,ASV_1336,ASV_6,ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Ammodytes personatus	Fistularia commersonii	ASV_22,ASV_1336,ASV_6,ASV_191,ASV_581,ASV_116
+Ammodytes personatus	Cephalopholis sexmaculata	ASV_22,ASV_1336,ASV_6,ASV_8,ASV_1
+Zooplankton	Ammodytes personatus	ASV_22,ASV_1336,ASV_6
+Zooplankton	Fistularia commersonii	ASV_191,ASV_581,ASV_116
+Benthic Invertebrates	Apogon imberbis	ASV_17,ASV_379,ASV_516,ASV_7,ASV_70,ASV_14,ASV_188,ASV_228,ASV_486,ASV_7,ASV_82
+Benthic Invertebrates	Scartella cristata	ASV_57,ASV_27
+Benthic Invertebrates	Fistularia commersonii	ASV_191,ASV_581,ASV_116
+Benthic Invertebrates	Lutjanus argentimaculatus	ASV_1013,ASV_103,ASV_1085,ASV_517,ASV_1132,ASV_1342,ASV_143,ASV_502,ASV_86
+Detritus and Debris	Fistularia commersonii	ASV_191,ASV_581,ASV_116
