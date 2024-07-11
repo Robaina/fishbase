@@ -9,6 +9,8 @@ from pathlib import Path
 import pandas as pd
 import seaborn as sns
 from typing import List
+import geopandas as gpd
+import contextily as ctx
 
 this_file_path = Path(__file__)
 
@@ -585,3 +587,32 @@ def add_prey_categories_to_trophic_info(csv_path, json_path, output_path):
             writer.writerow(new_row)
 
     print(f"Updated CSV saved to {output_path}")
+
+
+def plot_galapagos_stations(stations_csv, output_figure_path=None, figsize=(10, 10)):
+    """
+    Plots the sampling stations on a map of the Galápagos Islands.
+
+    Parameters:
+    - stations_csv (str): Path to the CSV file containing the sampling stations.
+    - output_figure_path (str or None): Path to save the output figure. If None, the figure is only displayed.
+    """
+    df = pd.read_csv(stations_csv)
+    gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lon2, df.lat2))
+    gdf.set_crs(epsg=4326, inplace=True)
+
+    fig, ax = plt.subplots(figsize=figsize)
+    gdf.plot(ax=ax, color="blue", markersize=50)
+    ctx.add_basemap(ax, crs=gdf.crs.to_string())
+
+    for x, y, label in zip(gdf.geometry.x, gdf.geometry.y, gdf["SiteID"]):
+        ax.text(x, y, label, fontsize=8, ha="right")
+
+    ax.set_title("Sampling Stations in the Galápagos Islands")
+    ax.set_xlabel("Longitude")
+    ax.set_ylabel("Latitude")
+
+    if output_figure_path:
+        plt.savefig(output_figure_path)
+    else:
+        plt.show()
